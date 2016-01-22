@@ -114,7 +114,7 @@ export class MyClass {
 This is for exporting something you are importing.
 ```javascript
 export * from 'src/other_module';
-export { foo, bar } form 'src/other_module';
+export { foo, bar } from 'src/other_module';
 
 // Export other_module's foo as myFoo
 export { foo as myFoo, bar } from 'src/other_module';
