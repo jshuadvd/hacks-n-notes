@@ -51,7 +51,7 @@
            * [Palindromes](computer-science/algorithms/palindromes.md)
            * [Powers](computer-science/algorithms/powers.md)
            * [Sierpinski gasket](computer-science/algorithms/sierpinski_gasket.md)
-       * Towers of Hanoi
+       * [Towers of Hanoi](computer-science/algorithms/towers_of_hanoi.md)
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
