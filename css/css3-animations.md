@@ -98,3 +98,10 @@ To animate the transition between CSS styles. Normally its used with hover but c
 
 `transition-timing-function`
 use `cubic-beziier(x1,y1,x2,y2)` for realistic movements
+
+## Animations using base64 
+
+Turn an animated GIF into base64 using a website like https://www.base64-image.de/
+
+
+[](codepen://cuadraman/XXZYRW)
