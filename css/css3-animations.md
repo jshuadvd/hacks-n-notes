@@ -103,5 +103,6 @@ use `cubic-beziier(x1,y1,x2,y2)` for realistic movements
 
 Turn an animated GIF into base64 using a website like https://www.base64-image.de/
 
+Use it as a CSS `background-image`.
 
 [](codepen://cuadraman/XXZYRW)
