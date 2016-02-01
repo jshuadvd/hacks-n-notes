@@ -64,7 +64,8 @@ Plugin 'pangloss/vim-javascript'
 " JSX highlighting. Depends on 'pangloss/vim-javascript'
 Bundle 'mxw/vim-jsx'
 let g:jsx_ext_required = 0 " to enable jsx in .js files
-let g:syntastic_javascript_checkers = ['eslint'] " Use eslint
+" Use eslint
+let g:syntastic_javascript_checkers = ['eslint'] 
 
 " Inserts pairs of quotes, brackets, braces
 Plugin 'jiangmiao/auto-pairs.git'
@@ -72,7 +73,9 @@ Plugin 'jiangmiao/auto-pairs.git'
 " Autocomplete for JS
 Plugin 'ternjs/tern_for_vim.git'
 let g:tern_map_keys=1 " enables keybindings
-let g:tern_show_argument_hints='on_hold' " display argument type hints when the cursor is left over a function
+" display argument type hints when the cursor
+" is left over a function
+let g:tern_show_argument_hints='on_hold' 
 
 " Nerd tree tabs
 Bundle 'jistr/vim-nerdtree-tabs'
@@ -83,8 +86,8 @@ Plugin 'vim-airline/vim-airline'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
-" Put your non-Plugin stuff after this line
 
+" Put your non-Plugin stuff after this line
 
 set number
 set tabstop=2
@@ -114,3 +117,9 @@ commands | description
 `:PluginClean` | confirms removal of unused plugins; append `!` to auto-approve removal
 
 See `:h vundle` for more details or wiki for FAQ
+
+## Troubleshooting
+
+1. When copy-pasting this config for the second time, the autopair plugin can insert `"` where there
+shouldn't be.  That might comment out code that you need.
+2. Also the long command for the **NERDTREE** might be split by the copy-paste. Make sure it is in one single line.
