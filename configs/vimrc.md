@@ -16,18 +16,23 @@ set nocompatible              " be improved, required
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
+
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
+
 " alternatively, pass a path where Vundle should install plugins
-"call vundle#begin('~/some/path/here')
+" call vundle#begin('~/some/path/here')
 
 " let Vundle manage Vundle, required
+
 Plugin 'VundleVim/Vundle.vim'
 
 " Color theme
+
 Plugin 'crusoexia/vim-monokai'
 
 " plugin on GitHub repo
+
 Plugin 'tpope/vim-fugitive'
 
 " NeerdTree
@@ -80,7 +85,7 @@ Plugin 'vim-airline/vim-airline'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
-"filetype plugin on
+" filetype plugin on
 "
 " Brief help
 " :PluginList       - lists configured plugins
