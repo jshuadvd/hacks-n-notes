@@ -18,7 +18,8 @@ x = y, z => {};     // Syntax Error: must wrap with parens when using multiple p
 ```
 
 ## REAL benefit: lexical binding of 'this'
-You don't need to bind(this) or var _this = this.
+
+You don't need to `bind(this)` or `var _this = this`.
 
 ```javascript
 var widget = {
