@@ -8,7 +8,6 @@
 
 ## Configuration
 
-
 First install [Vundle](https://github.com/VundleVim/Vundle.Vim)
 
 
