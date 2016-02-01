@@ -24,18 +24,16 @@ call vundle#begin()
 " call vundle#begin('~/some/path/here')
 
 " let Vundle manage Vundle, required
-
 Plugin 'VundleVim/Vundle.vim'
 
 " Color theme
-
 Plugin 'crusoexia/vim-monokai'
 
 " plugin on GitHub repo
 
 Plugin 'tpope/vim-fugitive'
 
-" NeerdTree
+" NerdTree
 Plugin 'scrooloose/nerdtree.git'
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif " close vim if NERDTREE is the only window left
 
