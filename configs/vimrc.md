@@ -1,6 +1,8 @@
 # Vimrc
 
-`.vimrc` Configuration file for vim editor in Unix.
+> `.vimrc` Configuration file for vim editor in Unix.
+
+First install [Vundle](https://github.com/VundleVim/Vundle.Vim)
 
 
 ```shell
