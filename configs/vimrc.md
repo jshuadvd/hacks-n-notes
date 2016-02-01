@@ -11,7 +11,7 @@
 First install [Vundle](https://github.com/VundleVim/Vundle.Vim)
 
 
-```vimshell
+```
 set nocompatible              " be improved, required
 filetype off                  " required
 
@@ -72,7 +72,6 @@ let g:tern_show_argument_hints='on_hold' " display argument type hints when the 
 
 " Nerd tree tabs
 Bundle 'jistr/vim-nerdtree-tabs'
-let g:ctrlp_map = '<c-p>' " Map :CtrlP
 
 " Cool status bar
 Plugin 'vim-airline/vim-airline'
