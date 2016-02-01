@@ -2,6 +2,13 @@
 
 > `.vimrc` Configuration file for vim editor in Unix.
 
+## Preview
+
+![](vim-preview.png)
+
+## Configuration
+
+
 First install [Vundle](https://github.com/VundleVim/Vundle.Vim)
 
 
