@@ -120,6 +120,6 @@ See `:h vundle` for more details or wiki for FAQ
 
 ## Troubleshooting
 
-1. When copy-pasting this config for the second time, the autopair plugin can insert `"` where there
+1. When *copy-pasting* this config for the second time, the autopair plugin can insert `"` where there
 shouldn't be.  That might comment out code that you need.
-2. Also the long command for the **NERDTREE** might be split by the copy-paste. Make sure it is in one single line.
+2. Also the long command for the **NERDTREE** might be split by the *copy-paste*. Make sure it is in one single line.
