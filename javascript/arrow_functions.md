@@ -35,3 +35,9 @@ Widget.init();
 ```
 
 You can't replace all functions with Arrow functions because it will mess up *this*.
+
+## Auto call
+
+```javascript
+(() => "foobar")() // returns "foobar" 
+```
