@@ -35,7 +35,8 @@ Plugin 'tpope/vim-fugitive'
 
 " NerdTree
 Plugin 'scrooloose/nerdtree.git'
-autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif " close vim if NERDTREE is the only window left
+" close vim if NERDTREE is the only window left
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif 
 
 
 " Ctrl-P to search/open files
@@ -82,16 +83,6 @@ Plugin 'vim-airline/vim-airline'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
-" To ignore plugin indent changes, instead use:
-" filetype plugin on
-"
-" Brief help
-" :PluginList       - lists configured plugins
-" :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
-" :PluginSearch foo - searches for foo; append `!` to refresh local cache
-" :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
-"
-" see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
 
@@ -109,3 +100,17 @@ syntax on
 set t_Co=256
 colorscheme monokai
 ```
+
+## Vundle help
+
+To ignore plugin indent changes, instead use:
+`filetype plugin on`
+
+commands | description
+-------- | -----------
+`:PluginList` | lists configured plugins
+`:PluginInstall` | installs plugins; append `!` to update or just `:PluginUpdate`
+`:PluginSearch foo` | searches for foo; append `!` to refresh local cache
+`:PluginClean` | confirms removal of unused plugins; append `!` to auto-approve removal
+
+See `:h vundle` for more details or wiki for FAQ
