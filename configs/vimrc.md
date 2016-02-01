@@ -5,8 +5,8 @@
 First install [Vundle](https://github.com/VundleVim/Vundle.Vim)
 
 
-```shell
-set nocompatible              " be iMproved, required
+```vimshell
+set nocompatible              " be improved, required
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
@@ -26,6 +26,8 @@ Plugin 'tpope/vim-fugitive'
 
 " NeerdTree
 Plugin 'scrooloose/nerdtree.git'
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif " close vim if NERDTREE is the only window left
+
 
 " Ctrl-P to search/open files
 Plugin 'ctrlpvim/ctrlp.vim.git'
@@ -52,9 +54,22 @@ Plugin 'pangloss/vim-javascript'
 " JSX highlighting. Depends on 'pangloss/vim-javascript'
 Bundle 'mxw/vim-jsx'
 let g:jsx_ext_required = 0 " to enable jsx in .js files
-
-
 let g:syntastic_javascript_checkers = ['eslint'] " Use eslint
+
+" Inserts pairs of quotes, brackets, braces
+Plugin 'jiangmiao/auto-pairs.git'
+
+" Autocomplete for JS
+Plugin 'ternjs/tern_for_vim.git'
+let g:tern_map_keys=1 " enables keybindings
+let g:tern_show_argument_hints='on_hold' " display argument type hints when the cursor is left over a function
+
+" Nerd tree tabs
+Bundle 'jistr/vim-nerdtree-tabs'
+let g:ctrlp_map = '<c-p>' " Map :CtrlP
+
+" Cool status bar
+Plugin 'vim-airline/vim-airline'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -80,6 +95,8 @@ set autoindent
 set smarttab
 set colorcolumn=80,100,120
 set ruler
+let mapleader = "-"
+nnoremap <leader>w <c-w>w
 syntax on
 set t_Co=256
 colorscheme monokai
