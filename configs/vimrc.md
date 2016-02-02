@@ -33,7 +33,7 @@ Plugin 'crusoexia/vim-monokai'
 
 Plugin 'tpope/vim-fugitive'
 
-" NerdTree
+" NERDTREE
 Plugin 'scrooloose/nerdtree.git'
 " close vim if NERDTREE is the only window left
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif 
@@ -77,7 +77,7 @@ let g:tern_map_keys=1 " enables keybindings
 " is left over a function
 let g:tern_show_argument_hints='on_hold' 
 
-" Nerd tree tabs
+" NERDTREE tabs
 Bundle 'jistr/vim-nerdtree-tabs'
 
 " Cool status bar
@@ -126,3 +126,4 @@ See `:h vundle` for more details or wiki for FAQ
 1. When *copy-pasting* this config for the second time, the autopair plugin can insert `"` where there
 shouldn't be.  That might comment out code that you need.
 2. Also the long command for the **NERDTREE** might be split by the *copy-paste*. Make sure it is in one single line.
+3. If tern server fails, make sure you run `npm i` in the bundle directory.
