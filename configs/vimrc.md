@@ -101,7 +101,8 @@ set smarttab
 set colorcolumn=80,100,120
 set ruler
 let mapleader = "-"
-nnoremap <leader>w <c-w>w
+nnoremap <leader>w <c-w>
+nnoremap <leader>n :NERDTreeToggle<CR>
 syntax on
 set t_Co=256
 colorscheme monokai
