@@ -8,8 +8,14 @@
 
 ## Configuration
 
+### Package manager
+
 First install [Vundle](https://github.com/VundleVim/Vundle.Vim)
 
+### Fonts & Symbols
+
+- In OSX, install [powerline symbols](https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation) for Airline plugin 
+- In iTerm, set non-ASCII font to Powerline.
 
 ```
 set nocompatible              " be improved, required
@@ -82,6 +88,8 @@ Bundle 'jistr/vim-nerdtree-tabs'
 
 " Cool status bar
 Plugin 'vim-airline/vim-airline'
+" use powerline symbols
+let g:airline_powerline_fonts = 1
 
 " EditorConfig
 Plugin 'editorconfig/editorconfig-vim'
