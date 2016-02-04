@@ -47,7 +47,7 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 
 " Ctrl-P to search/open files
 Plugin 'ctrlpvim/ctrlp.vim.git'
-let g:ctrlp_map = '<c-p>' " Map :CtrlP
+let g:ctrlp_map = '<leader>p' " Map :CtrlP
 let g:ctrlp_cmd = 'CtrlP' " Map :CtrlP
 let g:ctrlp_custom_ignore = {
   \ 'dir':  '\v[\/](\.git|node_modules|build)$',
