@@ -11,7 +11,9 @@
 
 Recursive algorithm composed of two stages:
 
-1. Split the array into units. 
+1. Split the array into halves. Θ(1) 
 2. Merge the units in a sorted way. Θ$$(n)$$
+
+
 
 
