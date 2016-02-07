@@ -26,3 +26,13 @@ Finds items from an ordered list.
 
 - Divide half portion of the list that could contain the searched item.
 - Repeat until narrow to one item.
+
+## Sort algorithm performance comparison
+
+Name | Best | Average | Worst | Memory | Stable
+---- | ---- | ------- | ----- | ------ | ------
+Bubble Sort | $$n$$ | $$n^2$$ | $$n^2$$ | 1 | Yes
+Selection Sort | $$n^2$$ | $$n^2$$ | $$n^2$$ | 1 | No
+Insertion Sort | $$n$$ | $$n^2$$ | $$n^2$$ | 1 | Yes
+Merge Sort | $$nlogn$$ | $$nlogn$$ | $$nlogn$$ | worst case is n | Yes
+Quick Sort | $$nlogn$$ | $$nlogn$$ | $$n^2$$ | $$logn$$ on avg. Worst $$n$$| No
