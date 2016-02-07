@@ -2,6 +2,10 @@
 
 > One of the fastest sorting algorithms. Used by general computing and machine learning.
 
+- This is the most important algorithm.
+- Discovered by John von Neumann (1945).
+- Uses the methodology **divide and conquer**.
+
 ### Performance
 
 Θ$$(nlgn)$$
