@@ -37,8 +37,6 @@ Plugin 'crusoexia/vim-monokai'
 
 " plugin on GitHub repo
 
-Plugin 'tpope/vim-fugitive'
-
 " NERDTREE
 Plugin 'scrooloose/nerdtree.git'
 " close vim if NERDTREE is the only window left
@@ -75,16 +73,6 @@ let g:syntastic_javascript_checkers = ['eslint']
 
 " Inserts pairs of quotes, brackets, braces
 Plugin 'jiangmiao/auto-pairs.git'
-
-" Autocomplete for JS
-Plugin 'ternjs/tern_for_vim.git'
-let g:tern_map_keys=1 " enables keybindings
-" display argument type hints when the cursor
-" is left over a function
-let g:tern_show_argument_hints='on_hold' 
-
-" NERDTREE tabs
-Bundle 'jistr/vim-nerdtree-tabs'
 
 " Cool status bar
 Plugin 'vim-airline/vim-airline'
