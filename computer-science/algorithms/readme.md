@@ -36,3 +36,4 @@ Selection Sort | $$n^2$$ | $$n^2$$ | $$n^2$$ | 1 | No
 Insertion Sort | $$n$$ | $$n^2$$ | $$n^2$$ | 1 | Yes
 Merge Sort | $$nlogn$$ | $$nlogn$$ | $$nlogn$$ | worst case is n | Yes
 Quick Sort | $$nlogn$$ | $$nlogn$$ | $$n^2$$ | $$logn$$ on avg. Worst $$n$$| No
+Heap Sort | $$nlogn$$ | $$nlogn$$ | $$nlogn$$ | 1 | No
