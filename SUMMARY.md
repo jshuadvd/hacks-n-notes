@@ -53,7 +53,7 @@
            * [Sierpinski gasket](computer-science/algorithms/sierpinski_gasket.md)
        * [Towers of Hanoi](computer-science/algorithms/towers_of_hanoi.md)
        * [Merge Sort](computer-science/algorithms/merge_sort.md)
-       * Quick Sort
+       * [Quick Sort](computer-science/algorithms/quick_sort.md)
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
