@@ -1,2 +1,3 @@
 # Quick Sort
 
+> Sorting algorithm
