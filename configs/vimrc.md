@@ -17,9 +17,11 @@ First install [Vundle](https://github.com/VundleVim/Vundle.Vim)
 - In OSX, install [powerline symbols](https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation) for Airline plugin 
 - In iTerm, set non-ASCII font to Powerline.
 
-### .vimrc file
+### Setup `.vimrc` file
 
 Usually found in `~/.vimrc`
+
+> Replace your current `.vimrc` file content with the following blob.
 
 
 ```
@@ -107,7 +109,7 @@ set t_Co=256
 colorscheme monokai
 ```
 
-## Vundle help
+## Vundle
 
 > Vundle is the plugin/package manager
 
@@ -123,7 +125,7 @@ commands | description
 
 See `:h vundle` for more details or wiki for FAQ
 
-## Plugins
+## Plugins installed in this `.vimrc`
 
 
 name | source | description
