@@ -131,9 +131,12 @@ name | source | description
 Monokai | `crusoexia/vim-monokai` | Color theme like SublimeText
 NerdTree | `scrooloose/nerdtree.git` | Navigator side-bar
 Ctrl-P | `ctrlpvim/ctrlp.vim.git` | File opener
-
-
-
+Syntastic | `scrooloose/syntastic.git` | Syntax highlighting
+Vim Javascript | `pangloss/vim-javascript` | JS highlighting
+Vim JSX | `mxw/vim-jsx` | JSX support
+Auto Pairs | `jiangmiao/auto-pairs.git` | Automatically closes `{}`,`[]`, `""`, `''`, etc.
+Airline | `vim-airline/vim-airline` | Cool status bar
+Editor Config | `editorconfig/editorconfig-vim` | Enables text editor rules in `.editorconfig`
 
 
 ## Troubleshooting
