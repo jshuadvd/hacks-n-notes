@@ -17,11 +17,16 @@ First install [Vundle](https://github.com/VundleVim/Vundle.Vim)
 - In OSX, install [powerline symbols](https://powerline.readthedocs.org/en/latest/installation/linux.html#font-installation) for Airline plugin 
 - In iTerm, set non-ASCII font to Powerline.
 
+### .vimrc file
+
+Usually found in `~/.vimrc`
+
+
 ```
 set nocompatible              " be improved, required
 filetype off                  " required
 
-" set the runtime path to include Vundle and initialize
+" Vundle is the package manager
 
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
@@ -34,8 +39,6 @@ Plugin 'VundleVim/Vundle.vim'
 
 " Color theme
 Plugin 'crusoexia/vim-monokai'
-
-" plugin on GitHub repo
 
 " NERDTREE
 Plugin 'scrooloose/nerdtree.git'
@@ -106,6 +109,8 @@ colorscheme monokai
 
 ## Vundle help
 
+> Vundle is the plugin/package manager
+
 To ignore plugin indent changes, instead use:
 `filetype plugin on`
 
@@ -117,6 +122,19 @@ commands | description
 `:PluginClean` | confirms removal of unused plugins; append `!` to auto-approve removal
 
 See `:h vundle` for more details or wiki for FAQ
+
+## Plugins
+
+
+name | source | description
+---- | ------ | -----------
+Monokai | `crusoexia/vim-monokai` | Color theme like SublimeText
+NerdTree | `scrooloose/nerdtree.git` | Navigator side-bar
+Ctrl-P | `ctrlpvim/ctrlp.vim.git` | File opener
+
+
+
+
 
 ## Troubleshooting
 
