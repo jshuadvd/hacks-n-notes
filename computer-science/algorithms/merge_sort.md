@@ -19,8 +19,11 @@ Recursive algorithm composed of two stages:
 
 The recursive part brings the $$lgn$$ since the splitting creates a *binary tree* data structure which reduces by a power of two each increase of $$n$$.
 
+## My example code using recursion 
 
-## Example code
+pgGqpa
+
+## Example code from Khan Academy
 
 ```javascript
 
