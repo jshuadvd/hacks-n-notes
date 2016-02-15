@@ -21,7 +21,7 @@ The recursive part brings the $$lgn$$ since the splitting creates a *binary tree
 
 ## My example code using recursion 
 
-pgGqpa
+[](codepen://cuadraman/pgGqpa?height=440)
 
 ## Example code from Khan Academy
 
