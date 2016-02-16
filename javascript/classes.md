@@ -67,3 +67,17 @@ class Godzilla extends Monster {
     }
 }
 ```
+
+### Static methods destructuring
+
+```javascript
+class Monster {
+    static sayHello () {
+        console.log('hello');
+    }
+}
+
+const { sayHello } = Monster;
+
+sayHello(); // 'hello'
+```
