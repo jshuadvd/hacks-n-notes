@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [LICENSE](LICENSE.md)
    * [Summary](SUMMARY.md)
-   * HTML
+   * [HTML](html.md)
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
        * [Basics](shell/basics.md)
