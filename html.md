@@ -3,4 +3,4 @@
 
 ## Input types
 
-http://codepen.io/cuadraman/pen/RrOMBB
+[](codepen://cuadraman/RrOMBB)
