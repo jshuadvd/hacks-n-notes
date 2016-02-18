@@ -1,5 +1,8 @@
 # Event Sourcing
 
+Projection TK
+
+Read-model TK
 
 ## Bus trap
 
