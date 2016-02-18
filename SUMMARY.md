@@ -67,4 +67,5 @@
    * [Debugging](debugging.md)
 * [C#](c-sharp.md)
 * [Graphics](graphics.md)
+* Patterns
 
