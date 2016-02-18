@@ -65,7 +65,7 @@
    * [Gitbook config](configs/gitbook_config.md)
 * Browser
    * [Debugging](debugging.md)
-* Patterns
+* [Patterns](patterns.md)
 * [C#](c-sharp.md)
 * [Graphics](graphics.md)
 
