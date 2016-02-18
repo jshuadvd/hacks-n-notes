@@ -1,3 +1,3 @@
 # Patterns
 
-## Event Source
+## Event Sourcing
