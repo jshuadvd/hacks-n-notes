@@ -66,6 +66,7 @@
 * Browser
    * [Debugging](debugging.md)
 * [Patterns](patterns.md)
+   * Event Sourcing
 * [C#](c-sharp.md)
 * [Graphics](graphics.md)
 
