@@ -3,4 +3,4 @@
 
 ## SVG icons 
 
-http://codepen.io/cuadraman/pen/LGoXwz
+[](codepen://cuadraman/LGoXwz)
