@@ -63,7 +63,7 @@
    * [Oh my zshell](configs/zshrc.md)
    * [Vimrc](configs/vimrc.md)
    * [Gitbook config](configs/gitbook_config.md)
-   * Ubuntu
+   * [Ubuntu](configs/ubuntu.md)
 * Browser
    * [Debugging](debugging.md)
 * [Patterns](patterns.md)
