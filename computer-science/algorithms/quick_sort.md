@@ -15,5 +15,8 @@ Worst case | Best case
 
 > In practice *Quick Sort* outperforms *Merge Sort*, *Insertion Sort* and *Selection Sort*.
 
+## Pseudo-code
+
+
 
 
