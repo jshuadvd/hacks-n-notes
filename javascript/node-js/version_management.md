@@ -7,3 +7,5 @@ In February 19, 2016, React finally announced changing their [versioning scheme]
 
 
 Flexibility to add new *backwards-compatible* features and bug-fixes in **minor releases**. 
+
+Flexibility to support two major versions of a module at the same time.
