@@ -11,3 +11,6 @@ Flexibility to add new *backwards-compatible* features and bug-fixes in **minor 
 Flexibility to support two major versions of a module at the same time.
 
 Minor revision releases should include deprecation warnings and tips for how to upgrade an API or pattern that will be removed or changed in the future.
+
+Should be compatible with two major versions at the same time. Do this by introducing new APIs before completely removing the old ones, thereby avoiding version cliffs.
+
