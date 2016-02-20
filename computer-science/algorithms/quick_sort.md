@@ -13,6 +13,7 @@ Worst case | Best case
 ---------- | ---------
 Θ($$n^2$$) | Θ($$nlogn$$)
 
-> In practice *Quick Sort* outperforms *Merge Sort*.
+> In practice *Quick Sort* outperforms *Merge Sort*, *Insertion Sort* and *Selection Sort*.
+
 
 
