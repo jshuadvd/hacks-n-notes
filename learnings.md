@@ -49,4 +49,5 @@
 1. How to write less complex code using inline code.
 1. SVG icons with React instead of fonts
 1. BabelJS v5
+1. Localization (basics)
 
