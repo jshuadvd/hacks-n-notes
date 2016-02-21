@@ -23,7 +23,8 @@ Divide by choosing any element (pivot) in the sub-array **array[p..r]**.
 
 #### Partition
 
-Arrange the elements smaller than **pivot** to its left. Then arrange the elements bigger than the **pivot** to its right.
+1. Arrange the elements smaller than **pivot** to its left.
+2. Then arrange the elements bigger than the **pivot** to its right.
 
 
 
