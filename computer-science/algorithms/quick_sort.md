@@ -36,3 +36,44 @@ Recursively call the divide step until the sub-arrays less than 2 elements long.
 Just concatenate the sub-arrays. Since the elements got sorted on the partitioning, there is no work left to do.
 
 
+## My example
+
+
+[](codepen://cuadraman/QyYqEZ)
+
+```javascript
+
+function partition (array, leftArray, rightArray, pivot) {
+  if (!array.length) {
+    return {leftArray, rightArray};
+  }
+  
+  const newLeftArray = array[0] < pivot ?
+    [...leftArray, array[0]] :
+    leftArray.slice(0);
+        
+  const newRightArray = array[0] < pivot ?
+    rightArray.slice(0) :
+    [...rightArray, array[0]];
+  
+  const newArray = array.slice(1);
+        
+  return partition(newArray, newLeftArray, newRightArray, pivot);
+}
+
+function quickSort (array) {
+  // When to stop
+  if (array.length < 2) {
+    return array;
+  }
+  // Divide
+  const pivot = array[array.length - 1];
+  const { leftArray, rightArray } = partition(
+    array.slice(0, array.length - 1), [], [], pivot);
+  // Conquer
+  const sortedLeftArray = quickSort(leftArray);
+  const sortedRightArray = quickSort(rightArray)
+  const sortedArray = [...sortedLeftArray, pivot, ...sortedRightArray];
+  return sortedArray;
+}
+```
