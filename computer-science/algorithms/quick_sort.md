@@ -29,7 +29,10 @@ Divide by choosing any element (pivot) in the sub-array **array[p..r]**.
 
 ### Conquer
 
-Recursively call the divide step until the sub-arrays 2 elements long.
+Recursively call the divide step until the sub-arrays less than 2 elements long.
 
+### Combine
+
+Just concatenate the sub-arrays. Since the elements got sorted on the partitioning, there is no work left to do.
 
 
