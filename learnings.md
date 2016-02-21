@@ -34,7 +34,6 @@
 1. node-inspector
 1. Open Source contributions
 1. npm scripts
-1. Jenkins
 1. Mermaid flowcharts & sequence diagrams
 1. JSX inline styles
 1. EventSourceJS
@@ -63,11 +62,13 @@
 1. MixpanelJS
 1. Browser polyfills
 1. SQL basics
-1. 
-1. 
-1. 
-1. 
-1. 
+1. Virtual Box
+1. CSS (Less, Sass, Stylus)
+1. Jest (Unit test)
+1. Jenkins
+1. Vagrant
+1. Ubuntu (GUI)
+1. OSX
 
 ## 2013
 
