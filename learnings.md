@@ -21,6 +21,8 @@
 1. BabelJS v5
 1. bash
 1. BrowserifyJS
+1. CircleCI
+1. CodeCov.io
 1. ESLint
 1. FluxJS
 1. EcmaScript 6 (2015)
@@ -31,6 +33,7 @@
 1. git
 1. GitHub workflow
 1. Gzip in NodeJS apps
+1. Heroku
 1. How to write less complex code using inline code.
 1. iTerm2
 1. JIRA Agile
@@ -63,13 +66,16 @@
 1. CSS (Less, Sass, Stylus)
 1. CSS3 Animations
 1. CSS3 Transforms
+1. CSV parsing 
 1. C#/.Net
+1. Geolocation (Browser API)
 1. Gulp
 1. HTML5 video
 1. Jest (Unit test)
 1. Jenkins
-1. OSX
+1. Local Storage (Browser API)
 1. MixpanelJS
+1. OSX
 1. ReactJS
 1. SQL basics
 1. svn
