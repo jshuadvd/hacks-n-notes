@@ -21,6 +21,7 @@
 1. BabelJS v5
 1. bash
 1. BrowserifyJS
+1. ESLint
 1. FluxJS
 1. EcmaScript 6 (2015)
 1. EventSourceJS
@@ -71,6 +72,7 @@
 1. MixpanelJS
 1. ReactJS
 1. SQL basics
+1. svn
 1. Ubuntu (GUI)
 1. Vagrant
 1. vim
