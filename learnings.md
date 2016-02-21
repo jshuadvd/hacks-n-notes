@@ -9,13 +9,13 @@
 ### January
 
 1. BabelJS v6
-1. JSX with pure functions (stateless)
 1. Insertion Sort
+1. JSX with pure functions (stateless)
 1. Recursive algorithms
-1. Replace Atom editor with vim (terminal)
 1. Selection Sort
 1. SentryJS with tags & user tracking.
 1. Towers of Hanoi
+1. vim vundle and plugins
 1. Websockets with PusherJS (basics)
 
 ## 2015
