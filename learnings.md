@@ -51,6 +51,7 @@
 1. Localization (basics)
 1. Browserify
 1. Google Maps API (basics)
+1. momentJS
 
 ## 2014
 
