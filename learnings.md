@@ -20,6 +20,7 @@
 1. Array.reduce()
 1. BabelJS v5
 1. bash
+1. Binary Search
 1. BrowserifyJS
 1. CircleCI
 1. CodeCov.io
