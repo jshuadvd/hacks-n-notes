@@ -21,4 +21,8 @@ Worst case | Best case
 
 Divide by choosing any element (pivot) in the sub-array **array[p..r]**.
 
+#### Partition
+
+Arrange the elements smaller than **pivot** to its left. Then arrange the elements bigger than the **pivot** to its right.
+
 
