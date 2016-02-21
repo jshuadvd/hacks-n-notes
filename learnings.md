@@ -62,7 +62,7 @@
 1. C#/.Net
 1. MixpanelJS
 1. Browser polyfills
-1. 
+1. SQL basics
 1. 
 1. 
 1. 
@@ -76,4 +76,17 @@
 1. Google Analytics
 1. CSS Media Queries
 1. Modernizr polyfills
-1. 
+1. UI mocks with Adobe Illustrator
+1. UX & wire-frames 
+1. Product Management
+1. App Store and Play Store 
+1. MailChimp
+
+## 2012
+
+1. Programming basics (loops, basic data structures)
+1. C, C++, C# (basics)
+1. HTML, CSS, JavaScript (basics)
+1. SQL (fundamentals)
+1. .NET (fundamentals)
+1. Computer Science (fundamentals)
