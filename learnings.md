@@ -13,7 +13,7 @@
 1. Recursive algorithms
 1. Towers of Hanoi
 1. BabelJS v6
-1. 
+1. CSS Flexbox
 
 ## 2015
 
