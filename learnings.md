@@ -9,12 +9,13 @@
 ### January
 
 1. BabelJS v6
-1. Insertion Sort
+1. Insertion Sort algorithm
 1. JSX with pure functions (stateless)
+1. Quick Sort algorithm
 1. Recursive algorithms
-1. Selection Sort
+1. Selection Sort algorithm
 1. SentryJS with tags & user tracking.
-1. Towers of Hanoi
+1. Towers of Hanoi algorithm
 1. vim vundle and plugins
 1. Websockets with PusherJS (basics)
 
