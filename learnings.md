@@ -52,6 +52,7 @@
 1. Browserify
 1. Google Maps API (basics)
 1. momentJS
+1. Gzip in NodeJS apps
 
 ## 2014
 
