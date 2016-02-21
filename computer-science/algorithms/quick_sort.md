@@ -17,6 +17,8 @@ Worst case | Best case
 
 ## Pseudo-code
 
+### Divide
 
+Divide by choosing any element (pivot) in the sub-array **array[p..r]**.
 
 
