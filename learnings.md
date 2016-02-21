@@ -60,8 +60,8 @@
 1. CSS3 Animations
 1. CSS3 Transforms
 1. C#/.Net
-1. 
-1. 
+1. MixpanelJS
+1. Browser polyfills
 1. 
 1. 
 1. 
@@ -73,7 +73,7 @@
 
 1. JQuery
 1. CSS
-1. 
-1. 
-1. 
+1. Google Analytics
+1. CSS Media Queries
+1. Modernizr polyfills
 1. 
