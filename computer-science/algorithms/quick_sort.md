@@ -29,6 +29,7 @@ Divide by choosing any element (pivot) in the sub-array **array[p..r]**.
 
 ### Conquer
 
+Recursively call the divide step until the sub-arrays 2 elements long.
 
 
 
