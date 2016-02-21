@@ -51,3 +51,29 @@
 1. BabelJS v5
 1. Localization (basics)
 
+## 2014
+
+1. HTML5 video
+1. CSS Bootstrap
+1. BackboneJS
+1. ReactJS
+1. CSS3 Animations
+1. CSS3 Transforms
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+
+## 2013
+
+1. JQuery
+1. CSS
+1. 
+1. 
+1. 
+1. 
