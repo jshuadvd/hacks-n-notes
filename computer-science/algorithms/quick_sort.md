@@ -26,3 +26,4 @@ Divide by choosing any element (pivot) in the sub-array **array[p..r]**.
 Arrange the elements smaller than **pivot** to its left. Then arrange the elements bigger than the **pivot** to its right.
 
 
+
