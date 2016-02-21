@@ -2,10 +2,13 @@
 
 ## 2016
 
+### February
+
+1. CSS Flexbox
+
 ### January
 
 1. BabelJS v6
-1. CSS Flexbox
 1. JSX with pure functions (stateless)
 1. Insertion Sort
 1. Recursive algorithms
