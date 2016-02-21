@@ -18,6 +18,7 @@
 ## 2015
 
 1. Array.reduce()
+1. Asymptotic Notation (BigO)
 1. BabelJS v5
 1. bash
 1. Binary Search
