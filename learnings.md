@@ -50,6 +50,7 @@
 1. BabelJS v5
 1. Localization (basics)
 1. Browserify
+1. Google Maps API (basics)
 
 ## 2014
 
@@ -71,6 +72,7 @@
 1. Ubuntu (GUI)
 1. OSX
 1. Gulp
+1. AJAX
 
 ## 2013
 
