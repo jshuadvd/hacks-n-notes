@@ -32,6 +32,7 @@
 1. Google Maps API (basics)
 1. git
 1. GitHub workflow
+1. grep
 1. Gzip in NodeJS apps
 1. Heroku
 1. How to write less complex code using inline code.
