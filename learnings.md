@@ -49,6 +49,7 @@
 1. SVG icons with React instead of fonts
 1. BabelJS v5
 1. Localization (basics)
+1. Browserify
 
 ## 2014
 
