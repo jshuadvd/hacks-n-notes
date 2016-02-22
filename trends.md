@@ -12,6 +12,8 @@
 
 ## Environment
 1. renewable energies 
+1. population growth, then stabilization.
+1. less nature spaces
 
 ## Food
 1. healthier foods 
@@ -44,7 +46,9 @@
 ## Travel
 1. more space travel
 1. electric transport 
+1. faster transportation 
 1. faster shipping 
+1. home delivery 
 
 
 ## Work
@@ -56,27 +60,22 @@
 ## Uncatheogrized
 
 1. less privacy 
-1. home delivery 
 1. more services 
 1. multi cultural countries 
 1. more niche information 
 1. more educational simulators
 1. more and stricter laws and government control
 1. less pensions and gov sponsored healthcare
-1. faster transportation 
 1. more borders without border control
 1. more entertainment
 1. more traffic jams. 
 1. less cash transactions 
 1. more specialized professions 
-1. less nature 
-1. religions with less power 
 1. cloud data storage costs going down (moores law )
 1. sharing economy 
 1. less middle men 
 1. more and more complex regulations 
 1. ubiquitous gadgets 
-1. population growth 
 1. smarter homes
 1. self driving cars
 1. wearables
