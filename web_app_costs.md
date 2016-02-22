@@ -38,7 +38,7 @@
 
 ## Monitoring
 1. Client-side (eg. sentry, user snap, new relic)
-1. elastic search 
+1. Server-side (eg. elastic search )
 
 ## Internet Marketing
 1. Online ads (eg. Google Adwords, facebook ads, Virool)
