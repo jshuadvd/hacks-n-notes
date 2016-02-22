@@ -75,4 +75,5 @@
 * [Graphics](graphics.md)
 * [Business](business.md)
    * [Trends](trends.md)
+   * Web App costs
 
