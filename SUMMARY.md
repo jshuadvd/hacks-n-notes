@@ -74,5 +74,5 @@
 * [C#](c-sharp.md)
 * [Graphics](graphics.md)
 * [Business](business.md)
-   * Trends
+   * [Trends](trends.md)
 
