@@ -5,7 +5,9 @@
 - Don't lose info (storing data has become very cheap!)
 - Has to be recorded from Time 0.
 - Based on the alpha-beta algorithm.
-
+- You can use Event Sourcing to run smoke-tests.
+- Can prevent **super-user (root) attacks**
+- Event Sourcing is like **WORM drive (Write Once, Read Many)**.
 
 ## Projection
 
