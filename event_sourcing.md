@@ -1,8 +1,16 @@
 # Event Sourcing
 
-Projection TK
+> **Event Sourcing** is Functional, not Object-Oriented.
 
-Read-model TK
+## Projection
+
+## Read-model 
+
+> So we don't need to query the projection.
+
+## Actor
+
+
 
 ## Bus trap
 
