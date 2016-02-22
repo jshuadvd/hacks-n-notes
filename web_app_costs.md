@@ -34,10 +34,10 @@
 1. npm
 
 ## 3rd party APIs
-1. twilio
+1. eg. Google Maps, Twilio
 
 ## Monitoring
-1. sentry 
+1. Client-side (eg. sentry, user snap, new relic)
 1. elastic search 
 
 ## Internet Marketing
