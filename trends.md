@@ -1,5 +1,7 @@
 # Trends
 
+> The following are trends that I am detecting.
+
 ## Communication
 1. more communication 
 1. more information 
