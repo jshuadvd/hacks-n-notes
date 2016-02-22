@@ -75,5 +75,5 @@
 * [Graphics](graphics.md)
 * [Business](business.md)
    * [Trends](trends.md)
-   * Web App costs
+   * [Web App costs](web_app_costs.md)
 
