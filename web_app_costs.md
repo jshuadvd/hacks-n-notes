@@ -10,16 +10,18 @@
 
 ## IT
 1. VPN
+1. Wi-Fi
 
 
 ## Hardware
-1. computers 
+1. computers (eg. Macbook pros)
 1. keyboards
 1. mouse
 1. headphones
 
 ## Communication
-1. hipchat
+1. chag (eg. hipchat)
+1. Email (eg. google apps)
 
 ## Product design/management
 1. Wire-frames (eg. Balsamiq)
@@ -30,13 +32,14 @@
 ## Development tools
 1. Private Version control (github.com, bitbucket.com)
 1. npm
+
+## 3rd party APIs
+1. twilio
+
+## Monitoring
 1. sentry 
 1. elastic search 
-1. sketch
-1. twilio
-1. adwords
-1. facebook ads
-1. hubspot crm
-1. google apps
-1. intacct
-1. wi-fi
+
+## Internet Marketing
+1. Online ads (eg. Google Adwords, facebook ads, Virool)
+1. CRM (Hubspot) 
