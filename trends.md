@@ -51,6 +51,7 @@
 1. more virtual assistants
 
 
+## Uncatheogrized
 
 1. less privacy 
 1. home delivery 
