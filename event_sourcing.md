@@ -2,14 +2,20 @@
 
 > **Event Sourcing** is Functional, not Object-Oriented.
 
+- Don't lose info (storing data has become very cheap!)
+- Has to be recorded from Time 0.
+- Based on the alpha-beta algorithm.
+
+
 ## Projection
+
+> The history of the events is called **Projection**.
 
 ## Read-model 
 
 > So we don't need to query the projection.
 
 ## Actor
-
 
 
 ## Bus trap
