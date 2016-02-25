@@ -8,3 +8,6 @@
 1. A source map header or footer
 1. A publicly accessible uncompressed version of the source
 
+> The only browser that routinely delivers usable error reports is Google Chrome.
+
+
