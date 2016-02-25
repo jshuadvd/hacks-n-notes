@@ -6,6 +6,7 @@
 
 1. CSS Flexbox
 1. Convert HTML to PDF
+1. How to use LocalStorage with Redux
 
 ### January
 
