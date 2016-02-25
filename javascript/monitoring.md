@@ -11,3 +11,7 @@
 > The only browser that routinely delivers usable error reports is **Google Chrome**.
 
 
+#### Validating a Source Map
+
+Make sure the source maps pass the [source maps validator](https://sourcemaps.io/)
+
