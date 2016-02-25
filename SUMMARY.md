@@ -38,7 +38,7 @@
        * [NodeJS API](javascript/node-js/native-api.md)
        * [Version management](javascript/node-js/version_management.md)
    * [ReactJS](javascript/reactjs.md)
-   * Monitoring
+   * [Monitoring](javascript/monitoring.md)
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [HTML](html.md)
