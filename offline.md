@@ -23,3 +23,12 @@ login.js
 FALLBACK:
 /html/ offline.html   # would serve offline.html as a fallback
 ```
+
+## Overriding cache
+
+> Once an application is cached, it remains cached until one of the following happens:
+
+- The user clears the browser's cache
+- The manifest file is modified
+- The application cache is programmatically updated
+
