@@ -70,7 +70,7 @@
    * [Ubuntu](configs/ubuntu.md)
 * Browser
    * [Debugging](debugging.md)
-   * Offline
+   * [Offline](offline.md)
 * [Patterns](patterns.md)
    * [Event Sourcing](event_sourcing.md)
 * [C#](c-sharp.md)
