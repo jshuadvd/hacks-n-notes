@@ -12,7 +12,14 @@
 ### Example
 
 ```
-CACHE MANIFEST
+CACHE MANIFEST:
 /theme.css
 /logo.gif
 /main.js
+
+NETWORK:
+login.js
+
+FALLBACK:
+/html/ offline.html   # would serve offline.html as a fallback
+```
