@@ -57,6 +57,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - uses micro **EC2** Amazon Linux **AMI**
 - Auto scaling
 - container based
+- can be used for *smoke tests*
 
 ## CloudFormation
 
