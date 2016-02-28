@@ -5,11 +5,12 @@
 
 name | apt-get install | description
 ---- | ----------- | -----------
-tree | tree | `ls` stdout styled like a tree
 ag | silversearcher-ag | like *grep* but faster
-tmux | tmux | screen manager
 node | ... | nodeJS
 npm | npm | npm
+psql | psql | Postgres
+tmux | tmux | screen manager
+tree | tree | `ls` stdout styled like a tree
 
 
 ## npm global packages
