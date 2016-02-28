@@ -2,7 +2,7 @@
 
 > Amazon Web Services
 
-- Wener Vogels is AWS CTO
+- Wener Vogels is **AWS CTO**
 
 
 Term | definition
