@@ -42,3 +42,10 @@ sudo chmod 2775 /var/www
 - use **EBS** Block Storage for data you want to persist after the session expires
 - encrypy sensitive data
 - use IAM to be more protected
+
+## AMI
+> Amazon Machine Image
+
+- packaged env + settings to launch **EC2** instances
+- this is a feature inside **EC2**
+
