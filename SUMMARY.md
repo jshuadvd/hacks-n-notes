@@ -65,7 +65,7 @@
 * Browser
    * [Debugging](debugging.md)
    * [Offline](offline.md)
-* DevOps
+* [DevOps](devops.md)
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
    * [Oh my zshell](configs/zshrc.md)
