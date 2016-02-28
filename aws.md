@@ -74,4 +74,3 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 
 
 
-
