@@ -86,3 +86,12 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - monitoring CPU, Network traffic, etc.
 - can set alarms
 
+## RDS
+
+> Relational Database Service
+
+- supports MySQL, Postgres, SQL, Oracle
+- quick recovery backups, security, scalability
+- monitor with **CloudWacth**
+- no *ssh* access or *root* access
+
