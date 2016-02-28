@@ -4,7 +4,6 @@
    * [LICENSE](LICENSE.md)
    * [Summary](SUMMARY.md)
    * [Learnings](learnings.md)
-   * DevOps
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
        * [Basics](shell/basics.md)
@@ -42,6 +41,7 @@
    * [Monitoring](javascript/monitoring.md)
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
+* DevOps
 * [HTML](html.md)
 * [CSS](css/readme.md)
    * [CSS3 Animations](css/css3-animations.md)
