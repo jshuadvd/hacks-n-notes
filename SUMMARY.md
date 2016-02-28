@@ -62,6 +62,9 @@
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
+* Browser
+   * [Debugging](debugging.md)
+   * [Offline](offline.md)
 * DevOps
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
@@ -69,9 +72,6 @@
    * [Vimrc](configs/vimrc.md)
    * [Gitbook config](configs/gitbook_config.md)
    * [Ubuntu](configs/ubuntu.md)
-* Browser
-   * [Debugging](debugging.md)
-   * [Offline](offline.md)
 * [Patterns](patterns.md)
    * [Event Sourcing](event_sourcing.md)
 * [C#](c-sharp.md)
