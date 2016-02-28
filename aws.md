@@ -131,3 +131,11 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - SQS
 - HTTP
 - app json
+
+
+## Dynamo DB
+> NoSQL
+
+- uses **Solid State Drives** (super fast)
+- used for stateless apps (eg. sessions)
+- the user session state can be saved in NoSQL instead of the client. It wouldn't be possible to keep state in the server when using load balancing.
