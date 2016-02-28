@@ -105,3 +105,12 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 
 > Simple Message Queuing Service
 
+- Similar to *RabbitMQ*
+
+## SWF
+> Simple Work Flow
+
+- eg. e-commerce work-flow
+- looks like a sequence diagram
+- has a **Decider** which decides if should proceed with workflow or abort.
+- this can help decouple complex work-flows
