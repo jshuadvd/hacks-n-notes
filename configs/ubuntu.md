@@ -21,3 +21,4 @@ zshell | zsh | fork of shell. Needed for *on-my-zshell*
 name | npm i -g | description
 ---- | -------- | -----------
 speed-test | speed-test | tests your internet connection speed.
+node-inspector | node-inspector | server to link Chrome's dev tools to your node app
