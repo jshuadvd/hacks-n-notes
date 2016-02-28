@@ -101,3 +101,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 
 `psql -h dev-db.lala.us-east.rds.amazon.com -u admin -p`
 
+## SQS
+
+> Simple Message Queuing Service
+
