@@ -66,7 +66,7 @@
    * [Debugging](debugging.md)
    * [Offline](offline.md)
 * [DevOps](devops.md)
-   * AWS
+   * [AWS](aws.md)
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
    * [Oh my zshell](configs/zshrc.md)
