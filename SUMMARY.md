@@ -67,7 +67,7 @@
    * [Offline](offline.md)
 * [DevOps](devops.md)
    * [AWS](aws.md)
-       * EC2
+       * [EC2](ec2.md)
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
    * [Oh my zshell](configs/zshrc.md)
