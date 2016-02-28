@@ -39,9 +39,15 @@ sudo chmod 2775 /var/www
 
 ## Storage
 
-- use **EBS** Block Storage for data you want to persist after the session expires
-- encrypy sensitive data
+- encrypt sensitive data
 - use IAM to be more protected
+
+### Block Storage
+- use **EBS** Block Storage for data you want to persist after the session expires
+- Standard vs IOPS (Input-Output)
+- IOPS is more expensive 
+- You can create Snapshots and saved them in **EBS** (only adds incremental deltas to memory, to make storage more efficient)
+
 
 ## AMI
 > Amazon Machine Image
