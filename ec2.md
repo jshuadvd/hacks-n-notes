@@ -65,3 +65,4 @@ sudo chmod 2775 /var/www
 - run scripts & tools (cheff/puppet) or use OpsWorks (Cheff)
 - access to instance meta-data using HTTP GET
 - Cloud-Init to bootstrap
+
