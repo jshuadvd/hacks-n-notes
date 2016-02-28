@@ -94,4 +94,10 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - quick recovery backups, security, scalability
 - monitor with **CloudWacth**
 - no *ssh* access or *root* access
+- has development mode (way cheaper)
+
+### Access
+- you can access it from **EC2** 
+
+`psql -h dev-db.lala.us-east.rds.amazon.com -u admin -p`
 
