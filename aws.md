@@ -106,6 +106,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 > Simple Message Queuing Service
 
 - Similar to *RabbitMQ*
+- uses a pull (polling) flow
 
 ## SWF
 > Simple Work Flow
@@ -114,3 +115,19 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - looks like a sequence diagram
 - has a **Decider** which decides if should proceed with workflow or abort.
 - this can help decouple complex work-flows
+
+## SNS
+> Simple Notification Service
+
+- publish messages from app or console
+- uses subscribers
+- eg. CloudWatch alerts
+- uses a push flow
+
+### Supported protocols
+
+- email
+- SMS
+- SQS
+- HTTP
+- app json
