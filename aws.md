@@ -25,7 +25,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - provides access via REST API and ftp.
 - uses Object Storage
 
-## Object Storage
+### Object Storage
 
 - stores in flat organization containers called **buckets**
 - object retrieval by keys
