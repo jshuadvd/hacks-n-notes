@@ -21,6 +21,7 @@ Git uses the config settings for your user name and email address to generate a 
 git config --global user.name "Billy Everyteen"
 
 git config --global user.email "your_email@example.com"
+
 ```
 
 ## Default editor
