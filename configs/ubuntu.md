@@ -6,6 +6,7 @@
 name | apt-get install | description
 ---- | ----------- | -----------
 ag | silversearcher-ag | like *grep* but faster
+git | git | git control version system
 node | ? | nodeJS
 npm | npm | npm
 psql | ? | Postgres
