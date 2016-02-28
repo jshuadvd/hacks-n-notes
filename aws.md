@@ -43,6 +43,8 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 
 > Content Delivery Network (CDN)
 
+- uses Object Storage
+
 ## Elastic Bean Stack
 
 > Platform as a Service
@@ -54,7 +56,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - Uses *git* to deploy
 - uses micro **EC2** Amazon Linux **AMI**
 - Auto scaling
-- uses Object Storage
+- container based
 
 ## CloudFormation
 
