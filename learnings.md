@@ -8,6 +8,9 @@
 1. How to use LocalStorage with Redux
 1. Convert HTML to PDF
 1. SentryJS with source maps
+1. AWS essential training
+1. AWS EC2
+1. AWS Elastic BeanStack
 
 ### January
 
