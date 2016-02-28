@@ -45,7 +45,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 
 - uses Object Storage
 
-## Elastic Bean Stack
+## Elastic Bean Stalk
 
 > Platform as a Service
 
