@@ -23,6 +23,13 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - stores **Elastic Block Storage**
 - uses RRS (Reduced Redundancy Storage) which is less costly
 - provides access via REST API and ftp.
+- uses Object Storage
+
+## Object Storage
+
+- stores in flat organization containers called **buckets**
+- object retrieval by keys
+- by keeping it flat, it is very fast to query
 
 ## Glacier
 
@@ -30,6 +37,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - 3 to 5 hour retrieval time
 - super cheap
 - use it for backups 
+- uses Object Storage
 
 ## CloudFront
 
@@ -46,6 +54,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - Uses *git* to deploy
 - uses micro **EC2** Amazon Linux **AMI**
 - Auto scaling
+- uses Object Storage
 
 ## CloudFormation
 
@@ -54,6 +63,10 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - text template files of your AWS environment written in json
 - can pass parameters
 - this would be helpful to create an instance of certain environment, for example *staging* environment for QA.
+
+## CloudFormer
+
+> helps you to create a **CloudFormation** template
 
 
 
