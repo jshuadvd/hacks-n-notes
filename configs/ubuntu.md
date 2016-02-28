@@ -6,9 +6,9 @@
 name | apt-get install | description
 ---- | ----------- | -----------
 ag | silversearcher-ag | like *grep* but faster
-node | ... | nodeJS
+node | ? | nodeJS
 npm | npm | npm
-psql | psql | Postgres
+psql | ? | Postgres
 tmux | tmux | screen manager
 tree | tree | `ls` stdout styled like a tree
 
