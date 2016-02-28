@@ -55,3 +55,13 @@ sudo chmod 2775 /var/www
 - packaged env + settings to launch **EC2** instances
 - this is a feature inside **EC2**
 
+
+## Bootstrapping
+
+> to create an **EC2** instance
+
+- start services, update files, update dependencies
+- register with load balancer
+- run scripts & tools (cheff/puppet) or use OpsWorks (Cheff)
+- access to instance meta-data using HTTP GET
+- Cloud-Init to bootstrap
