@@ -37,3 +37,10 @@ Insertion Sort | $$n$$ | $$n^2$$ | $$n^2$$ | 1 | Yes
 Merge Sort | $$nlogn$$ | $$nlogn$$ | $$nlogn$$ | worst case is n | Yes
 Quick Sort | $$nlogn$$ | $$nlogn$$ | $$n^2$$ | $$logn$$ on avg. Worst $$n$$| No
 Heap Sort | $$nlogn$$ | $$nlogn$$ | $$nlogn$$ | 1 | No
+
+
+## Algorithmic trading
+
+> Algorithmic trading, also called algo trading and blackbox trading, encompasses trading systems that are heavily reliant on complex mathematical formulas and high-speed, computer programs to determine trading strategies
+- [Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_trading)
+
