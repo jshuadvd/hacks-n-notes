@@ -72,5 +72,10 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 > helps you to create a **CloudFormation** template
 
 
+## ELB
+> Elastic Load Balancer
 
+- balances traffic (HTTP, HTTPS, TCP) between EC2 instances using *round-robin*
+- scales
+- single *CNAME* for DNS config
 
