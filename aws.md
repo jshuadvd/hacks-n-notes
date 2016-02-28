@@ -139,3 +139,11 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - uses **Solid State Drives** (super fast)
 - used for stateless apps (eg. sessions)
 - the user session state can be saved in NoSQL instead of the client. It wouldn't be possible to keep state in the server when using load balancing.
+
+
+## IAM
+> Identity and Access Management
+
+- recommended for using AWS SDKs
+- create a rol for *webserver* and select this role in **AMI**
+- that way the EC2 doesn't need to instantiate SDK with creds because it gets them from the EC2 metadata.
