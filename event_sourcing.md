@@ -32,3 +32,13 @@ Using bus to send events can lead into the trap of leading to ping the server fo
 
 As the app features pile up, you tend to end up with a bunch of controllers.
 
+
+## Left Fold
+
+The result from chaining methods.
+Which each method comes from an event.
+
+```javascript
+var leftfold = compute(compute(compute()));
+```
+
