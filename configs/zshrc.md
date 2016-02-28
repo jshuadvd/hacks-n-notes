@@ -49,5 +49,5 @@ bindkey '^N' down-history
 function alertme {
   echo 'alert-jorge'
 }
-116 export alertme
+export alertme
 ```
