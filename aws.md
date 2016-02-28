@@ -79,3 +79,10 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - scales
 - single *CNAME* for DNS config
 
+## CloudWatch
+
+> Monitoring (similar to NewRelic)
+
+- monitoring CPU, Network traffic, etc.
+- can set alarms
+
