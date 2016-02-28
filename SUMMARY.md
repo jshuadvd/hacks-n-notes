@@ -41,7 +41,6 @@
    * [Monitoring](javascript/monitoring.md)
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
-* DevOps
 * [HTML](html.md)
 * [CSS](css/readme.md)
    * [CSS3 Animations](css/css3-animations.md)
@@ -63,6 +62,7 @@
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
+* DevOps
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
    * [Oh my zshell](configs/zshrc.md)
