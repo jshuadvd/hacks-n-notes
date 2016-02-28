@@ -11,6 +11,7 @@ npm | npm | npm
 psql | ? | Postgres
 tmux | tmux | screen manager
 tree | tree | `ls` stdout styled like a tree
+zshell | zsh | fork of shell. Needed for *on-my-zshell*
 
 
 ## npm global packages
