@@ -18,10 +18,9 @@ git config --list
 Git uses the config settings for your user name and email address to generate a unique fingerprint for each of the commits you create,
 
 ```
-git config user.name "Billy Everyteen"
+git config --global user.name "Billy Everyteen"
 
 git config --global user.email "your_email@example.com"
-
 ```
 
 ## Default editor
