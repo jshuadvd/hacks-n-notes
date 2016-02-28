@@ -36,3 +36,9 @@ sudo chown -R root:www /var/www/
 sudo chmod 2775 /var/www
 
 ```
+
+## Storage
+
+- use **EBS** Block Storage for data you want to persist after the session expires
+- encrypy sensitive data
+- use IAM to be more protected
