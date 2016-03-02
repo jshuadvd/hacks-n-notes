@@ -2,7 +2,7 @@
 
 > A guide for JavaScript developers who want to understand C#
 
-These notes are from a perspective of a JavaScript developer. I am trying to understand the similarities and differences between JavaScript (JS) and C#. 
+These notes are from a perspective of a JavaScript developer. I am trying to understand the similarities and differences between JavaScript (JS) and C#.
 
 ## Dictionary
 
@@ -55,4 +55,6 @@ const MathFunctions = {
 ```
 ---
 
+## ReSharper
+> helper tool frokm 
 
