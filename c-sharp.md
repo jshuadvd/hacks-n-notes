@@ -40,7 +40,9 @@ Lists are a wrapper on Array to make it usable as the JS Array.
 
 
 
-## C# Static Classes ##
+## Classes
+
+### Static Classes
 
 C# Static classes are like JS Object literals. They can't be instantiated, but the methods are usable.
 
@@ -53,6 +55,13 @@ const MathFunctions = {
   }
 }
 ```
+
+### Sealed Classes
+
+> Sealed classes are not inherited by any class but can be instantiated.
+
+- Sealed classes can help keep the code shallow and simple. That is good to avoid the *gorrilla-banana* problem.
+
 ---
 
 ## ReSharper
