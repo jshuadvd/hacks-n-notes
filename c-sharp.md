@@ -70,9 +70,15 @@ const MathFunctions = {
 You can interact with ReSharper config by commenting with the keyword **ReSharper** 
 eg. ` // ReSharper disable once PossibleInvalidOperationException`
 
+## #Pragma
 
 
+## Dependencies
 
+> Files in a project have access to all the dependencies declared in *.csproj*
+
+- the keyword `using` is like import, which will bring into *csproj* a determined dependency.
+- 
 
 
 
