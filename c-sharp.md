@@ -56,5 +56,15 @@ const MathFunctions = {
 ---
 
 ## ReSharper
-> helper tool frokm 
+> helper tool for Visual Studio
+
+You can interact with ReSharper config by commenting with the keyword **ReSharper** 
+eg. ` // ReSharper disable once PossibleInvalidOperationException`
+
+
+
+
+
+
+
 
