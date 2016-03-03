@@ -77,6 +77,7 @@
 * [Patterns](patterns.md)
    * [Event Sourcing](event_sourcing.md)
 * [C#](c-sharp.md)
+   * ServiceStack
 * [Graphics](graphics.md)
 * [Business](business.md)
    * [Trends](trends.md)
