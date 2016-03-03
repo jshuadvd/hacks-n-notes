@@ -94,8 +94,9 @@ The Microsoft C# compiler supports:
 ## Architecture
 
 ### Entry point
-> `Main()` is a static method that serves as an entry point for a C# app and normally lives in a file named **Program.cs**
+> `Main()` is a static method that serves as an entry point for a C# app and normally lives in a file named **Program.cs**. Sort of what **index.js** would be in NodeJS.
 
 ### AssemblyInfo
 > Provides properties for getting the information about the application, such as the version number, description, loaded assemblies, and so on.
+> Similar to **package.json** but without scripts, dependencies, etc.
 
