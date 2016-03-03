@@ -75,6 +75,7 @@ eg. ` // ReSharper disable once PossibleInvalidOperationException`
 > `#pragma` gives the compiler special instructions for the compilation of the file in which appears. The instructinos must be supported by the compiler. In other words, you cannot use `#pragma` to create custom preprocessing instructions.
 
 The Microsoft C# compiler supports:
+
 - `#pragma warning`
 - `#pragma checksum`
 
