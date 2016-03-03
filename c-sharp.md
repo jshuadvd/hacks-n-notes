@@ -102,6 +102,6 @@ The Microsoft C# compiler supports:
 
 ### packages.config
 > Declares NuGet packages to install
-> Sort of like **package.json**
+> Sort of like **package.json** *dependencies* section.
 
 
