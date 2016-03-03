@@ -86,6 +86,9 @@ The Microsoft C# compiler supports:
 - the keyword `using` is like import, which will bring into *csproj* a determined dependency.
 - 
 
+## [Operators](https://msdn.microsoft.com/en-us/library/a1sway8w.aspx)
 
+### Left-shift operator `<<`
+> bit-shift operation
 
 
