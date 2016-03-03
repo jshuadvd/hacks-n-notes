@@ -91,4 +91,7 @@ The Microsoft C# compiler supports:
 ### Left-shift operator `<<`
 > bit-shift operation
 
+## Architecture
+
+- `Main()` is a static method that serves as an entry point for a C# app and normally lives in a file named **Program.cs**
 
