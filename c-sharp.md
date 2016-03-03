@@ -100,3 +100,8 @@ The Microsoft C# compiler supports:
 > Provides properties for getting the information about the application, such as the version number, description, loaded assemblies, and so on.
 > Similar to **package.json** but without scripts, dependencies, etc.
 
+### packages.config
+> Declares NuGet packages to install
+> Sort of like **package.json**
+
+
