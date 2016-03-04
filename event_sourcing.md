@@ -45,3 +45,6 @@ Which each method comes from an event.
 var leftfold = compute(compute(compute()));
 ```
 
+## Contracts
+
+> **CQS** uses *contracts* because its Queries are immutable 
