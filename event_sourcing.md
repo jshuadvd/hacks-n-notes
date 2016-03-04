@@ -47,4 +47,5 @@ var leftfold = compute(compute(compute()));
 
 ## Contracts
 
-> **CQS** uses *contracts* because its Queries are immutable 
+> A *contract* is a convention to set commands that mutate state and queries that are immutable, hence eliminating side-effects.
+
