@@ -22,7 +22,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 - stores using **Elastic Block Storage**
 - uses **RRS** (Reduced Redundancy Storage) which is less costly
 - provides access via REST API and ftp.
-- uses Object Storage
+- uses Object Storage *(key-value)*
 - it has a caching effect
 
 ### Object Storage
