@@ -104,4 +104,6 @@ The Microsoft C# compiler supports:
 > Declares NuGet packages to install
 > Sort of like **package.json** *dependencies* section.
 
+## Immutabilty
 
+### `readonly`
