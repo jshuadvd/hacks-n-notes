@@ -31,6 +31,8 @@
 1. vim vundle and plugins
 1. Websockets with PusherJS (basics)
 
+---
+
 ## 2015
 
 1. Array.reduce()
