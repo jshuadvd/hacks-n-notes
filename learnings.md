@@ -2,6 +2,12 @@
 
 ## 2016
 
+### March
+
+1. AWS S3
+1. AWS CloudFront
+1. EventSource CQRS (essentials)
+
 ### February
 
 1. CSS Flexbox
@@ -10,7 +16,7 @@
 1. SentryJS with source maps
 1. AWS essential training
 1. AWS EC2
-1. AWS Elastic Bean Stalk
+
 
 ### January
 
