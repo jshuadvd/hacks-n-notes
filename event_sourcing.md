@@ -1,6 +1,9 @@
-# Event Sourcing
+# CQRS Event Sourcing
+
+> **CQRS** Command-Query Responsability Separation
 
 > **Event Sourcing** is Functional, not Object-Oriented.
+
 
 1. Don't lose info (storing data has become very cheap!)
 1. Has to be recorded from Time 0.
