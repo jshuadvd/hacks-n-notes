@@ -19,7 +19,7 @@ Elasticity | the rubberband effect to expand/contract resources proportionally t
 > Simple Storage Service
 
 - it is good for data that does not change fast, because it has a delayed effect to refresh
-- stores **Elastic Block Storage**
+- stores using **Elastic Block Storage**
 - uses RRS (Reduced Redundancy Storage) which is less costly
 - provides access via REST API and ftp.
 - uses Object Storage
