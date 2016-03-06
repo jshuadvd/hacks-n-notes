@@ -7,6 +7,7 @@
 1. AWS S3
 1. AWS CloudFront
 1. EventSource CQRS (essentials)
+1. How to run Unix commands on NodeJS
 
 ### February
 
