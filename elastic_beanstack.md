@@ -12,3 +12,6 @@
 - Auto scaling
 - container based
 - can be used for *smoke tests*
+
+## Deploy to EBS using CircleCI
+
