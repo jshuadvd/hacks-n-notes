@@ -68,6 +68,7 @@
 * [DevOps](devops.md)
    * [AWS](aws.md)
        * [EC2](ec2.md)
+       * Elastic BeanStack
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
    * [Oh my zshell](configs/zshrc.md)
