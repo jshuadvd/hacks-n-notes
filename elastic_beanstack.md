@@ -13,5 +13,10 @@
 - container based
 - can be used for *smoke tests*
 
-## Deploy to EBS using CircleCI
+## How to deploy to EBS using CircleCI
+
+### Configure AWS
+1. Create an **EBS** environment
+1. Create an *IAM* user for CircleCI with full permissions for Elastic BeanStack.
+1. Set the AWS credentials for that user in CircleCI's **Project Settings > AWS Credentials**
 
