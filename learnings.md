@@ -84,6 +84,7 @@
 1. AJAX
 1. BackboneJS
 1. Browser polyfills
+2. browserify
 1. CSS Bootstrap
 1. CSS (Less, Sass, Stylus)
 1. CSS3 Animations
