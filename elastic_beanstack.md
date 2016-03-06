@@ -30,3 +30,12 @@ dependencies:
   pre:
     - sudo pip install awsebcli
 ```
+
+Add the deployment config:
+```yaml
+deployment:
+  production:
+    branch: master
+    commands:
+      - eb deploy
+```
