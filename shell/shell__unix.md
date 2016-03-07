@@ -23,10 +23,12 @@ Shell and Unix notes
 - `-J`       create/extract archive with XZ
 
 ### To compress
-Compress (gzip) and package (tar) the directory myfiles to create myfiles.tar.gz:
+> Compress (gzip) and package (tar) the directory myfiles to create myfiles.tar.gz:
 
 `tar -czvf myfiles.tar.gz myfiles/`
 
-Uncompress (gzip) and unpack compressed package, extracting contents from myfiles:
+### To uncompress
+
+> Uncompress (gzip) and unpack compressed package, extracting contents from myfiles:
 
 `tar -xzvf myfiles.tar.gz`
