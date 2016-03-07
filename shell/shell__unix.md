@@ -6,6 +6,7 @@ Shell and Unix notes
 
 > Unix command `tar`
 > bundles files without compression.
+> see [tar documentation](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_Compression)
 
 - Supported in Unix environments.
 - Can also `gzip`
