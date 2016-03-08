@@ -23,9 +23,9 @@
 
 ### Init eb
 
-1. `eb init` in the repo
+1. `eb init` in the repo.
 1. Do not commit the *.gitignore* changes from `eb init`.
-1. Commit the .elasticbeanstack directory with the config file
+1. `git commit` the *.elasticbeanstack* directory with the config file.
 
 ### Configure circle.yml
 
