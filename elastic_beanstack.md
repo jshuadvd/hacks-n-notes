@@ -21,6 +21,12 @@
 1. Create an *IAM* user for *CircleCI* with full permissions for *EBS*.
 1. Set the AWS credentials for that user in CircleCI's **Project Settings > AWS Credentials**.
 
+### Init eb
+
+1. `eb init` in the repo
+1. Do not commit the *.gitignore* changes from `eb init`.
+1. Commit the .elasticbeanstack directory with the config file
+
 ### Configure circle.yml
 
 Add the awsebcli dependency:
@@ -37,5 +43,6 @@ deployment:
   production:
     branch: master
     commands:
-      - eb deploy
+      - git add build/ # add to git staging all the build files you want to include in tarball
+      - eb deploy --staged # create & deploy the tarball with the last git commit and staged files
 ```
