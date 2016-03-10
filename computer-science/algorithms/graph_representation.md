@@ -18,3 +18,8 @@ path | the sequential edges that connect two vertices
 shortest path | the path with less edges
 cycle | a path that reconnects with the origin vertex
 
+## Weighed edges
+
+> The edges can have a numeric weight.
+
+For example, a weight can be the distance between two cities (vertices).
