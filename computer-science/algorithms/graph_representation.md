@@ -17,6 +17,8 @@ degree | the amount of edges between two vertices
 path | the sequential edges that connect two vertices
 shortest path | the path with less edges
 cycle | a path that reconnects with the origin vertex
+acyclic graph | a path with no cycles
+dag | an *acyclic graph*
 
 ## Weighted graph
 
