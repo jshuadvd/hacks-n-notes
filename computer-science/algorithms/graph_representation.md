@@ -23,3 +23,10 @@ cycle | a path that reconnects with the origin vertex
 > The edges can have a numeric weight.
 
 For example, a weight can be the distance between two cities (vertices).
+
+## Use cases
+
+- Social networks
+- road maps
+- flowcharts
+- dependency flow charts
