@@ -18,7 +18,7 @@ path | the sequential edges that connect two vertices
 shortest path | the path with less edges
 cycle | a path that reconnects with the origin vertex
 
-## Weighed edges
+## Weighted graph
 
 > The edges can have a numeric weight.
 
