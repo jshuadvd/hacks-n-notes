@@ -21,6 +21,8 @@ acyclic graph | a path with no cycles
 dag | an *acyclic graph*
 to leave | when a directed edge points out of a vertex
 to enter | when a directed edge points into a vertex
+out-degree | the number of edges pointing out of a vertex
+in-degree | the number of edges pointing into a vertex
 
 
 ## Weighted graph
