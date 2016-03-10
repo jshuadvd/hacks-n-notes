@@ -19,6 +19,9 @@ shortest path | the path with less edges
 cycle | a path that reconnects with the origin vertex
 acyclic graph | a path with no cycles
 dag | an *acyclic graph*
+to leave | when a directed edge points out of a vertex
+to enter | when a directed edge points into a vertex
+
 
 ## Weighted graph
 
