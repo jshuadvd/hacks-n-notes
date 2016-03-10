@@ -14,4 +14,7 @@ directed graph | a graph which edges have one direction flow
 adjacent or incident | when two vertices are connected
 neighbors | a vertex refering to another adjacent vertex
 degree | the amount of edges between two vertices
+path | the sequential edges that connect two vertices
+shortest path | the path with less edges
+cycle | a path that reconnects with the origin vertex
 
