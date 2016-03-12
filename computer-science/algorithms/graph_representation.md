@@ -104,3 +104,4 @@ const graph =
   
   - Takes Θ($$V^2$$) space
   - To determine which *vertices* are *adjacent* to a *vertex* **x** it takes a linear search through all the **x** row
+
