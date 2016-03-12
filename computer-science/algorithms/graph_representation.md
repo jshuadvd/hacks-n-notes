@@ -127,3 +127,8 @@ const graph = [
   [1, 4, 7] 
 ];
   ```
+  
+##### Pros
+
+- Can get into any *vertex* in constant time.
+- We can find the *neighbors* in constant time.
