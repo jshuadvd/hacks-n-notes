@@ -55,7 +55,7 @@ For example, a weight can be the distance between two cities (*vertices*).
 
 ### Types
 
-#### 1. Edge List
+#### 1. Edge list
 
 > An *edge list* is an array of *|E|* edges.
 
@@ -71,7 +71,7 @@ const graph = [ [0,1], [0,6], [0,8], [1,4], [1,6], [1,9], [2,4], [2,6], [3,4], [
 ##### Evaluation
 - A search would be more of a linear search unless optimized 
 
-#### 2. Adjacency Matrices
+#### 2. Adjacency matrices
 
 > A matrix of |V| x |V| 
 
@@ -105,3 +105,4 @@ const graph =
   - Takes Θ($$V^2$$) space
   - To determine which *vertices* are *adjacent* to a *vertex* **x** it takes a linear search through all the **x** row
 
+#### 3. Adjacency lists
