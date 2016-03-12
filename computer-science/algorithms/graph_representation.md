@@ -75,6 +75,8 @@ const graph = [ [0,1], [0,6], [0,8], [1,4], [1,6], [1,9], [2,4], [2,6], [3,4], [
 
 > A matrix of |V| x |V| 
 
+- Symmetric matrix if it is an *undirected graph*
+
 ![Khan Academy](adjacency_matrix.png)
 
 - The matrix can be represented as an array of rows (sub-arrays)
