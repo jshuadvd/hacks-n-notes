@@ -106,3 +106,6 @@ const graph =
   - To determine which *vertices* are *adjacent* to a *vertex* **x** it takes a linear search through all the **x** row
 
 #### 3. Adjacency lists
+
+> Fusion of *Edge lists* and *Adjacency matrices*
+
