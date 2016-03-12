@@ -52,3 +52,5 @@ For example, a weight can be the distance between two cities (*vertices*).
 
 #### 1. Edge List
 
+> An *edge list* is an array of *|E|* edges.
+
