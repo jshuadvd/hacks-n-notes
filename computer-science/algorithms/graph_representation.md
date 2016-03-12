@@ -41,6 +41,7 @@ For example, a weight can be the distance between two cities (*vertices*).
 ## Representation
 
 - *vertices* are mostly names as numbers.
+- |V| means all *vertices* from 0 to V - 1
 
 ### Criteria
 1. How much memory or space we need in each representation
