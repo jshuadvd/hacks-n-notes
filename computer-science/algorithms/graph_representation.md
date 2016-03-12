@@ -76,7 +76,8 @@ const graph = [ [0,1], [0,6], [0,8], [1,4], [1,6], [1,9], [2,4], [2,6], [3,4], [
 - The intersections state if there is an edge between x and y
 
 ```javascript
-const graph = [ [0, 1, 0, 0, 0, 0, 1, 0, 1, 0],
+const graph = 
+[ [0, 1, 0, 0, 0, 0, 1, 0, 1, 0],
   [1, 0, 0, 0, 1, 0, 1, 0, 0, 1],
   [0, 0, 0, 0, 1, 0, 1, 0, 0, 0],
   [0, 0, 0, 0, 1, 1, 0, 0, 1, 0],
