@@ -20,13 +20,12 @@ out-degree | the number of edges pointing out of a vertex
 neighbors | a vertex refering to another adjacent vertex
 path | the sequential edges that connect two vertices
 shortest path | the path with less edges
+sparse graph | graph with relatively few edges
 to leave | when a directed edge points out of a vertex
 to enter | when a directed edge points into a vertex
-sparse graph | graph with relatively few edges
 undirected graph | a graph which edges go both ways
-vertices | entities in the graph
 vertex | a single entity
-
+vertices | entities in the graph
 
 ## Weighted graph
 
