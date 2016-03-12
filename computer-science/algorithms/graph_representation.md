@@ -96,12 +96,11 @@ const graph =
   [0, 1, 0, 0, 1, 0, 0, 1, 0, 0] ]
   ```
   
-  ##### Pros
+##### Pros
   
-  - Search in constant time eg. `graph[1][2]`
+  - Search in constant time eg. `graph[1][2]`  
   
-  
-  ##### Cons
+##### Cons
   
   - Takes Θ($$V^2$$) space
   - To determine which *vertices* are *adjacent* to a *vertex* **x** it takes a linear search through all the **x** row
