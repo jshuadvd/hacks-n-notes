@@ -5,7 +5,7 @@
 ### March
 
 1. AWS S3
-1. AWS CloudFront
+1. AWS CloudFront (CDN)
 1. EventSource CQRS (essentials)
 1. How to pop a HTML/CSS modal without Javascript
 1. How to run Unix commands on NodeJS
