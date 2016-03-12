@@ -132,3 +132,6 @@ const graph = [
 
 - Can get into any *vertex* in constant time.
 - We can find the *neighbors* in constant time.
+
+##### Space
+- It takes 2 x |E| since each *vertex* is recorded twice in the graph.
