@@ -135,4 +135,4 @@ const graph = [
 - We can find the *neighbors* in constant time.
 
 ##### Space
-- It takes 2 x |V| since each *vertex* is recorded twice in the graph.
+- It takes 2 x |V| or Θ(|V + E|) since each *vertex* is recorded twice in the graph.
