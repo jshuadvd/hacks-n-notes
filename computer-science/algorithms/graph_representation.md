@@ -70,6 +70,8 @@ const graph = [ [0,1], [0,6], [0,8], [1,4], [1,6], [1,9], [2,4], [2,6], [3,4], [
 
 > A square matrix of |V| x |V| 
 
+![Khan Academy](adjacency_matrix.png)
+
 - The matrix can be represented as an array of rows (sub-arrays)
 - The intersections state if there is an edge between x and y
 
