@@ -73,7 +73,7 @@ const graph = [ [0,1], [0,6], [0,8], [1,4], [1,6], [1,9], [2,4], [2,6], [3,4], [
 
 #### 2. Adjacency Matrices
 
-> A square matrix of |V| x |V| 
+> A matrix of |V| x |V| 
 
 ![Khan Academy](adjacency_matrix.png)
 
@@ -98,7 +98,8 @@ const graph =
   
   - Search in constant time eg. `graph[1][2]`
   
+  
   ##### Cons
   
   - Takes Θ($$V^2$$) space
-  
+  - To determine which *vertices* are *adjacent* to a *vertex* **x** it takes a linear search through all the **x** row
