@@ -54,3 +54,11 @@ For example, a weight can be the distance between two cities (*vertices*).
 
 > An *edge list* is an array of *|E|* edges.
 
+- an edge can be an object or a sub-array
+- you can add the weight there
+
+##### Example
+```javascript
+const graph = [ [0,1], [0,6], [0,8], [1,4], [1,6], [1,9], [2,4], [2,6], [3,4], [3,5],
+[3,8], [4,5], [4,9], [7,8], [7,9] ]
+```
