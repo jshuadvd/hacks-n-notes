@@ -29,7 +29,7 @@ in-degree | the number of edges pointing into a vertex
 
 > The edges can have a numeric weight.
 
-For example, a weight can be the distance between two cities (vertices).
+For example, a weight can be the distance between two cities (*vertices*).
 
 ## Use cases
 
