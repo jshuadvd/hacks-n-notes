@@ -96,3 +96,7 @@ const graph =
   
   - Search in constant time eg. `graph[1][2]`
   
+  ##### Cons
+  
+  - Takes Θ($$V^2$$) space
+  
