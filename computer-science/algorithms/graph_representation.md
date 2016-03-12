@@ -92,7 +92,7 @@ const graph =
   [0, 1, 0, 0, 1, 0, 0, 1, 0, 0] ]
   ```
   
-  ##### Evaluation
+  ##### Pros
   
-  
+  - Search in constant time eg. `graph[1][2]`
   
