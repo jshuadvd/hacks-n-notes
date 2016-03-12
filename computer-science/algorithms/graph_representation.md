@@ -66,6 +66,9 @@ const graph = [ [0,1], [0,6], [0,8], [1,4], [1,6], [1,9], [2,4], [2,6], [3,4], [
 [3,8], [4,5], [4,9], [7,8], [7,9] ]
 ```
 
+##### Evaluation
+- A search would be more of a linear search unless optimized 
+
 #### 2. Adjacency Matrices
 
 > A square matrix of |V| x |V| 
@@ -88,5 +91,7 @@ const graph =
   [1, 0, 0, 1, 0, 0, 0, 1, 0, 0],
   [0, 1, 0, 0, 1, 0, 0, 1, 0, 0] ]
   ```
+  
+  ##### Evaluation
   
   
