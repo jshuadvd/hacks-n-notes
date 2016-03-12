@@ -111,6 +111,8 @@ const graph =
 
 - On each row, store only the adjacent *vertices* to that *vertex*.
 
+![Khan Academy](adjacency_list.png)
+
 ```javascript
 [ [1, 6, 8],
   [0, 4, 6, 9],
