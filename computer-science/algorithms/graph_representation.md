@@ -6,23 +6,24 @@
 
 term | definition
 -- | --
-vertices | entities in the graph
-vertex | a single entity
-edge | a line representing the connection between two vertices
-undirected graph | a graph which edges go both ways
-directed graph | a graph which edges have one direction flow
+acyclic graph | a path with no cycles
 adjacent or incident | when two vertices are connected
-neighbors | a vertex refering to another adjacent vertex
+cycle | a path that reconnects with the origin vertex
+dag | an *acyclic graph*
 degree | the amount of edges between two vertices
+edge | a line representing the connection between two vertices
+directed graph | a graph which edges have one direction flow
+in-degree | the number of edges pointing into a vertex
+out-degree | the number of edges pointing out of a vertex
+neighbors | a vertex refering to another adjacent vertex
 path | the sequential edges that connect two vertices
 shortest path | the path with less edges
-cycle | a path that reconnects with the origin vertex
-acyclic graph | a path with no cycles
-dag | an *acyclic graph*
 to leave | when a directed edge points out of a vertex
 to enter | when a directed edge points into a vertex
-out-degree | the number of edges pointing out of a vertex
-in-degree | the number of edges pointing into a vertex
+sparse graph | graph with relatively few edges
+undirected graph | a graph which edges go both ways
+vertices | entities in the graph
+vertex | a single entity
 
 
 ## Weighted graph
