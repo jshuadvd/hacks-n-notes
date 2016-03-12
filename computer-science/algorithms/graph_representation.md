@@ -4,6 +4,8 @@
 
 - The social network is a graph.
 
+## Glossary
+
 term | definition
 -- | --
 acyclic graph | a path with no cycles
