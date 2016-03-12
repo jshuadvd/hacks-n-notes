@@ -114,7 +114,7 @@ const graph =
 ![Khan Academy](adjacency_list.png)
 
 ```javascript
-[ [1, 6, 8],
+const graph = [ [1, 6, 8],
   [0, 4, 6, 9],
   [4, 6],
   [4, 5, 8],
