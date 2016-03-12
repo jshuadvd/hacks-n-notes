@@ -46,3 +46,8 @@ For example, a weight can be the distance between two cities (*vertices*).
 1. How much memory or space we need in each representation
 2. How long will it take to determine whether a given *edge* is in the graph
 3. How long it takes to find the *neighbors* of a given *vertex*
+
+### Representation types
+
+#### 1. Edge List
+
