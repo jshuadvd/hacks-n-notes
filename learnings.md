@@ -7,10 +7,12 @@
 1. AWS S3
 1. AWS CloudFront
 1. EventSource CQRS (essentials)
+1. How to pop a HTML/CSS modal without Javascript
 1. How to run Unix commands on NodeJS
 1. AWS ElasticBeanstack
 1. CircleCI + AWS ElasticBeanstack
-1. How to display a PDF in a web page
+1. How to display a PDF inside a web page
+1. How to convert React to PDF from NodeJS
 
 ### February
 
