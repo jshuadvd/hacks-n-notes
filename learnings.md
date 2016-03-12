@@ -13,6 +13,7 @@
 1. CircleCI + AWS ElasticBeanstack
 1. How to display a PDF inside a web page
 1. How to convert React to PDF from NodeJS
+1. Browserify with JS script 
 
 ### February
 
