@@ -15,6 +15,7 @@
 1. How to convert React to PDF from NodeJS
 1. Browserify with NodeJS script (instead of gulp or CLI)
 1. Graph Representation
+1. Browserify + Uglifyify + Babelify run from NodeJS script
 
 ### February
 
