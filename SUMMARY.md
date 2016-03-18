@@ -60,6 +60,7 @@
        * [Merge Sort](computer-science/algorithms/merge_sort.md)
        * [Quick Sort](computer-science/algorithms/quick_sort.md)
        * [Graph representation](computer-science/algorithms/graph_representation.md)
+       * Breath-first Search
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
