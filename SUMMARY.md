@@ -37,6 +37,7 @@
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
        * [Version management](javascript/node-js/version_management.md)
+       * Scripts
    * [ReactJS](javascript/reactjs.md)
    * [Monitoring](javascript/monitoring.md)
 * [Databases](databases/readme.md)
