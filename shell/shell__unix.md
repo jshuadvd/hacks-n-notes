@@ -33,3 +33,7 @@ Shell and Unix notes
 > Uncompress (gzip) and unpack compressed package, extracting contents from myfiles:
 
 `tar -xzvf myfiles.tar.gz`
+
+## How to check your memory processes
+
+- `ps aux --sort -rss | head -n 15`
