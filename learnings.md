@@ -17,6 +17,8 @@
 1. Graph Representation
 1. Browserify + Uglifyify + Babelify run from NodeJS script
 1. How to serve a PDF from Buffer to browser using data:application/pdf
+1. MomentJS
+1. NumeralJS
 
 ### February
 
