@@ -19,6 +19,7 @@
 1. How to serve a PDF from Buffer to browser using data:application/pdf
 1. MomentJS
 1. NumeralJS
+1. JS animation using setInterval
 
 ### February
 
