@@ -36,4 +36,9 @@ Shell and Unix notes
 
 ## How to check your memory processes
 
+### Check how much memory is used vs free
+
+- `free -m`
+
+### Check all the memory each process is consuming
 - `ps aux --sort -rss | head -n 15`
