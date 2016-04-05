@@ -36,6 +36,10 @@ Shell and Unix notes
 
 ## How to check your memory processes
 
+### Top memory consumers
+
+- `top`
+
 ### Check how much memory is used vs free
 
 - `free -m`
