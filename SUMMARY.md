@@ -89,5 +89,5 @@
 * [Internet Marketing](internet_marketing.md)
 * [Tools](tools.md)
 * [i18n](i18n.md)
-   * Localization
+   * [Localization](localization.md)
 
