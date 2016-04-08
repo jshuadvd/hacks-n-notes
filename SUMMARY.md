@@ -60,13 +60,13 @@
        * [Towers of Hanoi](computer-science/algorithms/towers_of_hanoi.md)
        * [Merge Sort](computer-science/algorithms/merge_sort.md)
        * [Quick Sort](computer-science/algorithms/quick_sort.md)
-       * [Graph representation](computer-science/algorithms/graph_representation.md)
        * [Breath-first Search](computer-science/algorithms/breath-first_search.md)
        * [Fibonacci](computer-science/algorithms/fibonacci.md)
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
    * [Data Structures](computer-science/data_structures.md)
+       * [Graph representation](computer-science/algorithms/graph_representation.md)
        * Tree
 * Browser
    * [Debugging](debugging.md)
