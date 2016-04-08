@@ -66,7 +66,7 @@
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
-   * Data Structures
+   * [Data Structures](computer-science/data_structures.md)
 * Browser
    * [Debugging](debugging.md)
    * [Offline](offline.md)
