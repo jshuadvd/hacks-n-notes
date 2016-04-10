@@ -86,7 +86,7 @@
 * [C#](c-sharp.md)
    * [ServiceStack](servicestack.md)
 * [Graphics](graphics.md)
-   * SVG
+   * [SVG](svg.md)
 * [Business](business.md)
    * [Trends](trends.md)
    * [Web App costs](web_app_costs.md)
