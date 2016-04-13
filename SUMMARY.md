@@ -40,6 +40,7 @@
        * [Unix](javascript/node-js/unix.md)
    * [ReactJS](javascript/reactjs.md)
    * [Monitoring](javascript/monitoring.md)
+   * ESLint
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [HTML](html.md)
