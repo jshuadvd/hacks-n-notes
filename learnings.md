@@ -6,6 +6,7 @@
 
 1. Fibonacci sequence
 2. Web Intl API
+3. `btoa` / `atob` base64
 
 
 ### March
