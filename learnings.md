@@ -7,6 +7,11 @@
 1. Fibonacci sequence
 2. Web Intl API
 3. `btoa` / `atob` base64
+4. node `spawn` child_process
+5. npm chalk
+6. npm select-shell
+7. String `replace` using functions to convert from PascalCase to lower-case
+8. bundling with browserify using entry files generated on runtime
 
 
 ### March
