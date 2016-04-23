@@ -19,3 +19,9 @@ eg. compilers, transpilers
 
 - insert logging in every function
 - ESLint
+
+#### Parser Generators
+> Take language grammar and spits out a parser
+- yak
+- jyson
+- peg.js 
