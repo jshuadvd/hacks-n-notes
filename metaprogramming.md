@@ -15,3 +15,7 @@ eg. compilers, transpilers
 - estraverse
 - escodegen
 
+### Use cases
+
+- insert logging in every function
+- ESLint
