@@ -162,6 +162,7 @@ Use Localized Sorting.
 ### Javascript libraries
 
 [FormatJS](http://formatjs.io/) with support for ReactJS
+[MessageFormat](https://messageformat.github.io/) supports pluralization and other goodies
 
 ## Internationalization (l18n)
 
