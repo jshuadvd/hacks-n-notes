@@ -31,6 +31,12 @@ The process of tailoring a product for a specific locale.
 - [One Sky](http://www.oneskyapp.com/)
 - [Transifex](https://www.transifex.com/) this one allows translators to translate on the UI, so the context is more clear.
 
+### Javascript libraries
+
+- [FormatJS](http://formatjs.io/) with support for ReactJS
+- [MessageFormat](https://messageformat.github.io/) supports pluralization and other goodies
+- [i18next](http://i18next.com/)
+
 ### Associated Preferences
 
 - Time format
@@ -159,10 +165,7 @@ Use Localized Sorting.
 
 [Translation services](http://www.proz.com/)
 
-### Javascript libraries
 
-[FormatJS](http://formatjs.io/) with support for ReactJS
-[MessageFormat](https://messageformat.github.io/) supports pluralization and other goodies
 
 ## Internationalization (l18n)
 
