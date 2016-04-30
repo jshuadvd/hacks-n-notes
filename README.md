@@ -4,6 +4,9 @@ The content of this compilation is about my notes on Software Development and ot
 
 My [learning road-map](https://github.com/vasco3/hacks-n-notes/issues) describes which are my learning goals and which learning achievements I had. You can see the progress bars on each of the categories. It's most likely that the progress bars will never be 100% full since I'm constantly adding new goals.
 
+## About me
+
+Mission oriented and life-long learner. Passionate about Full-stack software development using Javascript, NodeJS and ReactJS. Exponential pursue of 10X productivity.
 
 ## Inspiration
 
