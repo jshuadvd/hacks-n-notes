@@ -6,7 +6,7 @@ My [learning road-map](https://github.com/vasco3/hacks-n-notes/issues) describes
 
 ## About me
 
-Mission oriented and life-long learner. Passionate about Full-stack software development using Javascript, NodeJS and ReactJS. Exponential pursue of 10X productivity.
+Mission oriented and life-long learner. Passionate about Full-stack software development using Javascript, NodeJS and ReactJS. Exponential pursue of 10X productivity. Committed to pay it forward to the tech community and improve people’s lives by developing my talents to their full potential.
 
 ## Inspiration
 
