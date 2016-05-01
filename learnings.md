@@ -12,6 +12,7 @@
 6. npm select-shell
 7. String `replace` using functions to convert from PascalCase to lower-case
 8. bundling with `browserify` using entry files generated on run-time
+9. 
 
 
 ### March
