@@ -10,6 +10,13 @@ eg. compilers, transpilers
 - Parse Tree (AST - Abstract Synthax Tree)
 - Code generator
 
+### Work flow
+- Parse
+- Find
+- Create
+- Update
+- Print
+
 ### Metaprograms
 #### Esprima
 - estraverse
