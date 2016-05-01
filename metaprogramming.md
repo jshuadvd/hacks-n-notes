@@ -15,7 +15,13 @@ eg. compilers, transpilers
 - estraverse
 - escodegen
 
+#### ast-types
+> To ensure data types while working with AST
+
 #### recast
+
+> To reprint code like if a human wrote it.
+> It doesn't touches code that wasn't changed.
 
 #### Acorn
 
