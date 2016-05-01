@@ -37,6 +37,8 @@ eg. compilers, transpilers
 
 - insert logging in every function
 - ESLint
+- refactor deprecated code
+- update legacy
 
 #### Parser Generators
 > Take language grammar and spits out a parser
