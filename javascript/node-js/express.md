@@ -28,3 +28,31 @@ res.cookie(
 // Get on request
 req.cookies.session_id
 ```
+
+## Browser parsing
+
+```javascript
+    import UAParser from 'ua-parser';
+    
+    browserCheck (req, res, next) {
+
+        const browser = UAParser.parse(req.headers['user-agent']);
+
+        let isBrowserSupported = false,
+            isMobile = false;
+
+        SupportedBrowsers.forEach((f) => {
+            if (/Mobile/.test(browser.ua.family
+                || /Android/.test(browser.os.family))) {
+                isMobile = true;
+            }
+            if (browser.ua.family === f.family && browser.ua.major >= f.major) {
+                isBrowserSupported = true;
+            }
+        }); 
+
+        if (!isBrowserSupported) {
+          // complain about the browser
+        } 
+    }
+```
