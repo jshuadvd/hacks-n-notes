@@ -10,3 +10,17 @@
 - **MIT** license allows you to do anything
 - **GNU/GPL** license can NOT be used in close-sourced software
 - Dual license MIT+GPL is possible.
+
+## Cookies
+
+```javascript
+res.cookie(
+  SessionCookie.COOKIE_NAME, 
+  sessionId,
+  SessionCookie.makeOptions(
+    cookieDomain,
+    SessionCookie.DEFAULT_MAX_AGE
+  )
+)
+.redirect(nextUrl);
+```
