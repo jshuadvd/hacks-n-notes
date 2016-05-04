@@ -9,5 +9,7 @@
 - eslint
 - express
 - moment
+- node-sass
 - request
 - superagent
+- tape
