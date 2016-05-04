@@ -14,6 +14,7 @@
 ## Cookies
 
 ```javascript
+// Set
 res.cookie(
   SessionCookie.COOKIE_NAME, 
   sessionId,
@@ -23,4 +24,7 @@ res.cookie(
   )
 )
 .redirect(nextUrl);
+
+// Get on request
+req.cookies.session_id
 ```
