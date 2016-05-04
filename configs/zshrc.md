@@ -51,3 +51,9 @@ function alertme {
 }
 export alertme
 ```
+
+Then append [npm completion](https://docs.npmjs.com/cli/completion) to have autocomplete.
+
+```
+npm completion >> ~/.zshrc
+```
