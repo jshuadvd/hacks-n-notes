@@ -41,7 +41,7 @@
    * [ReactJS](javascript/reactjs.md)
    * [Monitoring](javascript/monitoring.md)
    * [ESLint](javascript/eslint.md)
-   * npm
+   * [npm](javascript/npm.md)
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [HTML](html.md)
