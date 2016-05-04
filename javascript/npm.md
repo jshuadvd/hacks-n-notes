@@ -17,7 +17,10 @@
 - node-uuid
 - numeral
 - node-sass
+- reactify
 - request
 - serve-favicon
 - superagent
 - tape
+- uglifyify
+- watchify
