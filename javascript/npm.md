@@ -13,6 +13,7 @@
 - express
 - fast-csv
 - google-libphonenumber
+- html-pdf
 - moment
 - node-inspector
 - node-uuid
