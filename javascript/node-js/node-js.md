@@ -6,7 +6,7 @@
 ```javascript
     /**
      * GZip helper
-     *
+     * To use this, the build has to compress the bundles into gzip.
      * @return {undefined}
      */
     sendGzip (req, res) {
@@ -24,4 +24,8 @@
 
         res.sendFile(filePath);
     }
+
+// or use `npm compression`
+import compress from 'compression';
+app.use(compress());
 ```
