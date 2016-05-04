@@ -42,6 +42,7 @@
    * [Monitoring](javascript/monitoring.md)
    * [ESLint](javascript/eslint.md)
    * [npm](javascript/npm.md)
+   * Security
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [HTML](html.md)
