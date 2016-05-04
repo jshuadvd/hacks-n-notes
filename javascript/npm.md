@@ -13,12 +13,14 @@
 - express
 - fast-csv
 - google-libphonenumber
-- html-pdf
+- html-pdf 
 - moment
 - node-inspector
 - node-uuid
 - numeral
 - node-sass
+- pusher
+- pusher-js
 - reactify
 - request
 - serve-favicon
