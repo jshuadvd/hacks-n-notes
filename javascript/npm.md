@@ -26,5 +26,6 @@
 - serve-favicon
 - superagent
 - tape
+- ua-parser
 - uglifyify
 - watchify
