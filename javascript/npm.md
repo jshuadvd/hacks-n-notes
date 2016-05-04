@@ -12,6 +12,7 @@
 - eslint
 - express
 - fast-csv
+- google-libphonenumber
 - moment
 - node-inspector
 - node-uuid
