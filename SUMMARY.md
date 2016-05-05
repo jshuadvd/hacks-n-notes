@@ -43,7 +43,7 @@
    * [ESLint](javascript/eslint.md)
    * [npm](javascript/npm.md)
    * [Security](javascript/security.md)
-   * RegEx
+   * [RegEx](javascript/regex.md)
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [HTML](html.md)
