@@ -7,6 +7,17 @@ sudo apt-get update
 sudo apt-get install postgresql postgresql-contrib
 ```
 
+### Default user
+
+The default user is *postgres*
+
+```sh
+# to auth as postgres user
+sudo -i -u postgres
+# to open the postgres connection to the server
+psql
+```
+
 ## Full text search
 
 In text retrieval, full-text search refers to techniques for searching 
