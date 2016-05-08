@@ -1,5 +1,12 @@
 # PostgreSQL
 
+## installation in Ubuntu
+
+```sh
+sudo apt-get update
+sudo apt-get install postgresql postgresql-contrib
+```
+
 ## Full text search
 
 In text retrieval, full-text search refers to techniques for searching 
