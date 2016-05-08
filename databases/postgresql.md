@@ -7,7 +7,7 @@ sudo apt-get update
 sudo apt-get install postgresql postgresql-contrib
 ```
 
-### Default user
+### Users
 
 The default user is *postgres*.
 The postgres Linux account, being associated with the Postgres administrative role, has access to some utilities to create users and databases.
@@ -15,9 +15,18 @@ The postgres Linux account, being associated with the Postgres administrative ro
 ```sh
 # to auth as postgres user
 sudo -i -u postgres
+# create users
+createuser --interactive
+```
+## Basic Usage
+
+```sh
 # to open the postgres prompt
 psql
 ```
+
+
+
 
 ## Full text search
 
