@@ -14,7 +14,7 @@ The default user is *postgres*
 ```sh
 # to auth as postgres user
 sudo -i -u postgres
-# to open the postgres connection to the server
+# to open the postgres prompt
 psql
 ```
 
