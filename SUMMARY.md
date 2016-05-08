@@ -66,7 +66,7 @@
        * [Quick Sort](computer-science/algorithms/quick_sort.md)
        * [Breath-first Search](computer-science/algorithms/breath-first_search.md)
        * [Fibonacci](computer-science/algorithms/fibonacci.md)
-   * [Machine Learning](computer-science/machine-learning/readme.md)
+   * [Artificial Intelligence](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
    * [Data Structures](computer-science/data_structures.md)
