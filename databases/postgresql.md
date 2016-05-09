@@ -18,6 +18,7 @@ sudo -i -u postgres
 # create users
 createuser --interactive
 ```
+
 ## Basic Usage
 
 ```sh
