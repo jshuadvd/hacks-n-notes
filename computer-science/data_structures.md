@@ -9,3 +9,5 @@ A bitmask is a sequence of bits that can manipulate and/or read flags.
 ```js
 var mask = FLAG_A | FLAG_B | FLAG_D; // 0001 | 0010 | 1000 => 1011
 ```
+
+Individual flag values can be extracted by ANDing them with a bitmask.
