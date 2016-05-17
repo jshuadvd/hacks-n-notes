@@ -7,3 +7,7 @@
 
 1. `Ctrl-z` to suspend
 1. `fg` will resume (bring to foreground) your suspended vim
+
+## NERDTree
+
+- `shift + A` to toggle NERDTree zoom
