@@ -10,7 +10,7 @@
    * [Linux CLI](shell/linux-cli.md)
    * [Colors in shell](shell/colors.md)
    * [tmux](shell/tmux.md)
-   * HomeBrew
+   * [HomeBrew](shell/homebrew.md)
 * [Git](git/readme.md)
    * [Git Workflow](git/git-workflow.md)
    * [Git Tags](git/git-tags.md)
