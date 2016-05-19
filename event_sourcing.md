@@ -1,6 +1,6 @@
 # CQRS Event Sourcing
 
-> **[CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)** Command-Query Responsibility Separation
+> **[CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)** Command-Query Responsibility Segregation
 
 > **Event Sourcing** is Functional, not Object-Oriented.
 
