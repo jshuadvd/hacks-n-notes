@@ -29,6 +29,10 @@ The Projection is the left-fold or the result of the last state mutated by the l
 
 - Avoid snapshots if the Projection is short enough.
 
+Snapshots is an optimization that can be done in case the queries are taking too long. You can do snapshots every X amount of events. Or if you get to a high volume of projection instances then you might just make a snapshot for the last state.
+
+
+
 ## Actor
 
 
