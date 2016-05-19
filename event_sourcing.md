@@ -1,12 +1,10 @@
-# CQRS Event Sourcing
-
-> **[CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)** Command-Query Responsibility Segregation
-
+# Event Sourcing
+ 
 > [Promoted by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 
 > **Event Sourcing** is Functional, not Object-Oriented.
 
-- Event Sourcing is a combination of an EventStore that uses CQRS and [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) (Domain Driven Design)
+- Event Sourcing is a combination of an EventStore that uses [CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation) (Command-Query Responsibility Segregation) and [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) (Domain Driven Design)
 - The input is a command which gets validated by a CommandHandler
 - Then it outputs one or many events that are stored transactionally (bundled in a single commit).
 - Then they are published on a message broker such as MassTransit so that subscribed event listeners (or Observers) can trigger their Projection Builders.
