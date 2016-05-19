@@ -5,12 +5,20 @@
 > **Event Sourcing** is Functional, not Object-Oriented.
 
 
-1. Don't lose info (storing data has become very cheap!)
-1. Has to be recorded from Time 0.
-1. Based on the alpha-beta algorithm.
-1. You can use Event Sourcing to run smoke-tests.
-1. Can prevent **super-user (root) attacks**
-1. Event Sourcing is like **WORM drive *(Write Once, Read Many)***.
+### Pros
+
+- Don't lose info (storing data has become very cheap!)
+- Has to be recorded from Time 0.
+- Based on the alpha-beta algorithm.
+- You can use Event Sourcing to run smoke-tests.
+- Can prevent **super-user (root) attacks**
+- Event Sourcing is like **WORM drive *(Write Once, Read Many)***.
+
+### Cons
+
+- More boiler plate
+- Slower to code
+- Overkill for data that you don't care.
 
 ## Projection
 
