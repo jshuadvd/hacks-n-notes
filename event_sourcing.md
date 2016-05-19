@@ -39,6 +39,7 @@ Snapshots is an optimization that can be done in case the queries are taking too
 
 ## Actor
 
+What is an actor?
 
 ## Bus trap
 
