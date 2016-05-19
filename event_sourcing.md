@@ -11,6 +11,8 @@
 - Then it outputs one or many events that are stored transactionally (bundled in a single commit).
 - Then they are published on a message broker such as MassTransit so that subscribed event listeners (or Observers) can trigger their Projection Builders.
 
+
+
 ### Pros
 
 - Don't lose info (storing data has become very cheap!)
@@ -75,3 +77,8 @@ var leftfold = compute(compute(compute()));
 
 > A *contract* is a convention to set commands that mutate state and queries that are immutable, hence eliminating side-effects.
 
+
+## EventStore libraries
+
+- [GetEventStore](https://geteventstore.com/) - JS library by Greg Young
+- [NEventStore](https://github.com/NEventStore/NEventStore) - .Net library
