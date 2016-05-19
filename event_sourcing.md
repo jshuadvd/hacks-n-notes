@@ -26,6 +26,10 @@
 - Slower to code
 - Overkill for data that you don't care.
 
+## EventStore
+
+> The Event Store is a database designed to support Event Sourcing.
+
 ## Projection
 
 > The history of the events is called **Projection**.
