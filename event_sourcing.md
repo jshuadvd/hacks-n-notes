@@ -16,9 +16,12 @@
 
 > The history of the events is called **Projection**.
 
+The Projection is the left-fold or the result of the last state mutated by the last event handler. This result can be stored in a row in a database table. The result can be a json blob of the state at that point of time.
+
 ## Read-model 
 
 > So we don't need to query the projection.
+
 
 ### Snapshots
 
