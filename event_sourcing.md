@@ -7,6 +7,8 @@
 > **Event Sourcing** is Functional, not Object-Oriented.
 
 - Event Sourcing is a combination of an EventStore that uses CQRS and [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) (Domain Driven Design)
+- The input is a command which gets validated by a CommandHandler
+- Then it outputs one or many events that are stored transactionally (bundled in a single commit).
 
 ### Pros
 
