@@ -18,6 +18,10 @@
 
 The Projection is the left-fold or the result of the last state mutated by the last event handler. This result can be stored in a row in a database table. The result can be a json blob of the state at that point of time.
 
+## Projection builder
+
+> A Projection Builder runs the events and returns the left-fold.
+
 ## Read-model 
 
 > So we don't need to query the projection.
