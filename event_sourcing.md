@@ -45,7 +45,9 @@ By being imperative the imply that the command can be rejected if an error occur
 
 ### Events
 
-- Events should be 
+> Event is something that happened, therefor it can't be rejected.
+
+- Events should be in past tense
 
 ## Projection
 
