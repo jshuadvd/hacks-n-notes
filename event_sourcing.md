@@ -37,6 +37,10 @@
 
 ## CQRS
 
+> Composed of Commands and Queries.
+
+Commands should mutate. Queries should just read.
+
 ### Commands
 > Commands should be imperative in their semantics. eg. "Purchase"
 
