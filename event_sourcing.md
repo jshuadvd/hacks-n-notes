@@ -19,6 +19,7 @@
 - You can use Event Sourcing to run smoke-tests.
 - Can prevent **super-user (root) attacks**
 - Event Sourcing is like **WORM drive *(Write Once, Read Many)***.
+- Reports are easier to put together.
 
 ### Cons
 
