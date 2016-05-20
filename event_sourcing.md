@@ -39,7 +39,7 @@
 
 > Composed of Commands and Queries.
 
-Commands should mutate. Queries should just read.
+Commands should mutate. Queries should just read. Commands don't return anything. Queries don't mutate.
 
 ### Commands
 > Commands should be imperative in their semantics. eg. "Purchase"
