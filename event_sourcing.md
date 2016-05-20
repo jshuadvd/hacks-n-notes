@@ -35,6 +35,17 @@
 
 > DDD does Not have **CRUD** (Create Read Update Delete). Only *Create* and *Read*.
 
+## CQRS
+
+### Commands
+> Commands should be imperative in their semantics. eg. "Purchase"
+
+By being imperative the imply that the command can be rejected if an error occurs.
+
+
+### Events
+
+- Events should be 
 
 ## Projection
 
