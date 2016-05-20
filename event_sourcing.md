@@ -44,6 +44,8 @@ By being imperative the imply that the command can be rejected if an error occur
 
 The command *payload* is just the necessary info needed to process that command, and not the entire DTO (Data Transfer Object).
 
+Every command should get a UUID in the payload to know which item to interact with.
+
 ### Events
 
 > Event is something that happened, therefor it can't be rejected.
