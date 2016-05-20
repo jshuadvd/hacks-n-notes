@@ -32,7 +32,7 @@
 
 ## Domain Driven Design
 
-> DDD does Not have CRUD (Create Read Update Delete). Only Create and Read.
+> DDD does Not have **CRUD** (Create Read Update Delete). Only *Create* and *Read*.
 
 
 ## Projection
