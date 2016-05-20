@@ -30,6 +30,11 @@
 
 > The Event Store is a database designed to support Event Sourcing.
 
+## Domain Driven Design
+
+> DDD does Not have CRUD (Create Read Update Delete). Only Create and Read.
+
+
 ## Projection
 
 > The history of the events is called **Projection**.
