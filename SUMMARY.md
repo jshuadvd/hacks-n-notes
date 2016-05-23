@@ -101,5 +101,5 @@
    * [Localization](development/localization.md)
 * [10X](10x.md)
    * [Metaprogramming](metaprogramming.md)
-* Quality Assurance
+* [Quality Assurance](quality_assurance.md)
 
