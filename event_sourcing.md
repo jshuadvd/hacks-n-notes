@@ -33,6 +33,8 @@
 
 > The Event Store is a database designed to support Event Sourcing.
 
+Save commits with a version number to check for concurrency issues in distributed databases. Each commit bundles a group of events as a payload.
+
 ## Domain Driven Design
 
 > DDD does Not have **CRUD** (Create Read Update Delete). Only *Create* and *Read*.
