@@ -73,6 +73,11 @@ The Projection is the left-fold or the result of the last state mutated by the l
 
 > A Projection Builder runs the events and returns the left-fold.
 
+## Rolling snapshot
+
+> a snapshot of the projection so we don't have to replay the millions of events stored.
+
+
 ## Read-model 
 
 > So we don't need to query the projection.
