@@ -8,7 +8,7 @@
 - The input is a command which gets validated by a CommandHandler
 - Then it outputs one or many events that are stored transactionally (bundled in a single commit).
 - Then they are published on a message broker such as MassTransit so that subscribed event listeners (or Observers) can trigger their Projection Builders.
-
+- There are no deletes. Only appending. If you want to change the state you keep adding events to show that it was returned to a previous state.
 
 
 ### Pros
