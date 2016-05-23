@@ -9,19 +9,18 @@ Database systems notes.
 There are several levels of normalization.
 
 
-### First normal form
+### First normal form (1NF)
+
+> This is the minimum requirement for a relational database
+
+
+
+### Second normal form (2NF)
 
 
 
 
-
-### Second normal form
-
-
-
-
-
-### Third normal form
+### Third normal form (3NF)
 
 
 
