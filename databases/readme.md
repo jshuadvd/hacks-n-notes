@@ -17,7 +17,7 @@ There are several levels of normalization.
 
 ### Second normal form (2NF)
 
-
+> If it is 1NF and every non-prime attribute of the table is dependent on the whole of every candidate key.
 
 
 ### Third normal form (3NF)
