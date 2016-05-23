@@ -22,6 +22,8 @@ There are several levels of normalization.
 
 ### Third normal form (3NF)
 
+> Reduces redundancy 
+
 
 
 ## Database as a Service
