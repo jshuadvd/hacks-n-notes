@@ -50,6 +50,12 @@ The command *payload* is just the necessary info needed to process that command,
 
 Every command must get a UUID in the payload to know which item to interact with.
 
+They are stored in a normalized way, ideally (3NF)
+
+### Queries
+
+They are stored in a denormalized way to minimize JOINs needed and speedup queries.
+
 ### Events
 
 > Event is something that happened, therefor it can't be rejected.
