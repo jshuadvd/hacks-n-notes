@@ -20,6 +20,7 @@
 - Can prevent **super-user (root) attacks**
 - Event Sourcing is like **WORM drive *(Write Once, Read Many)***.
 - Reports are easier to put together.
+- Simplifies database horizontal partitioning (sharding) 
 
 ### Cons
 
