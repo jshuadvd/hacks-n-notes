@@ -8,6 +8,7 @@ Database systems notes.
 
 There are several levels of normalization.
 
+The more you normalize it will be more DRY, but it will be harder to understand and would slow performance. It is an equivalent to creating abstractions.
 
 ### First normal form (1NF)
 
