@@ -11,7 +11,11 @@ There are several levels of normalization.
 
 ### First normal form (1NF)
 
-> This is the minimum requirement for a relational database
+> This is the minimum requirement for a relational database.
+
+* It eliminates repeating groups in individual tables.
+* Create a separate table for each set of related data.
+* Identify each set of related data with a primary key.
 
 
 
