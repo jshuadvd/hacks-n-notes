@@ -34,7 +34,9 @@ The more you normalize it will be more DRY, but it will be harder to understand 
 * It complies with **2NF**
 * Split the table as much as possible. Prefer leaving keys instead of values.
 
+## “Object-Relational Impedance Mismatch”
 
+To work with relational tables you need to JOIN, and with Objects you need to traverse. There is a mismatch in the shapes of the Relational vs Objects.
 
 ## Database as a Service
 
