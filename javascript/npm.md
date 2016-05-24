@@ -2,32 +2,32 @@
 
 ## npm modules
 
-- accounting
-- babel
-- body-parser
-- browserify
-- bunyan
-- compression
+- accounting 
+- babel (transpiler from ESNext)
+- body-parser (ExpressJS plugin to read req.body)
+- browserify (bundle)
+- bunyan (logging)
+- compression (gzip compression on runtime)
 - date-fns (like momentJS but modern)
-- envify
-- eslint
+- envify (plugin to pass the env vars into a js bundle)
+- eslint (linter)
 - express (web server)
 - fast-cli (Netflix speedtest)
-- fast-csv
-- google-libphonenumber
-- html-pdf 
+- fast-csv (parse CVS)
+- google-libphonenumber (phoneNumber library)
+- html-pdf (convert html to pdf)
 - moment (date library)
-- node-inspector
-- node-uuid
+- node-inspector (debug nodeJS apps on Chrome)
+- node-uuid (generate UUID)
 - numeral (number formatting)
-- node-sass
-- pusher
-- pusher-js
-- reactify
-- request
-- serve-favicon
-- superagent
-- tape
-- ua-parser
-- uglifyify
-- watchify
+- node-sass (pre-process SASS to CSS)
+- pusher (websockets)
+- pusher-js (websockets - complimentary)
+- reactify (browserify plugin for React)
+- request (HTTP requests)
+- serve-favicon (to serve dynamic favicons)
+- superagent (HTTP requests)
+- tape (unit test library)
+- ua-parser (to parse UA Clients)
+- uglifyify (to minify)
+- watchify (to watch)
