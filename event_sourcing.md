@@ -10,6 +10,7 @@
 - Then they are published on a message broker such as MassTransit so that subscribed event listeners (or Observers) can trigger their Projection Builders.
 - There are no deletes. Only appending. If you want to change the state you keep adding events to look like if it had returned to a previous state.
 - Save events in the EventStore and the data in the RDS database
+- Queries only have getById
 
 ### Pros
 
