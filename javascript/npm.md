@@ -8,16 +8,18 @@
 - browserify
 - bunyan
 - compression
+- date-fns (like momentJS but modern)
 - envify
 - eslint
-- express
+- express (web server)
+- fast-cli (Netflix speedtest)
 - fast-csv
 - google-libphonenumber
 - html-pdf 
-- moment
+- moment (date library)
 - node-inspector
 - node-uuid
-- numeral
+- numeral (number formatting)
 - node-sass
 - pusher
 - pusher-js
