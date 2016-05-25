@@ -103,4 +103,5 @@
    * [Metaprogramming](metaprogramming.md)
 * [Quality Assurance](quality_assurance.md)
 * [Internet Protocols](internet_protocols.md)
+   * AMQP
 
