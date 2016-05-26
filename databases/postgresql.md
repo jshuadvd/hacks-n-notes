@@ -26,6 +26,16 @@ createuser --interactive
 psql
 ```
 
+### Connect to db
+
+```sh
+psql \
+   --host=<DB instance endpoint> \
+   --port=<port> \
+   --username <master user name> \
+   --password <master user password> \
+   --dbname=<database name> 
+```
 
 
 
