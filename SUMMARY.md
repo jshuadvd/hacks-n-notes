@@ -48,6 +48,7 @@
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [HTML](html.md)
+   * Head
 * [CSS](css/readme.md)
    * [CSS3 Animations](css/css3-animations.md)
 * [Computer Science](computer-science/readme.md)
