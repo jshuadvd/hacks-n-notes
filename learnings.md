@@ -4,6 +4,12 @@
 
 ### May
 
+1. EventSourcing
+2. CQRS
+3. Websockets with Pusher public channels
+4. npm pg (postgres)
+5. AWS RDS (postgres)
+6. Google Maps custom markers
 
 ### April
 
