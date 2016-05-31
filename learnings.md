@@ -12,6 +12,7 @@
 6. Google Maps custom markers
 7. Instagram's fetch API
 8. Parse a RSS feed to JSON in NodeJS
+9. Fundamentals of AMQP (Advanced Message Queuing Protocol)
 
 ### April
 
