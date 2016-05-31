@@ -10,6 +10,8 @@
 4. npm pg (postgres)
 5. AWS RDS (postgres)
 6. Google Maps custom markers
+7. Instagram's fetch API
+8. Parse a RSS feed to JSON in NodeJS
 
 ### April
 
