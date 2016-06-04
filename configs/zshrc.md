@@ -46,10 +46,9 @@ bindkey '^r' history-incremental-search-backward
 bindkey '^P' up-history
 bindkey '^N' down-history
 
-function alertme {
-  echo 'alert-jorge'
-}
-export alertme
+# to be able to run local npm packages as global
+# eg. `gulp`  instead of `./node_modules/.bin/gulp`
+export PATH=$PATH:./node_modules/.bin
 ```
 
 Then append [npm completion](https://docs.npmjs.com/cli/completion) to have autocomplete.
