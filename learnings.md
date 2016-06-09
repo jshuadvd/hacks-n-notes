@@ -4,6 +4,11 @@
 
 ### June
 
+- Google Maps rectangles
+- Redux async actions
+- C# Tuple, Dictionary
+- Facebook SDK - comments
+- Twitter embeds
 
 ### May
 
