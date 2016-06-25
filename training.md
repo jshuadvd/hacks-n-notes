@@ -5,7 +5,8 @@
 ### Workout A – Shoulders & Back
 
 1. Weighted Chin-ups: 2 sets – 4-6 reps, 6-8 reps (RPT)
-2. Standing Barbell Press: 2 sets – 4-6 reps, 6-8 reps (RPT) 3. Seated Cable Rows: 2 sets – 4-6 reps, 6-8 reps (RPT)
+2. Standing Barbell Press: 2 sets – 4-6 reps, 6-8 reps (RPT) 
+3. Seated Cable Rows: 2 sets – 4-6 reps, 6-8 reps (RPT)
 4. Lateral Raises: 4 sets x 10-15 reps (SS)
 5. Hanging Leg Raises: 2 sets x 10-15 reps (SS)
 
