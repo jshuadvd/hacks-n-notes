@@ -49,4 +49,5 @@ warm up set | reps | weight
 ### SS (Straight Sets)
 
 - the same amount of reps in each set
-
+- rest 2 min between sets
+- 
