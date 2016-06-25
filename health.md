@@ -19,16 +19,14 @@ protein | 30% | 4
 carbs | 40% | 4
 fats | 30% | 9
 
-666
-888
-
-round grams to nearest 5
 
 ### Fat loss calorie ratio for 185g
+
+> round grams to nearest 5
 
 type | grams 
 -- | --
 protein | 165g
 carbs | 220g
-fats | 74g
+fats | 75g
 
