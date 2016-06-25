@@ -55,7 +55,8 @@ warm up set | reps | weight
 
 ### Progress
 
+- increase 5lbs when you build up to 15reps on first set.
+
 #### abs 
 - increase complexity when reaching 15 reps on first set
-
 
