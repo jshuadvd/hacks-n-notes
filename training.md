@@ -35,6 +35,11 @@
 - reduce 10-15% the weight for the second set
 - aim to get 2 more reps on your second set
 
+#### Progress
+
+- increase 5lbs every time you reach 6 reps on first set
+
+
 #### Warm up
 
 - first exercise for the muscle group requires warming up
@@ -53,10 +58,10 @@ warm up set | reps | weight
 - the same amount of reps in each set
 - rest 2 min between sets
 
-### Progress
+#### Progress
 
 - increase 5lbs when you build up to 15reps on first set.
 
-#### abs 
+##### abs 
 - increase complexity when reaching 15 reps on first set
 
