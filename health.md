@@ -30,3 +30,8 @@ protein | 165g
 carbs | 220g
 fats | 75g
 
+Meals | ratio
+- | -
+Lunch | 40%
+Dinner | 40%
+Snack | 20%
