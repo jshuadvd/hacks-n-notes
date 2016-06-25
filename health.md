@@ -23,6 +23,8 @@ fats | 30% | 9
 ### Fat loss calorie ratio for 185g
 
 > round grams to nearest 5
+> proteins/carbs can be in a range of 10g
+> fats can be in a range of 5g
 
 type | grams 
 -- | --
