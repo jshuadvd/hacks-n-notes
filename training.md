@@ -13,8 +13,7 @@
 ### Workout B – Lowerbody and Biceps
 1. Single Leg Squats: 2 sets – 6-8 reps, 8-10 reps (RPT)
 2. Romanian Deadlifts: 2 sets – 6-8 reps, 8-10 reps (RPT)
-3. Standing Calf Raises: 2 sets – 10-12 reps, 12-15 reps
-(RPT)
+3. Standing Calf Raises: 2 sets – 10-12 reps, 12-15 reps (RPT)
 4. Barbell Curls: 2 sets – 6-8 reps, 8-10 reps (RPT)
 5. Hammer Curls: 2 sets – 6-8, 8-10 (RPT)
 
