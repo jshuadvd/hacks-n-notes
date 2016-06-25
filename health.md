@@ -10,5 +10,5 @@ Daily calorie intake for fat loss
 
 `
 const caloriesForFatLoss = bodyweightInLbs * 12
-// 185 * 12 = 
+// 185lbs * 12 = 2220cal
 `
