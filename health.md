@@ -26,9 +26,9 @@ fats | 30% | 9
 
 type | grams 
 -- | --
-protein | 165g
-carbs | 220g
-fats | 75g
+protein | 155g - 175g
+carbs | 210g - 230g
+fats | 70g - 80g
 
 Meals | cal ratio | protein | carbs | fat | time
 - | - | - | - | - | -
