@@ -46,3 +46,7 @@ warm up set | reps | weight
 2 | 3 | 80%
 3 | 1 | 90%
 
+### SS (Straight Sets)
+
+- the same amount of reps in each set
+
