@@ -13,10 +13,9 @@ const caloriesForFatLoss = bodyweightInLbs * 12
 // 185lbs * 12 = 2220cal
 ```
 
-type | ratio
---- | ---
-protein | 30%
-carbs | 40%
-fats | 30%
-
+type | ratio | cal/g 
+--- | --- | --
+protein | 30% | 4
+carbs | 40% | 4
+fats | 30% | 9
 
