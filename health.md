@@ -36,5 +36,3 @@ Lunch | 40% | 65g | 90g | 30g | 12PM
 Snack | 20% | 35g | 45g | 15g | 3PM
 Dinner | 40% | 65g | 90g | 30g | 8PM
 
-
-
