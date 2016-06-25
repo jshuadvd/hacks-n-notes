@@ -11,6 +11,7 @@
 5. Hanging Leg Raises: 2 sets x 10-15 reps (SS)
 
 ### Workout B – Lowerbody and Biceps
+
 1. Single Leg Squats: 2 sets – 6-8 reps, 8-10 reps (RPT)
 2. Romanian Deadlifts: 2 sets – 6-8 reps, 8-10 reps (RPT)
 3. Standing Calf Raises: 2 sets – 10-12 reps, 12-15 reps (RPT)
