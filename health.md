@@ -2,7 +2,7 @@
 
 ## Nutrition
 
-- Goal in 3 months lose 15lbs of fat and gain 5lbs of muscle
+- Goal in 3 months lose 15lbs of fat and gain 5lbs of muscle (7-8% body fat)
 
 Daily calorie intake for maintenance calories
 
