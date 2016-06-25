@@ -21,3 +21,4 @@
 3. Skull Crushers: 2 sets – 6-8, 8-10 (RPT)
 4. Rear Delt Flyes: 4 sets x 10-15 reps (SS)
 5. Abs Wheel Roll outs: 2 sets x 10-15 reps (SS)
+
