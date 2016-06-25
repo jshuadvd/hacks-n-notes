@@ -106,5 +106,5 @@
 * [Internet Protocols](internet_protocols.md)
    * [AMQP](amqp.md)
 * [Health](health.md)
-   * Training
+   * [Training](training.md)
 
