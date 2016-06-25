@@ -2,6 +2,8 @@
 
 ## Nutrition
 
+- Goal in 3 months lose 15lbs of fat and gain 5lbs of muscle
+
 Daily calorie intake for maintenance calories
 
 `bodyweight in lbs * 15`
@@ -51,4 +53,5 @@ Dinner | 40% | 65g | 90g | 30g | 8PM
 > 2 days a week (Monday & Friday)
 > 
 > Train upper body on those days
+
 
