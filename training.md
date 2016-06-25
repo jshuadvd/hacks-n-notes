@@ -52,4 +52,10 @@ warm up set | reps | weight
 
 - the same amount of reps in each set
 - rest 2 min between sets
-- 
+
+### Progress
+
+#### abs 
+- increase complexity when reaching 15 reps on first set
+
+
