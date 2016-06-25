@@ -13,6 +13,13 @@ const caloriesForFatLoss = bodyweightInLbs * 12
 // 185lbs * 12 = 2220cal
 ```
 
+Daily calorie intake for refeed day
+
+```js
+const caloriesForFatLoss = bodyweightInLbs * 12
+// 185lbs * 16 = 2960cal
+```
+
 type | ratio | cal/g 
 --- | --- | --
 protein | 30% | 4
@@ -37,4 +44,11 @@ Meals | cal ratio | protein | carbs | fat | time
 Lunch | 40% | 65g | 90g | 30g | 12PM
 Snack | 20% | 35g | 45g | 15g | 3PM
 Dinner | 40% | 65g | 90g | 30g | 8PM
+
+
+### Refeed day 
+
+> 2 days a week (Monday & Friday)
+> 
+> Train upper body on those days
 
