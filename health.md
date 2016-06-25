@@ -8,7 +8,15 @@ Daily calorie intake for maintenance calories
 
 Daily calorie intake for fat loss
 
-`
+```js
 const caloriesForFatLoss = bodyweightInLbs * 12
 // 185lbs * 12 = 2220cal
-`
+```
+
+type | ratio
+--- | ---
+protein | 30%
+carbs | 40%
+fats | 30%
+
+
