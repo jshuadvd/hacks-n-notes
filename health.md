@@ -8,4 +8,7 @@ Daily calorie intake for maintenance calories
 
 Daily calorie intake for fat loss
 
-`bodyweight in lbs * 12`
+`
+const caloriesForFatLoss = bodyweightInLbs * 12
+// 185 * 12 = 
+`
