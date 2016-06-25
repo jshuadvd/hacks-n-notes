@@ -30,8 +30,12 @@ protein | 165g
 carbs | 220g
 fats | 75g
 
-Meals | ratio
-- | -
-Lunch | 40%
-Dinner | 40%
-Snack | 20%
+Meals | cal ratio | protein | carbs | fat
+- | - | - | - | -
+Lunch | 40% | 65g | 90g | 30g
+Dinner | 40% | 65g | 90g | 30g
+Snack | 20% | 35g | 45g | 15g
+
+
+
+
