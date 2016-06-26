@@ -46,3 +46,9 @@ Shell and Unix notes
 
 ### Check all the memory each process is consuming
 - `ps aux --sort -rss | head -n 15`
+
+### kill an unresponsive process on Unix
+
+- `ps aux | grep <service name>`
+- find its process id (PID)
+- `kill -9 PID`
