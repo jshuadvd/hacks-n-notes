@@ -52,3 +52,8 @@ Shell and Unix notes
 - `ps aux | grep <service name>`
 - find its process id (PID)
 - `kill -9 PID`
+
+### Check port use
+
+- `sudo netstat -naplt | grep 8080`
+
