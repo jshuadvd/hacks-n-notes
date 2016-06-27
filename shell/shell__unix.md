@@ -57,3 +57,14 @@ Shell and Unix notes
 
 - `sudo netstat -naplt | grep 8080`
 
+### Check Node traffic on specific port
+
+- `sudo tcpdump -A -i lo port 2354`
+
+
+### to get unix my ip address
+
+```sh
+echo `ifconfig eth0 2>/dev/null|awk '/inet addr:/ {print $2}'|sed 's/addr://'`
+```
+
