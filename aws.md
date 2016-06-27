@@ -3,7 +3,7 @@
 > Amazon Web Services
 
 - Wener Vogels is **AWS CTO**
-
+- [AWS training slideshow](http://www.slideshare.net/secret/nGIeHZOa86I7sA)
 
 Term | definition
 ---------- | --------
