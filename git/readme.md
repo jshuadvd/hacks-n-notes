@@ -13,6 +13,6 @@ Git notes.
 `git rebase -i HEAD~3`
 
 A file will open up in your editor for you to choose which commits to squash and which to leave like that (pick). Change the `pick` keyword to `squash` if you want to squash a particular commit.
-Then save to finish the rebase (squash).
+Then save to finish the `rebase` (squash).
 
-Only squash commits that haven't been push to origin, otherwise you would be rewriting history and that can cause painful sync issues.
+Only squash commits that haven't been push to origin. Otherwise you would be rewriting history and that can cause painful sync issues.
