@@ -9,3 +9,10 @@ Git notes.
 
 - This can be useful to push cleaner branches to pull request.
 - Also it might make easier to `git rebase` since it will be just one step instead of multiple steps.
+
+`git rebase -i HEAD~3`
+
+A file will open up in your editor for you to choose which commits to squash and which to leave like that (pick). Change the `pick` keyword to `squash` if you want to squash a particular commit.
+Then save to finish the rebase (squash).
+
+Only squash commits that haven't been push to origin, otherwise you would be rewriting history and that can cause painful sync issues.
