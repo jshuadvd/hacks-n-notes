@@ -28,7 +28,7 @@ eg.
 
 ## Create groups
 
-```bash
+```sh
 sudo groupadd www  # creates group with name 'www'
 sudo usermod -a -G www ec2-user # adds user 'ec2-user' to group 'www'
 
