@@ -19,6 +19,7 @@
 ## ssh
 
 `ssh -i <pem file path> -l <user>` user for EC2 is ubuntu
+
 eg.
 
 `ssh -i ~/dev-ec2.pem 107.23.204.220 -l ubuntu`
