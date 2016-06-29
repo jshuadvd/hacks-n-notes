@@ -18,7 +18,10 @@
 
 ## ssh
 
-`ssh -i ~/dev-ec2.pem 107.23.204.220 -l ec2-user`
+`ssh -i <pem file path> -l <user>` user for EC2 is ubuntu
+eg.
+
+`ssh -i ~/dev-ec2.pem 107.23.204.220 -l ubuntu`
 
 - the IP is the Public IP from EC2
 - the *ec2-user* is your username for that EC2
