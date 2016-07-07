@@ -77,7 +77,7 @@
 1. less middle men 
 
 
-## Uncatheogrized
+## Uncategorized
 
 1. more educational simulators
 1. more and stricter laws and government control
