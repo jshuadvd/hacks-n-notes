@@ -45,6 +45,7 @@
    * [npm](javascript/npm.md)
    * [Security](javascript/security.md)
    * [RegEx](javascript/regex.md)
+   * Code Modificators
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [HTML](html.md)
