@@ -108,4 +108,5 @@
    * [AMQP](amqp.md)
 * [Health](health.md)
    * [Training](training.md)
+* Math
 
