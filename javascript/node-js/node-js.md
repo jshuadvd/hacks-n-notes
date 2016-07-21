@@ -29,3 +29,6 @@
 import compress from 'compression';
 app.use(compress());
 ```
+
+- vim: associate `.hbs` file extension with HTML by adding the line `au BufNewFile, BufRead *.hbs set file type=html` to your *.vimrc* file
+- 
