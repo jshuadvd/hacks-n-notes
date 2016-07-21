@@ -65,3 +65,37 @@ req.cookies.session_id
 - language
 - user agent (browser, OS, hardware)
 
+## Response Headers
+
+> server also sends invisible info
+
+- Content-Type
+- is it compressed?
+- encoding type
+- cache expiration
+- server type and OS (hint for hackers... `app.disable('x-powered-by')`
+
+## Content Type
+- it is an Internet Media Type
+- MIME was a precursor type/subtype; params eg. `text/html; charset=UTF-8`
+- [Internet Media Types](www.iana.org/assignments/media-types/media-types.xhtml)
+
+## Request Body
+
+- most common media type for POST bodies is `application/x-www-form-urlencoded` which is similar to querystring
+- if POST needs file uploads it uses `multipart/form-data`
+- AJAX uses `application/json`
+- Normal GET requests lack bodies
+
+## Parameters
+
+Can come from
+
+- querystring
+- session
+- request body
+- named routing parameters
+
+
+
+
