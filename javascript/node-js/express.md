@@ -96,6 +96,27 @@ Can come from
 - request body
 - named routing parameters
 
+## Request Object
+
+> Created as an instance of `http.IncomingMessage`
+
+- `req.params`: [by express] array with named route parameters
+- `req.param()`: [by express] method to get the named route parameter
+- `req.query`: [by express] dictionary of querystring parameters
+- `req.body`: [by express] Object dictionary containing POST params from body. To make it available you need middleware
+- `req.route`: [by express] info about route. Useful for debugging
+- `req.cookies` & `req.signedCookies`: [by express] cookie dictionary
+- `req.headers`: [Node] headers from client
+- `req.accepts`: [express] method to determine if a client accepts certain types. eg. MIME types, arrays, comma list
+- `req.ip`: [express] client ip address
+- `req.path`: [express] path without protocol, host, port or querystring
+- `req.host`: [express] method that returns hostname from client. This can be spoofed. Warning: should not be used for security purposes.
+- `req.xhr`: [express] boolean states if request was AJAX
+- `req.protocol`: [express] http or https
+- `req.secure`: [express] boolean equivalent to `req.protocol === 'https'`
+- `req.url` / `req.originalUrl`: [node/ express]
+- `req.acceptedLanguages`: [express] array of human languages the client prefer. Parsed from `req.header`
+
 
 
 
