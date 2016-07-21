@@ -31,4 +31,9 @@ app.use(compress());
 ```
 
 - vim: associate `.hbs` file extension with HTML by adding the line `au BufNewFile, BufRead *.hbs set file type=html` to your *.vimrc* file
-- 
+
+
+## Page tests
+
+- run zombie tests with `mocha -u tdd -R spec qa/tests-cross.js 2>/dev/null`
+- `/dev/null` hides stack trace
