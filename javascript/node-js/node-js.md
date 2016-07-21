@@ -37,3 +37,4 @@ app.use(compress());
 
 - run zombie tests with `mocha -u tdd -R spec qa/tests-cross.js 2>/dev/null`
 - `/dev/null` hides stack trace
+- [linkChecker](http://wummel.github.io/linkchecker`
