@@ -56,3 +56,12 @@ req.cookies.session_id
         } 
     }
 ```
+
+## Request Headers
+
+> info sent by the browser to the server
+
+- url
+- language
+- user agent (browser, OS, hardware)
+
