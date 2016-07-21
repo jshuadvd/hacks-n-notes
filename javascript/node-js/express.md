@@ -117,6 +117,10 @@ Can come from
 - `req.url` / `req.originalUrl`: [node/ express]
 - `req.acceptedLanguages`: [express] array of human languages the client prefer. Parsed from `req.header`
 
+## Response Object
 
+> created on `http.ServerResponse`
+
+- 
 
 
