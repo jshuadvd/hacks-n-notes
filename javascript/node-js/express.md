@@ -180,3 +180,31 @@ app.post('/contest/vacation-photo/:year/:month', function(req, res) {
 });
 ```
 
+## Cookies & Sessions
+
+HTTP is stateless.
+- Every request is independent of the previous ones
+- Cookies & sessions save state
+
+Cookies are visible to users
+
+**Signed Cookies** can obfuscate its contents but not encrypt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
