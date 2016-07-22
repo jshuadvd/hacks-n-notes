@@ -143,3 +143,15 @@ Can come from
 - Use the same URL endpoint for AJAX and normal POST fallback. This hides implementation details. **good**: `/offers` **bad** `/api/offers`
 - Detect AJAX. `if(req.xhr || req.accepts('json, html') === 'json') {`
 
+## File Uploads
+
+Two famous libraries for multipart processing:
+- Busboy
+- Formidable (easier to uses)
+
+eg.
+```html
+<form enctype="multipart/formm-data" action="/" method="POST">
+  <input type="file" accept="image/*" name="photo" />
+```
+
