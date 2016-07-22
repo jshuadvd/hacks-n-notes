@@ -194,6 +194,11 @@ Don't trust cookies
 - Use **signed cookies** to ensure they're not tampered
 - cookies can be used for XSS attacks
 
+Prefer session over cookies
+- Sessions use cookies but they are safer
+- Express knows how to handle sessions
+
+
 
 
 
