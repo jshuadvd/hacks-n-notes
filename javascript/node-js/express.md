@@ -130,6 +130,26 @@ Can come from
 - `res.jsonp(json)`: sends JSONP
 - `res.type(type)`: Method equivalent to `res.set('Content-Type', type)` except it will attempt to map file extensions to an Internet media type eg. `res.type('txt')` to `text/plain`
 - `res.format(object)`: Method to send different content depending on the Accept request header.
+```js
+app.get('/api/tours', (req, res) => {
+  var toursXml = '<?xml version="1.0"?><tour>Tour1</tour>';
+  var toursText = 'Tour1';
+  res.format({
+    'application/json': () => res.json(tours),
+    'application/xml': () => {
+      res.type('application/xml');
+      res.send(toursXml);
+    },
+    'text/xml': () => {
+      res.type('text/xml');
+      res.send(toursXml);
+    },
+    'text/plain': () => {
+      res.type('text/plain');
+      res.send(toursText);
+    }
+});
+```
 - `res.attachment([filename])` & `res.download(path, [filename], [callback])`: Both of these methods set a response header called Content-Disposition to **attachment**. This will prompt the browser to download the content instead of displaying it in a browser. **attachment** will only set the headers but you'll have to send the conent. With **download** you can specify a file path to send.
 - `res.sendFile(path, [options], [callback])`: will read the contents of a file and send the contents.
 - `res.links(links)`: sets links response header.
