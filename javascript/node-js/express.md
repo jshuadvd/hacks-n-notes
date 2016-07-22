@@ -190,6 +190,10 @@ Cookies are visible to users
 
 **Signed Cookies** can obfuscate its contents but not encrypt
 
+Don't trust cookies
+- Use **signed cookies** to ensure they're not tampered
+- cookies can be used for XSS attacks
+
 
 
 
