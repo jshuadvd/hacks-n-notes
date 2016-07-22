@@ -121,6 +121,14 @@ Can come from
 
 > created on `http.ServerResponse`
 
-- 
-
+- `res.status()`: method to set status code (HTTP). Default is 200. FOr redirects use 301, 302, 303 & 307 (use `res.redirect` method instead)
+- `res.set(name, value)`: set response header
+- `res.cookie(name, value, [options])` & `res.clearCookie(name, [options])`: sets or clears cookies that will be stared on the client.
+- `res.redirect([status], url)`: Redirects browser. Default code 302 (found). Avoid redirection unless permanently moving a page. 301 (Moved Permanently).
+- `res.send(body)` & `res.send(status.body)`: Sends response to client. Defaults content type `text/html`. To change `res.set('Content-Type', 'text/plain'). If body is object or array it sends it as json
+- `res.json(json)`: sends JSON. Use this instead of `res.send` if sending JSON.
+- `res.jsonp(json)`: sends JSONP
+- `res.type(type)`: Method equivalent to `res.set('Content-Type', type)` except it will attempt to map file extensions to an Internet media type eg. `res.type('txt')` to `text/plain`
+- `res.format(object)`: Method to send different content depending on the Accept request header.
+- `res.attachment([filename])` & `res.download(path, [filename], [callback])`: Both of these methods set a response header called Content-Disposition to **attachment**.
 
