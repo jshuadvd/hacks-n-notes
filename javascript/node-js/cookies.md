@@ -22,6 +22,24 @@ res.cookie('monster', 'nom nom');
 res.cookie('signed_monster', 'nom nom', {signed: true});
 ```
 
+#### Cookie options
+
+#### domain
+- controls the domain and subdomains for the cookie
+- Cookie must be assigned to the same domain as its server. Otherwise it won't do nothing.
+
+#### path
+- controls the path this cookie applies to
+
+#### maxAge
+- expiration time in milliseconds
+- this is simpler than `expires`
+
+#### secure
+- if true will send cookie only over a secure HTTPS connection
+
+
+
 ### Retrieve cookies from client
 
 ```js
