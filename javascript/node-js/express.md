@@ -220,6 +220,17 @@ Prefer session over cookies
 
 
 
+## Externalizing Credentials
+
+### Cookie secret
+
+> **Cookie secret** makes cookies secure.
+
+- it's a string that's known to the server and used to encrypt secure cookies before they're sent to the client.
+- it can be a random string
+
+
+
 
 
 ## Stress Testing
@@ -248,6 +259,7 @@ suite('Stress tests', function () {
   });
 });
 ```
+
 
 
 
