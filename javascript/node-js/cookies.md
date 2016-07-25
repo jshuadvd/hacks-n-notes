@@ -15,3 +15,32 @@
 - `app.use(require('cookie-parser')(credentials.cookieSecret));`
 - 
 
+### Set cookies
+
+```js
+res.cookie('monster', 'nom nom');
+res.cookie('signed_monster', 'nom nom', {signed: true});
+```
+
+### Retrieve cookies from client
+
+```js
+var monster = req.cookies.monster;
+var signedMonster = req.signedCookies.monster;
+```
+
+### Delete cookie
+
+```js
+res.clearCookie('monster');
+```
+
+
+
+
+
+
+
+
+
+
