@@ -38,7 +38,13 @@ res.cookie('signed_monster', 'nom nom', {signed: true});
 #### secure
 - if true will send cookie only over a secure HTTPS connection
 
+#### httpOnly
+- states that this cookie can only be modified by the server
+- this prevents XSS attacks
 
+#### signed
+- set to `true` to sign the cookie
+- tampered signed cookies will be rejected by the server and will reset the cookies value.
 
 ### Retrieve cookies from client
 
