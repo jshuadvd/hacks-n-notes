@@ -1,5 +1,30 @@
 # Cookies
 
+## Sessions
+
+```javascript
+// Set
+res.cookie(
+  SessionCookie.COOKIE_NAME, 
+  sessionId,
+  SessionCookie.makeOptions(
+    cookieDomain,
+    SessionCookie.DEFAULT_MAX_AGE
+  )
+)
+.redirect(nextUrl);
+
+// Get on request
+req.cookies.session_id
+```
+
+- store state on client
+- npm module [cookie-session](https://www.npmjs.com/package/cookie-session)
+- helps to handle storing info in the client
+- npm module [express-session](https://www.npmjs.com/package/express-session) will store info in the express server (in memory) instead of the client. You can leverage NoSql to sync multi node instances.
+- Sessions are useful to save user preferences, auth info, tracking, etc.
+
+
 ## Externalizing Credentials
 
 ### Cookie secret
