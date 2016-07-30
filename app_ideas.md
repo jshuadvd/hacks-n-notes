@@ -31,5 +31,5 @@
 - make it as a Chrome extension
 - configure it with your personal goals
 - disable it for domains
-
+- support motivational quotes, images, videos
 
