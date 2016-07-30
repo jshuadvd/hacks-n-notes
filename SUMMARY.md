@@ -98,7 +98,7 @@
 * [Business](business.md)
    * [Trends](trends.md)
    * [Web App costs](web_app_costs.md)
-   * App ideas
+   * [App ideas](app_ideas.md)
 * [Internet Marketing](internet_marketing.md)
 * [Tools](tools.md)
 * [i18n](i18n.md)
