@@ -33,3 +33,19 @@
 - disable it for domains
 - support motivational quotes, images, videos
 
+## Energy monitor
+
+* energy through week
+* log food
+* log snacks
+* log sleep
+* log exercise 
+* log office hours
+* log meetings
+* sync with Google calendar to extract activity types 
+* determine energy burn rate 
+* energy calendar visualization 
+* energy fuel tank graphic
+
+
+
