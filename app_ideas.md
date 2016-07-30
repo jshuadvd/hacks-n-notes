@@ -14,3 +14,11 @@
 8. search 
 9. filters
 10. analytics 
+
+
+## Mermaid flowcharts
+
+* unit test mermaid flowchart 
+* toggle ids 
+* generate code with markdown
+* cooler colors and styles
