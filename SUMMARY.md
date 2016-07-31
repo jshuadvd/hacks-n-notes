@@ -38,6 +38,7 @@
        * [ExpressJS](javascript/node-js/express.md)
            * [Cookies](javascript/node-js/cookies.md)
            * [Middleware](javascript/node-js/middleware.md)
+           * Sending email
        * [NodeJS API](javascript/node-js/native-api.md)
        * [Version management](javascript/node-js/version_management.md)
        * [Unix](javascript/node-js/unix.md)
