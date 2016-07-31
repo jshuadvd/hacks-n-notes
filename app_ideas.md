@@ -47,5 +47,17 @@
 * energy calendar visualization 
 * energy fuel tank graphic
 
+## Life tree
 
+* pictures 
+* memories 
+* biography 
+* video 
+* audio 
+* family tree chart 
+* top learnings
+* inheritable illnesses 
+* talents
+* nationality
+* memorial day doodle
 
