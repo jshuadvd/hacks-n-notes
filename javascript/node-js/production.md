@@ -189,6 +189,15 @@ var server = http.createServer(app).listen(app.get('port'), () => {
 -  is going to be deprecated
 
 
+## Monitoring your app
+
+- use third-party monitoring services additionally to your server monitoring
+- if your server goes down it might not have time to send an SOS. 3rd party monitoring would help diversify the monitoring
+
+### Services (Uptime monitors)
+
+- UptimeRobot
+
 
 
 
