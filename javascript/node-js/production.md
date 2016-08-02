@@ -22,3 +22,20 @@ switch(app.get('env')){
     break;
 }
 ```
+
+### Scale
+
+- **Scale-out** is more cost efficient than **scale-in**
+- Persist with filesystems only read-only data like logging and backups
+
+#### Scale-out with App Clusters
+
+- single-server form of scaling out
+- create on independent server for each core (CPU)
+- don't create more than one cluster per core otherwise the extra servers will be useless
+
+##### The Pros
+
+- Maximize server performance (hardware or virtual machine)
+- low overhead to test your app under parallel conditions
+
