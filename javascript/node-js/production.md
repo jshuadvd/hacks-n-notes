@@ -117,6 +117,9 @@ app.get('/epic-fail', (req, res) => {
 - The most recent and recommended approach (2014)
 - Domains wrap the uncaught exceptions in a known context. This allows to gracefully shutdown the server
 
+```js
+```
+
 #### uncaughtExceptions events
 -  is going to be deprecated
 
