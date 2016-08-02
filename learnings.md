@@ -8,6 +8,7 @@
 - ExpressJS cookies
 - ExpressJS sending email
 - ExpressJS app clusters scaling
+- ExpressJS uncaught server exceptions
 
 ### June
 
