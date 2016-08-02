@@ -25,7 +25,7 @@ switch(app.get('env')){
 
 ### Scale
 
-- **Scale-out** is more cost efficient than **scale-in**
+- **Scale-out** is more cost efficient than **scale-up**
 - Persist with filesystems only read-only data like logging and backups
 
 #### Scale-out with App Clusters
