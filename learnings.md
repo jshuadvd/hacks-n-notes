@@ -2,6 +2,13 @@
 
 ## 2016
 
+### July
+- Redux connect
+- ExpressJS middleware
+- ExpressJS cookies
+- ExpressJS sending email
+- ExpressJS app clusters scaling
+
 ### June
 
 - Google Maps rectangles
