@@ -84,6 +84,20 @@ if (cluster.isMaster) {
 - Add error handler after all your routes
 
 ```js
+app.get('/fail', (req, res) => {
+  throw new Error('Nope:');
+});
+
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  app.status(500).render('500');
+});
+
+app.get('/epic-fail', (req, res) => {
+  process.nextTick(() => {
+    throw new Error('Kaboom!');
+  });
+});
 ```
 
 
