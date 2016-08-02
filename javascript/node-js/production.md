@@ -196,7 +196,22 @@ var server = http.createServer(app).listen(app.get('port'), () => {
 
 ### Services (Uptime monitors)
 
-- UptimeRobot
+#### [UptimeRobot](https://uptimerobot.com/)
+- alerts can go to email, SMS, Twitter, iPhone app
+- can monitor the return code from a single page (HTTP codes)
+
+#### [Pingdom](https://www.pingdom.com/)
+#### [Site 24x7](http://www.site24x7.com/)
+
+### Application Failures
+- Monitor keywords suc as "server failure"
+- handle gracefully with a "We're sorry" message and ping the staff for help
+- A sophisticated approach could be AWS Simple Notification Service (SNS)
+
+#### [GetSentry](www.getsentry.com)
+#### [Airbrake](http://airbrake.io)
+
+
 
 
 
