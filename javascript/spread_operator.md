@@ -20,7 +20,11 @@ let alphanum = [ ...nums, ...abs ]; // [1, 2, 3, 'a', 'b', 'c']
 
 ## Object.assign shorthand
 
+- This is a [proposal by Sebastian Markbage](https://github.com/sebmarkbage/ecmascript-rest-spread)
+- serves as a shorthand for `Object.assign`
+
 ```js
 const o = {num: 0, txt: 'hi'};
 const newO = {...o, num: 1};
 ```
+ 
