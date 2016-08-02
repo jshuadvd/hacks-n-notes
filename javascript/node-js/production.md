@@ -82,9 +82,10 @@ if (cluster.isMaster) {
 - Express will log the exception on the server side, and the client will get an ugly stack dump
 - The server will still be stable, and other requests will continue to be served correctly.
 - Add error handler after all your routes
-- This is the only exceptions that Express can catch
+
 
 ```js
+// This is the only exceptions that Express can catch
 app.get('/fail', (req, res) => {
   throw new Error('Nope:');
 });
@@ -94,6 +95,7 @@ app.use((err, req, res, next) => {
   app.status(500).render('500');
 });
 
+// This won't be catched by Express
 app.get('/epic-fail', (req, res) => {
   process.nextTick(() => {
     throw new Error('Kaboom!');
