@@ -17,3 +17,10 @@ let abcs = ['a', 'b', 'c'];
 
 let alphanum = [ ...nums, ...abs ]; // [1, 2, 3, 'a', 'b', 'c']
 ```
+
+## Object.assign shorthand
+
+```js
+const o = {num: 0, txt: 'hi'};
+const newO = {...o, num: 1};
+```
