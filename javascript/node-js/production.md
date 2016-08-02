@@ -82,6 +82,7 @@ if (cluster.isMaster) {
 - Express will log the exception on the server side, and the client will get an ugly stack dump
 - The server will still be stable, and other requests will continue to be served correctly.
 - Add error handler after all your routes
+- This is the only exceptions that Express can catch
 
 ```js
 app.get('/fail', (req, res) => {
