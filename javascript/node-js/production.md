@@ -71,3 +71,32 @@ if (cluster.isMaster) {
 }
 
 ```
+- when a script is run directly, `require.main === module` will be true.
+- if false, it means your script has been loaded from another script using require.
+- [cluster](https://www.npmjs.com/package/cluster)
+- virtual machines default to a single core.
+
+### Handling Uncaught Exceptions
+
+- When Express executes route handlers, it wraps them in a try/catch block, so it isn't an uncaught exception.
+- Express will log the exception on the server side, and the client will get an ugly stack dump
+- The server will still be stable, and other requests will continue to be served correctly.
+- Add error handler after all your routes
+
+```js
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
