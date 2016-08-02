@@ -23,18 +23,18 @@ switch(app.get('env')){
 }
 ```
 
-### Scale
+## Scale
 
 - **Scale-out** is more cost efficient than **scale-up**
 - Persist with filesystems only read-only data like logging and backups
 
-#### Scale-out with App Clusters
+### Scale-out with App Clusters
 
 - single-server form of scaling out
 - create on independent server for each core (CPU)
 - don't create more than one cluster per core otherwise the extra servers will be useless
 
-##### The Pros
+#### The Pros
 
 - Maximize server performance (hardware or virtual machine)
 - low overhead to test your app under parallel conditions
@@ -76,7 +76,7 @@ if (cluster.isMaster) {
 - [cluster](https://www.npmjs.com/package/cluster)
 - virtual machines default to a single core.
 
-### Handling Uncaught Exceptions
+## Handling Uncaught Exceptions
 
 - When Express executes route handlers, it wraps them in a try/catch block, so it isn't an uncaught exception.
 - Express will log the exception on the server side, and the client will get an ugly stack dump
@@ -103,6 +103,22 @@ app.get('/epic-fail', (req, res) => {
 });
 ```
 
+- `process.nextTick(function)` & `setTimeout(function, 0)` execute when Node is idle, asynchronously. This causes Node to lose context about the http request it was served from so it shuts down the server, because it's in an undefined state.
+- Node can't know the purpose of the function, or its caller. So it can no longer assume that any further functions will work correctly.
+- When an uncaught exception occurs the best thing is to stop the server and have a failover mechanism.
+- An easy failover mechanism can be a cluster.
+
+### Two mechanisms to restart servers after unacaught exceptions
+
+> **Domains** and **uncaughtExceptions events** 
+
+#### Domains
+
+- The most recent and recommended approach (2014)
+- Domains wrap the uncaught exceptions in a known context. This allows to gracefully shutdown the server
+
+#### uncaughtExceptions events
+-  is going to be deprecated
 
 
 
