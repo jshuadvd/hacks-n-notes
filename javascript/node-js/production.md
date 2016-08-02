@@ -76,6 +76,17 @@ if (cluster.isMaster) {
 - [cluster](https://www.npmjs.com/package/cluster)
 - virtual machines default to a single core.
 
+### Scaling Out with Multiple Servers
+
+- To scale out you need a proxy server (often called a reverse proxy or forward-facing proxy.)
+- Most popular: Nginx and HAProxy
+- Dev proxies: [proxy](https://www.npmjs.com/package/proxy) and [node-http-proxy](https://www.npmjs.com/package/node-http-proxy)
+
+#### Working with proxies
+- if you use a proxy server, make sure to tell Express to trust it with `app.enable('trust proxy');
+- this will ensure that `req.ip`, `req.protocol`, and `req.secure` reflect details about the connection client <> proxy, and not client<>server
+- `req.ips` will be an array of ips with original client and the names or IP addresses of intermediate proxies
+
 ## Handling Uncaught Exceptions
 
 - When Express executes route handlers, it wraps them in a try/catch block, so it isn't an uncaught exception.
@@ -168,6 +179,12 @@ var server = http.createServer(app).listen(app.get('port'), () => {
 });
 ```
 
+- domains are set pu as a middleware
+
+##### Articles
+- [William Bert's article: The 4 Keys to 100% Uptime with NodeJS](http://engineering.curiositymedia.com/blog/2013/12/20/the-4-keys-to-100-uptime-with-nodejs)
+- [NodJS Domain documentation](https://nodejs.org/api/domain.html)
+ 
 #### uncaughtExceptions events
 -  is going to be deprecated
 
