@@ -83,7 +83,7 @@ if (cluster.isMaster) {
 - Dev proxies: [proxy](https://www.npmjs.com/package/proxy) and [node-http-proxy](https://www.npmjs.com/package/node-http-proxy)
 
 #### Working with proxies
-- if you use a proxy server, make sure to tell Express to trust it with `app.enable('trust proxy');
+- if you use a proxy server, make sure to tell Express to trust it with `app.enable('trust proxy');`
 - this will ensure that `req.ip`, `req.protocol`, and `req.secure` reflect details about the connection client <> proxy, and not client<>server
 - `req.ips` will be an array of ips with original client and the names or IP addresses of intermediate proxies
 
