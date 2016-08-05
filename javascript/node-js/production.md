@@ -119,7 +119,7 @@ app.get('/epic-fail', (req, res) => {
 - When an uncaught exception occurs the best thing is to stop the server and have a failover mechanism.
 - An easy failover mechanism can be a cluster.
 
-### Two mechanisms to restart servers after unacaught exceptions
+### Two mechanisms to restart servers after uncaught exceptions
 
 > **Domains** and **uncaughtExceptions events** 
 
