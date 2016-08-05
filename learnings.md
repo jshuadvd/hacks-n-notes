@@ -5,6 +5,7 @@
 - Redux asyncConnect
 - Google Analytics - event tracking
 - react-helmet
+- Docker fundamentals
 
 ### July
 - Redux connect
