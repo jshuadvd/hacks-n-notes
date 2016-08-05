@@ -1,6 +1,10 @@
 # Learnings
 
 ## 2016
+### August
+- Redux asyncConnect
+- Google Analytics - event tracking
+- react-helmet
 
 ### July
 - Redux connect
