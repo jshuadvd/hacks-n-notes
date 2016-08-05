@@ -6,6 +6,7 @@
 - Google Analytics - event tracking
 - react-helmet
 - Docker fundamentals
+- ExpressJS scaling up with clusters (web workers)
 
 ### July
 - Redux connect
