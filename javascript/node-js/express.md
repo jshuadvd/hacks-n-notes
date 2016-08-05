@@ -143,7 +143,7 @@ app.get('/api/tours', (req, res) => {
 
 - Use redirect 303 instead of direct HTML response since it doesn't interfere with back button & book marking
 - Use body-parser middleware for POST body
-- You can use querstring on POST by adding it to the forms action path eg. `<form action="/process?form=news">`
+- You can use `querystring` on POST by adding it to the forms action path eg. `<form action="/process?form=news">`
 - Use the same URL endpoint for AJAX and normal POST fallback. This hides implementation details. **good**: `/offers` **bad** `/api/offers`
 - Detect AJAX. `if(req.xhr || req.accepts('json, html') === 'json') {`
 
