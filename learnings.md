@@ -2,6 +2,10 @@
 
 ## 2016
 
+### August
+- Google Analytics event tracking
+
+
 ### July
 - Redux connect
 - ExpressJS middleware
