@@ -8,8 +8,5 @@
 - disable it for domains
 - support motivational quotes, images, videos
 
-## APIs
 
-- https://cloud.google.com/speech/
-- https://cloud.google.com/translate/
 
