@@ -8,5 +8,7 @@
 - disable it for domains
 - support motivational quotes, images, videos
 
+## User goals
+- 
 
 
