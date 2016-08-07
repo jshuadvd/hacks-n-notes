@@ -7,4 +7,6 @@
 - configure it with your personal goals
 - disable it for domains
 - support motivational quotes, images, videos
+- https://cloud.google.com/speech/
+
 
