@@ -1,9 +1,13 @@
 # App ideas
 
 ## Speech translator
-- https://cloud.google.com/speech/
-- then Google translate API
 
+- need to buy a long distance microphone for iPhone
+
+### APIs
+
+- https://cloud.google.com/speech/
+- https://cloud.google.com/translate/
 
 ## sObras
 
