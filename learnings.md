@@ -1,12 +1,6 @@
 # Learnings
 
 ## 2016
-### August
-- Redux asyncConnect
-- Google Analytics - event tracking
-- react-helmet
-- Docker fundamentals
-- ExpressJS scaling up with clusters (web workers)
 
 ### August
 - Google Analytics event tracking
@@ -27,7 +21,6 @@
 - C# Tuple, Dictionary
 - Facebook SDK - comments
 - Twitter embeds
-- nvm
 
 ### May
 
