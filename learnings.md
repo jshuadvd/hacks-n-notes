@@ -8,6 +8,10 @@
 - Docker fundamentals
 - ExpressJS scaling up with clusters (web workers)
 
+### August
+- Google Analytics event tracking
+
+
 ### July
 - Redux connect
 - ExpressJS middleware
