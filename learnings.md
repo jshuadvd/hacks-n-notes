@@ -4,6 +4,9 @@
 
 ### August
 - Google Analytics event tracking
+- Facebook Pixel
+- redux-form npm package
+- redux-async-connect
 
 
 ### July
