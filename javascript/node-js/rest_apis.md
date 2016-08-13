@@ -14,3 +14,19 @@ The protocol, domain and port must match.
 - - `app.use(require('cors')())`
 - to implemente CORS only on a route
 - - `app.use('/api', require('cors')())`
+
+## Test APIs
+
+Use npm package **restler** to do the XHR requests 
+- github.com/danwrong/restler
+
+
+
+
+
+
+
+
+
+
+
