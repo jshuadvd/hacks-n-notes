@@ -5,3 +5,4 @@
 ## Managing currency
 
 - store currency in cents to avoid floating point problems
+
