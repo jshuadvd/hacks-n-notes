@@ -40,7 +40,15 @@ aws.putObject({
 - [MongoHQ](https://www.compose.com/mongodb)
 - AWS DynamoDB
 
+##### MongoDB npm packages
+
+- mongodb - low-level driver for MongoDB
+- mongoose - Object Document Mapper (ODM)
+- session-mongoose - to manage session storage
 
 #### Key-value DB
 
 - are good for data schemas that are easily mapped into key-value pairs
+
+##### Redis npm packages
+- connect-redis
