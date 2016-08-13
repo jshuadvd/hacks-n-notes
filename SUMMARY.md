@@ -40,6 +40,7 @@
            * [Middleware](javascript/node-js/middleware.md)
            * [Sending email](javascript/node-js/sending_email.md)
            * [Production](javascript/node-js/production.md)
+           * Persistance
        * [NodeJS API](javascript/node-js/native-api.md)
        * [Version management](javascript/node-js/version_management.md)
        * [Unix](javascript/node-js/unix.md)
