@@ -20,3 +20,16 @@ aws.putObject({
 })
 ```
 
+## Database Persistence
+
+### Types of NoSQL DB
+
+- document DB
+- key-value DB
+
+#### Document DB
+
+- document DB excell at storing objects 
+- great fit for Node and JS
+
+#### Key-value DB
