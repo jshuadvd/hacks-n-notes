@@ -38,6 +38,7 @@ aws.putObject({
 
 - [mlab](www.mlab.com)
 - [MongoHQ](https://www.compose.com/mongodb)
+- AWS DynamoDB
 
 
 #### Key-value DB
