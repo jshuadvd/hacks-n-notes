@@ -26,10 +26,15 @@ aws.putObject({
 
 - document DB
 - key-value DB
+- NoSQL databases support concurrency to scale performance
 
 #### Document DB
 
 - document DB excell at storing objects 
 - great fit for Node and JS
+- MongoDB is the leading document DB
+
 
 #### Key-value DB
+
+- are good for data schemas that are easily mapped into key-value pairs
