@@ -14,6 +14,11 @@
 - **/user** and **/username** `app.get('/user(name)?', (req, res) => res.render('user'))`
 - multiple `a` eg. `/khaan` and `/khaaaan` support both with `app.get('/khaa+n', (req, res) => res.render('khaaan'))`
 
+To use the full power of Regex for your routes
+
+```js
+app.get(/crazy|mad(ness)?|lunacy/, (req, res) => res.render('madness'))`
+```
 
 
 ## Subdomains
