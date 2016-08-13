@@ -34,6 +34,11 @@ aws.putObject({
 - great fit for Node and JS
 - MongoDB is the leading document DB
 
+##### MongoDB DBaaS
+
+- [mlab](www.mlab.com)
+- [MongoHQ](https://www.compose.com/mongodb)
+
 
 #### Key-value DB
 
