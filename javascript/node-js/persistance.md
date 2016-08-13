@@ -30,7 +30,7 @@ aws.putObject({
 
 #### Document DB
 
-- document DB excell at storing objects 
+- document DB excel at storing objects 
 - great fit for Node and JS
 - MongoDB is the leading document DB
 
