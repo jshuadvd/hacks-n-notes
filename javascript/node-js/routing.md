@@ -20,6 +20,9 @@ To use the full power of Regex for your routes
 app.get(/crazy|mad(ness)?|lunacy/, (req, res) => res.render('madness'))`
 ```
 
+## Route parameters
+
+eg. `:name` -> `/staff/:name` -> `req.params.name`
 
 ## Subdomains
 - To handle subdomains in the same server suse npm package `vhost`
