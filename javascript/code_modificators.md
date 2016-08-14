@@ -8,6 +8,15 @@
 
 An **identifier** to JSCodeShift is like a **selector** to CSS
 
+## AST
+
+key | Definition
+-- | --
+Program | Program
+ExpressionStatement | a function or any expression eg **a + b**
+BinaryExpression | 
+Identifier |
+
 ## Tools
 - [ASTExplorer](https://astexplorer.net/) to explore the AST of any code snippet
 
