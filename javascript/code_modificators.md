@@ -13,7 +13,7 @@ An **identifier** to JSCodeShift is like a **selector** to CSS
 key | Definition
 -- | --
 **Program** | Program
-**ExpressionStatement** | a function or any expression eg **a + b**
+**ExpressionStatement** | a function or any expression eg `a + b`
 **BinaryExpression** | is a type of **ExpressionStatement** that includes only two values
 **Identifier** | is used for names of variables, functions, methods, object keys, etc
 
