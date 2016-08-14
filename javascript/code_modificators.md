@@ -16,7 +16,7 @@ key | Definition
 **ExpressionStatement** | a function or any expression eg `a + b`
 **BinaryExpression** | is a type of **ExpressionStatement** that includes only two values
 **Identifier** | is used for names of variables, functions, methods, object keys, etc
-**TemplateLiteral** | 
+**TemplateLiteral** | string template 
 
 ## Tools
 - [ASTExplorer](https://astexplorer.net/) to explore the AST of any code snippet
