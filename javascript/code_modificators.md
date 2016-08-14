@@ -8,6 +8,9 @@
 
 An **identifier** to JSCodeShift is like a **selector** to CSS
 
+## Tools
+- [ASTExplorer](https://astexplorer.net/) to explore the AST of any code snippet
+
 ## tutorials
 
 - [How to write codemods](https://vramana.github.io/blog/2015/12/21/codemod-tutorial/)
