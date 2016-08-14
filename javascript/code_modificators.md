@@ -17,7 +17,8 @@ key | Definition
 **BinaryExpression** | is a type of **ExpressionStatement** that includes only two values
 **Identifier** | is used for names of variables, functions, methods, object keys, etc
 **TemplateLiteral** | string template 
-**quasis** | can represent `${` meaning the regions between the template string
+**quasis** | Template elements between `${}` expressions
+
 
 
 ## Tools
