@@ -1,8 +1,10 @@
 # Code Modificators
 
+> Code modificators are scripts that traverse javascript files and can modify it's contents programatically. 
 
+## JSCodeshift
 
-> [JSCodeShift](https://github.com/facebook/jscodeshift) is a code modificator tool that wraps Recast with a JQuery-like API. Code modificators are scripts that traverse javascript files and can modify it's contents programatically. 
+> [JSCodeShift](https://github.com/facebook/jscodeshift) is a code modificator tool that wraps Recast with a JQuery-like API. 
 > 
 > It works by reading the javascript file text as input to turn it into AST (Abstract Syntax Trees)
 
