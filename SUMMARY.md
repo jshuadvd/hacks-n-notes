@@ -53,7 +53,6 @@
    * [Security](javascript/security.md)
    * [RegEx](javascript/regex.md)
    * [Code Modificators](javascript/code_modificators.md)
-   * Code mods
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [HTML](html.md)
