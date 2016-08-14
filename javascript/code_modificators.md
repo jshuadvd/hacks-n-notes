@@ -10,6 +10,8 @@
 
 An **identifier** to JSCodeShift is like a **selector** to CSS
 
+> Note: pascal case version of node type **Identifier** is used for checking the type of the node and camel case version of node type **identifier** is used to create a node of that type.
+
 ### Reference
 - [app.jscodeshift API](https://github.com/facebook/jscodeshift/wiki/jscodeshift-Documentation)
 
