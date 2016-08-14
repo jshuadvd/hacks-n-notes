@@ -10,6 +10,9 @@
 
 An **identifier** to JSCodeShift is like a **selector** to CSS
 
+### Reference
+- [app.jscodeshift API](https://github.com/facebook/jscodeshift/wiki/jscodeshift-Documentation)
+
 To create an abstract tree run `app.jscodeshift(file.source)`
 
 ## AST
