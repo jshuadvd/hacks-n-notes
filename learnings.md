@@ -7,6 +7,7 @@
 - Facebook Pixel
 - redux-form npm package
 - redux-async-connect
+- jscodeshift code modifiers
 
 
 ### July
