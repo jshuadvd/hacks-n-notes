@@ -10,6 +10,7 @@
 - jscodeshift code modifiers
 - npm package express-http-proxy
 - npm package http-proxy
+- node --inpect --debug
 
 
 ### July
