@@ -8,6 +8,8 @@
 - redux-form npm package
 - redux-async-connect
 - jscodeshift code modifiers
+- npm package express-http-proxy
+- npm package http-proxy
 
 
 ### July
