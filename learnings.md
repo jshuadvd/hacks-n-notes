@@ -12,6 +12,8 @@
 - npm package http-proxy
 - node --inpect --debug
 - git release tags
+- slack slash commands
+
 
 
 ### July
@@ -21,6 +23,7 @@
 - ExpressJS sending email
 - ExpressJS app clusters scaling
 - ExpressJS uncaught server exceptions
+- webpack embedded CSS
 
 ### June
 
