@@ -10,7 +10,7 @@
 - jscodeshift code modifiers
 - npm package express-http-proxy
 - npm package http-proxy
-- node --inpect --debug
+- node --inspect --debug
 - git release tags
 - slack slash commands
 - responsive tables with `content:` & `data-title`
