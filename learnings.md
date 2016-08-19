@@ -13,7 +13,7 @@
 - node --inpect --debug
 - git release tags
 - slack slash commands
-- resonsive tables with `content:` & `data-title`
+- responsive tables with `content:` & `data-title`
 
 
 ### July
