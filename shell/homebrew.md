@@ -11,3 +11,5 @@ http://brew.sh/
 
 - ag - silver searcher (like grep)
 - jq - json prettifier
+- nvm https://github.com/creationix/nvm
+- Seil  to map caps lock key to ESC 
