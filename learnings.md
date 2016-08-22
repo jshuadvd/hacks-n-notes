@@ -14,7 +14,7 @@
 - npm package http-proxy
 - node --inspect --debug
 - git release tags
-- slack slash commands
+- Slack slash commands
 - responsive tables with `content:` & `data-title`
 - npm dependencies vs peerDependencies
 - Redux DevTools
