@@ -7,17 +7,18 @@
 ### August
 - Google Analytics event tracking
 - Facebook Pixel
-- redux-form npm package
-- redux-async-connect
+-  npm package `redux-form`
+- npm package `redux-async-connect`
 - jscodeshift code modifiers
-- npm package express-http-proxy
-- npm package http-proxy
-- node --inspect --debug
+- npm package `express-http-proxy`
+- npm package `http-proxy`
+- `node --inspect --debug` debug with Chrome DevTools
 - git release tags
 - Slack slash commands
 - responsive tables with `content:` & `data-title`
 - npm dependencies vs peerDependencies
 - Redux DevTools
+- npm package `twilio` for phone validation
 
 
 ### July
