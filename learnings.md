@@ -13,7 +13,7 @@
 - npm package `express-http-proxy`
 - npm package `http-proxy`
 - `node --inspect --debug` debug with Chrome DevTools
-- git release tags
+- GitHub release tags
 - Slack slash commands
 - responsive tables with `content:` & `data-title`
 - npm dependencies vs peerDependencies
