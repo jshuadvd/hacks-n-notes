@@ -19,6 +19,8 @@
 - npm dependencies vs peerDependencies
 - Redux DevTools
 - npm package `twilio` for phone validation
+- npm package `express-session`
+- npm package `redis-connect`
 
 
 ### July
