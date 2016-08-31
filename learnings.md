@@ -15,7 +15,7 @@
 - `node --inspect --debug` debug with Chrome DevTools
 - GitHub release tags
 - Slack slash commands
-- responsive tables with `content:` & `data-title`
+- Responsive tables with `content:` & `data-title`
 - npm dependencies vs peerDependencies
 - Redux DevTools
 - npm package `twilio` for phone validation
