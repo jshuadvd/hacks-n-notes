@@ -20,7 +20,7 @@
 - Redux DevTools
 - npm package `twilio` for phone validation
 - npm package `express-session`
-- npm package `redis-connect`
+- npm package `connect-redis`
 - Zeit now deployment
 
 
