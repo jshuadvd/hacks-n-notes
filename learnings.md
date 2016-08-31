@@ -7,7 +7,7 @@
 ### August
 - Google Analytics event tracking
 - Facebook Pixel
--  npm package `redux-form`
+- npm package `redux-form`
 - npm package `redux-async-connect`
 - jscodeshift code modifiers
 - npm package `express-http-proxy`
