@@ -95,6 +95,7 @@
    * [Vimrc](configs/vimrc.md)
    * [Gitbook config](configs/gitbook_config.md)
    * [Ubuntu](configs/ubuntu.md)
+   * tmux
 * [Patterns](patterns.md)
    * [Event Sourcing](event_sourcing.md)
 * [C#](c-sharp.md)
