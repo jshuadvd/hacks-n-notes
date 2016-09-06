@@ -3,6 +3,10 @@
 ## 2016
 
 ### September
+- http2 loading
+- materializecss
+- [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
+- how to convert a string to string template literals 
 
 ### August
 - Google Analytics event tracking
