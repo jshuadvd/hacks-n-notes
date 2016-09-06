@@ -85,7 +85,7 @@
 * Browser
    * [Debugging](debugging.md)
    * [Offline](offline.md)
-   * Performance
+   * [Performance](performance.md)
 * [DevOps](devops.md)
    * [AWS](aws.md)
        * [EC2](ec2.md)
