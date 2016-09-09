@@ -8,6 +8,7 @@
 - [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
 - how to convert a string to string template literals 
 - how to stream video from device's camera on web
+- NodeJS querystring
 
 ### August
 - Google Analytics event tracking
