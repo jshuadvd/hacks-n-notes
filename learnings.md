@@ -9,6 +9,7 @@
 - how to convert a string to string template literals 
 - how to stream video from device's camera on web
 - NodeJS querystring
+- deploy apps using [zeit now](https://zeit.co/now)
 
 ### August
 - Google Analytics event tracking
