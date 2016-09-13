@@ -8,7 +8,8 @@
 - [UMD (Universal Module Definition)](https://github.com/umdjs/umd)
 - how to convert a string to string template literals 
 - how to stream video from device's camera on web
-- NodeJS querystring
+- NodeJS querystring for stringifying to POST in form-urlencoded format
+- responsive CSS tables
 - deploy apps using [zeit now](https://zeit.co/now)
 - Dockerfile
 
