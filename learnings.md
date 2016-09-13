@@ -10,6 +10,7 @@
 - how to stream video from device's camera on web
 - NodeJS querystring
 - deploy apps using [zeit now](https://zeit.co/now)
+- Dockerfile
 
 ### August
 - Google Analytics event tracking
