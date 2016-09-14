@@ -12,6 +12,7 @@
 - responsive CSS tables
 - deploy apps using [zeit now](https://zeit.co/now)
 - Dockerfile
+- web manifest
 
 ### August
 - Google Analytics event tracking
