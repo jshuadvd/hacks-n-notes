@@ -2,8 +2,6 @@
 
 - OC ACM Chapter
 
-# IP Primer for software devs
-
 > John King  www.knobbe.com   john.king@knobbe.com 
 
 ## Ownership
