@@ -26,7 +26,7 @@
 
 
 ### America Invents Act
-- first to file patent system before (printed publications, sale ) 
+- first to file patent system before (printed publications, sale or in use ) 
 
 ### ways
 - patente prosecution highway
