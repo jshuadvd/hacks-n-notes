@@ -13,6 +13,7 @@
 
 ## Patents
 - cost ~$30k to file in USA.. 
+
 ### requirements
 - useful
 - new
