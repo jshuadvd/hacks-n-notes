@@ -30,7 +30,7 @@
 - first to file patent system before (printed publications, sale or in use ) 
 
 ### ways
-- patente prosecution highway
+- patent prosecution highway
 - first action interviw program
 - prioritized examination (fast track) 4 months
 
