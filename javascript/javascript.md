@@ -6,3 +6,8 @@
 
 - store currency in cents to avoid floating point problems
 
+
+## Charts
+### libraries
+- [Chartist](http://gionkunz.github.io/chartist-js/) for pie, lines, bars
+- [Cytoscape](http://js.cytoscape.org/) for graphs
