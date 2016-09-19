@@ -110,6 +110,7 @@
        * [Goals](goals.md)
    * [Monetization](monetization.md)
    * [Intellectual Property](intellectual_property.md)
+   * Lean Startup
 * [Internet Marketing](internet_marketing.md)
 * [Tools](tools.md)
 * [i18n](i18n.md)
