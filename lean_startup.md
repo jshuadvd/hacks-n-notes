@@ -1,7 +1,8 @@
-vas# Lean Startup
+# Lean Startup
 
 ## Engines of Growth
 - sticky
 - paid
 - viral
 
+## Canvas
