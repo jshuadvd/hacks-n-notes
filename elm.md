@@ -8,5 +8,4 @@
 * elm-make
 * elm-package
 
-* 
 
