@@ -49,3 +49,8 @@ elm-make Main.elm --output=main.html
  
  isNegative 4 -- False
 ```
+
+### conditionals
+```elm
+if True then "hello" else "world" -- True
+```
