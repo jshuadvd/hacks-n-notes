@@ -14,6 +14,10 @@
 ### `elm-make` 
 > to compile apps into HTML and JS
 
+eg.
+```sh
+elm-make Main.elm --output=main.html
+```
 
 ### `elm-package`
 
