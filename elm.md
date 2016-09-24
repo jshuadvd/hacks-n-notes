@@ -37,3 +37,8 @@ elm-make Main.elm --output=main.html
 "hello" ++ "world" // "helloworld"
 ```
 
+### number
+```elm
+10/3 # 3.33333  (float)
+10//3 // 3 (Int)
+```
