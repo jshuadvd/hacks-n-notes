@@ -68,6 +68,10 @@ names = [ "Alice", "Bob", "Chuck" ]
 - `List.sort`
 - `List.map`
 
+### Tuples
+
+
+
 
 
 
