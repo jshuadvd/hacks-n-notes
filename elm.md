@@ -33,14 +33,14 @@ elm-make Main.elm --output=main.html
 
 ### strings
 ```elm
-"hello" // "hello"
-"hello" ++ "world" // "helloworld"
+"hello" -- "hello"
+"hello" ++ "world" -- "helloworld"
 ```
 
 ### number
 ```elm
-10/3 # 3.33333  (float)
-10//3 // 3 (Int)
+10/3 -- 3.33333  (float)
+10//3 -- 3 (Int)
 ```
 
 ### functions
