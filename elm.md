@@ -45,4 +45,7 @@ elm-make Main.elm --output=main.html
 
 ### functions
 ```elm
+ isNegative n = n < 0
+ 
+ isNegative 4 -- False
 ```
