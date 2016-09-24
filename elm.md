@@ -20,5 +20,5 @@ elm-make Main.elm --output=main.html
 ```
 
 ### `elm-package`
-
+> like npm for elm
 
