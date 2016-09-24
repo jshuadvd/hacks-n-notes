@@ -72,6 +72,10 @@ names = [ "Alice", "Bob", "Chuck" ]
 
 > Array of fixed number of values with any type.
 
+```elm
+(True, "name accepted!")
+```
+
 
 
 
