@@ -87,6 +87,9 @@ let g:airline_powerline_fonts = 1
 " EditorConfig
 Plugin 'editorconfig/editorconfig-vim'
 
+" Elm synthax highlight
+Plugin 'lambdatoast/elm.vim.git'     
+
 " Highlight html in JS string templates
 Plugin 'Quramy/vim-js-pretty-template'    
 
