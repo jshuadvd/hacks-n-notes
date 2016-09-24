@@ -22,3 +22,9 @@ elm-make Main.elm --output=main.html
 ### `elm-package`
 > like npm for elm
 
+#### notable commands
+
+`install`: install the dependencies in elm-package.json
+`publish`: publish your library to the Elm Package Catalog
+`bump`: bump version numbers based on API changes
+`diff`: get the difference between two APIs
