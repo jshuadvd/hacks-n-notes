@@ -56,4 +56,18 @@ if True then "hello" else "world" -- True
 ```
 
 ### lists
+> Arrays of the same type
+
+```elm
+names = [ "Alice", "Bob", "Chuck" ]
+```
+
+#### List methods
+- `List.isEmtpy`
+- `List.length`
+- `List.sort`
+
+
+
+
 
