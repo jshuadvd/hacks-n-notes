@@ -54,3 +54,6 @@ elm-make Main.elm --output=main.html
 ```elm
 if True then "hello" else "world" -- True
 ```
+
+### lists
+
