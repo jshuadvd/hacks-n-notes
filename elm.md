@@ -31,3 +31,8 @@ elm-make Main.elm --output=main.html
 
 ## Core language
 
+### strings
+```elm
+"hello" // "hello"
+"hello" ++ "world" // "helloworld"
+```
