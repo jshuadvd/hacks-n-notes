@@ -36,3 +36,4 @@ elm-make Main.elm --output=main.html
 "hello" // "hello"
 "hello" ++ "world" // "helloworld"
 ```
+
