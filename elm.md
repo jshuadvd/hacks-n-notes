@@ -3,9 +3,9 @@
 
 ## CLI commands
 
-* elm-repl
-* elm-reactor
-* elm-make
-* elm-package
+* `elm-repl` - repl
+* `elm-reactor`
+* `elm-make`
+* `elm-package`
 
 
