@@ -42,3 +42,7 @@ elm-make Main.elm --output=main.html
 10/3 # 3.33333  (float)
 10//3 // 3 (Int)
 ```
+
+### functions
+```elm
+```
