@@ -66,6 +66,7 @@ names = [ "Alice", "Bob", "Chuck" ]
 - `List.isEmtpy`
 - `List.length`
 - `List.sort`
+- `List.map`
 
 
 
