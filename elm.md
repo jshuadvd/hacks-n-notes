@@ -70,7 +70,7 @@ names = [ "Alice", "Bob", "Chuck" ]
 
 ### Tuples
 
-
+> Array of fixed number of values with any type.
 
 
 
