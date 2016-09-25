@@ -76,7 +76,12 @@ names = [ "Alice", "Bob", "Chuck" ]
 (True, "name accepted!")
 ```
 
+## Work flow
+> Redux works similar like Elm. 
 
+- Model (Redux store)
+- Msg (Redux action)
+- Update (Redux reducer)
 
 
 
