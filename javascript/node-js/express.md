@@ -237,7 +237,25 @@ suite('Stress tests', function () {
 
 ## Static Resources
 
-### Expires/Cache-Control 
+### Expires/Cache-Control
+
+> These two headers tell your browser the max amount of time a resource can be cached.
+
+- You only need one of these headers
+- `Expires` is more broadly supported
+- `Cache-Control` is good for development but not good for production
+
+### Last-Modified/ETag
+
+> These two tags tell the browser to validate the tags before downloading the content.
+
+- `Last-Modified` will make the browser compare the date of last modification to see if it should download again
+- `ETag` will make the browser compare to a tag eg. a build number.
+
+### CDN 
+> CDNs will handle the cache headers with good defaults.
+
+
 
 
 
