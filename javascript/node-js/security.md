@@ -59,7 +59,27 @@ Private key extensions
 
 ### Enabling HTTPS for your Express App
 
+When creating a server this will be the normal way:
 
+```js
+http.createServer(app).listen(app.get('port'), function() {
+  console.log('Express started in ' + app.get('env') + ' mode on port ' + app.get('port') + '.')
+})
+```
+
+Switching to HTTPS will be:
+
+```js
+var https = require('https')
+
+var options = {
+  key: fs.readFileSync(__dirname + '/ssl/meadowlark.pem'),
+  cert: fs.readFileSync(__dirname + '/ssl/meadowlark.crt')
+}
+https.createServer(options, app).listen(app.get('port'), function () {
+  console.log('Express started in ' + app.get('env') + ' mode on port ' + app.get('port') + '.')
+})
+```
 
 
 
