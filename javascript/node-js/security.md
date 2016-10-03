@@ -34,6 +34,21 @@ Generate a private key and a public certificate
 
 - [OpenSSL docs](http://openssl.org/docs/apps/req.html)
 
+### Purchasing a Certificate
+
+90% of the 50 root certificates distributed with every major browser are owned by four companies
+
+- Symantec (who purchased VeriSign)
+- Comodo Group
+- Go Daddy
+- GlobalSign
+
+A certificate can cost from $10 to $300 per year
+
+- the encryption level is the same in all prices
+- the customer support varies depending on the price
+
+Avoid chained root certificates since they are more difficult to setup.
 
 
 
