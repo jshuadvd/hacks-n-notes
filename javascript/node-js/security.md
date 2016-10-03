@@ -11,6 +11,7 @@ In the Internet it is possible for third party to intercept packets being transm
 - The server has a *public key certificate* sometimes called SSL certificate.
 - `X.509` is a standard format for SSL certificates.
 
+
 ### Certificate authorities
 > A certificate authority (CA) makes trusted root certificates available to browser vendors.
 
@@ -86,6 +87,10 @@ https.createServer(options, app).listen(app.get('port'), function () {
 - HTTP runs on port *80*
 - HTTPS runs on port *443*
 
+#### Using proxies
+
+- HTTP header `x-forwarded-proto` contains the type of protocol used
+- set express to `app.enable('trust proxy')` so `req.protocol`, `req.secure` and `req.ip` will refer to the client's connection to the proxy, not to your app
 
 
 
