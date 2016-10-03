@@ -28,6 +28,11 @@ Install OpenSSL
 Generate a private key and a public certificate
 - `openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout meadowlark.pem -out meadowlark.crt`
 
+> A **PEM** is a *Privacy-enhanced Electronic Mail* file which is the private key. The **CRT** file is self-signed certificate that will be sent to the browser to establish the secure connection.
+
+#### Ref
+
+- [OpenSSL docs](http://openssl.org/docs/apps/req.html)
 
 
 
