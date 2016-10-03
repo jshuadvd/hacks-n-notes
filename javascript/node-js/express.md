@@ -255,6 +255,11 @@ suite('Stress tests', function () {
 ### CDN 
 > CDNs will handle the cache headers with good defaults.
 
+### Cache-busting
+
+#### Finger printing
+> the act of apending a number or tag at the end of a file name.
+
 
 
 
