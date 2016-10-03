@@ -52,6 +52,7 @@ Avoid chained root certificates since they are more difficult to setup.
 
 Certificate extensions
 - `.crt`, `.cer`, or `.der`
+- **DER** stands for *Distinguished Encoding Rules*
 
 Private key extensions
 - `.pem` and `.key`
