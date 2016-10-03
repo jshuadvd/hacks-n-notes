@@ -258,8 +258,9 @@ suite('Stress tests', function () {
 ### Cache-busting
 
 #### Finger printing
-> the act of apending a number or tag at the end of a file name.
+> the act of appending a number or tag at the end of a file name.
 
+- If using a CDN make sure you fingerprint all the files.
 
 
 
