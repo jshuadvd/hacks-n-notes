@@ -92,7 +92,7 @@ https.createServer(options, app).listen(app.get('port'), function () {
 - HTTP header `x-forwarded-proto` contains the type of protocol used
 - set express to `app.enable('trust proxy')` so `req.protocol`, `req.secure` and `req.ip` will refer to the client's connection to the proxy, not to your app
 
-## Cross-Site Request Forgery
+## Cross-Site Request Forgery (CSRF)
 
 
 
