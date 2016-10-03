@@ -81,6 +81,11 @@ https.createServer(options, app).listen(app.get('port'), function () {
 })
 ```
 
+#### Ports
+
+- HTTP runs on port *80*
+- HTTPS runs on port *443*
+
 
 
 
