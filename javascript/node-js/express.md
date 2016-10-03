@@ -3,9 +3,9 @@
 > creator [TJ Holowaychuk](https://medium.com/@tjholowaychuk)
 
 ## Reference
-- 
+- [Web Development with Node & Express](http://shop.oreilly.com/product/0636920032977.do) by Ethan Brown
 
-
+Express v4+
 - don't need `app.use(app.router)` after express v3
 
 ## NPM Licenses
