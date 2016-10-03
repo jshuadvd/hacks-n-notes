@@ -43,6 +43,7 @@
            * [Persistence](javascript/node-js/persistance.md)
            * [Routing](javascript/node-js/routing.md)
            * [REST APIs](javascript/node-js/rest_apis.md)
+           * Security
        * [NodeJS API](javascript/node-js/native-api.md)
        * [Version management](javascript/node-js/version_management.md)
        * [Unix](javascript/node-js/unix.md)
