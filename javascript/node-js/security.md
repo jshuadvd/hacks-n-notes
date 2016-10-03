@@ -94,6 +94,8 @@ https.createServer(options, app).listen(app.get('port'), function () {
 
 ## Cross-Site Request Forgery (CSRF)
 
+> A malicious site will try to check if you are logged in into a session of other site eg. a bank and try to make request on your behalf.
+
 
 
 
