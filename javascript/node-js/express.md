@@ -235,7 +235,9 @@ suite('Stress tests', function () {
 });
 ```
 
+## Static Resources
 
+### Expires/Cache-Control 
 
 
 
