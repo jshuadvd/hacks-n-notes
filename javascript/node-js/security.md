@@ -96,7 +96,7 @@ https.createServer(options, app).listen(app.get('port'), function () {
 
 > A malicious site will try to check if you are logged in into a session of other site eg. a bank and try to make request on your behalf.
 
-
+- you can use npm package [csurf](https://www.npmjs.com/package/csurf) to generate unique token to include in forms and Ajax calls so the server knows the request comes from your website.
 
 
 
