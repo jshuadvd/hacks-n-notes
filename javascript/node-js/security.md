@@ -50,6 +50,12 @@ A certificate can cost from $10 to $300 per year
 
 Avoid chained root certificates since they are more difficult to setup.
 
+Certificate extensions
+- `.crt`, `.cer`, or `.der`
+
+Private key extensions
+- `.pem` and `.key`
+
 
 
 
