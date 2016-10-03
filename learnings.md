@@ -2,6 +2,8 @@
 
 ## 2016
 
+### October
+
 ### September
 - http2 loading
 - materializecss
@@ -13,6 +15,8 @@
 - deploy apps using [zeit now](https://zeit.co/now)
 - Dockerfile
 - web manifest
+- Postman environments
+- HTTP header `X-Forwarded-For`
 
 ### August
 - Google Analytics event tracking
