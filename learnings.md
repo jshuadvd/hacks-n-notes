@@ -3,6 +3,8 @@
 ## 2016
 
 ### October
+- Elm tutorial
+
 
 ### September
 - http2 loading
