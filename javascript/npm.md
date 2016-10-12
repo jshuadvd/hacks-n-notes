@@ -28,6 +28,7 @@
 - serve-favicon (to serve dynamic favicons)
 - superagent (HTTP requests)
 - tape (unit test library)
+- [tesseract](https://github.com/naptha/tesseract.js) - OCR in 62 languages
 - ua-parser (to parse UA Clients)
 - uglifyify (to minify)
 - watchify (to watch)
