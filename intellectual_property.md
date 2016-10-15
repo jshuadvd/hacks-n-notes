@@ -69,5 +69,5 @@
 ## Reference
 
 ### Stephen Key
-- inventRight
+- [inventRight](http://www.inventright.com/)
 
