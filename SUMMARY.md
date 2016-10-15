@@ -40,7 +40,7 @@
            * [Middleware](javascript/node-js/middleware.md)
            * [Sending email](javascript/node-js/sending_email.md)
            * [Production](javascript/node-js/production.md)
-               * Scale
+               * [Scale](javascript/node-js/scale.md)
            * [Persistence](javascript/node-js/persistance.md)
            * [Routing](javascript/node-js/routing.md)
            * [REST APIs](javascript/node-js/rest_apis.md)
