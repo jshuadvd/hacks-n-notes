@@ -5,6 +5,8 @@
 - licensing doesn't take much money.
 
 ## Open Innovation
+> https://en.wikipedia.org/wiki/Open_innovation
+
 - designers at companies work 9-5 boring jobs. They don't deliver their best when they find themselved discouraged
 
 ### Pros of licensing ideas
