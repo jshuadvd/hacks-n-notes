@@ -19,6 +19,7 @@
 - one minute prototype video is better than sending the prototype (check TV infomercials)
 - TV infomercials companies don't care about patents (telebrands, all-stars)
 - pitch at least to 20 companies. don't get the big dogs, get the medium dogs that want to become big
+- show a lot of confidence
 
 ### manufacturers
 - http://ohioart.com/
