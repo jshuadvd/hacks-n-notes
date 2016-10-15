@@ -1,5 +1,6 @@
 # Licenses
 
+- licensing doesn't take much money.
 
 
 ## Open Source
