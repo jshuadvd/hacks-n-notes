@@ -8,6 +8,8 @@
 - patents don't protect you that well
 - you can license with a provisional patent
 - patent attorneys won't work that hard for you as you would.
+- keep it pantent pending for the life of the product (since most of the products go in and out so fast now)
+- 
 
 
 
