@@ -13,6 +13,7 @@
 - you can keep re-licensing after a year
 - [ ] learn how to make license agreements (it's like a chess game)
 - if there's a similar idea patented, you can license it from them.
+- your marketing material should sell better than yourself
 
 ### manufacturers
 - http://ohioart.com/
