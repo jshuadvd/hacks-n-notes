@@ -11,28 +11,6 @@
 - [ ] does AG/SiteFuel agreement includes the above?
 - [ ] what if npm modules have proprietary license?
 
-## Patents
-- cost ~$30k to file in USA.. 
-
-### requirements
-- useful
-- new
-- has to have a technical improvement ( software )
-
-### pros
-- licensing
-- attractive to investors
-- protects against trolls
-- company valuation
-
-
-### America Invents Act
-- first to file patent system before (printed publications, sale or in use ) 
-
-### ways
-- patent prosecution highway
-- first action interviw program
-- prioritized examination (fast track) 4 months
 
 
 ## Copyrights
