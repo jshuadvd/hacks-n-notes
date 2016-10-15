@@ -4,7 +4,7 @@
 ## Spephen Key
 
 
-- 
+- file provisional patent ~ $70
 
 
 
