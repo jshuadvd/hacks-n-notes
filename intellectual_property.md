@@ -50,3 +50,5 @@
 ### OC ACM Chapter
 
 ### Inventor's Forum
+
+- [Inventor's Forum](http://www.inventorsforum.org/)
