@@ -48,6 +48,7 @@
 - john.king@knobbe.com
 
 ### OC ACM Chapter
+- [ACM OC](http://oc.acm.org/)
 
 ### Inventor's Forum
 
