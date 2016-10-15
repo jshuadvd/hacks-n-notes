@@ -88,6 +88,29 @@
 - is the idea isn't unique? the market might be saturated
 - are there are No similar products? there might be no market for your idea
 
+#### Physical stores
+> Get Real World information. Avoid assumptions.
+
+- visit stores to see people's reactions to products
+- which markets are hot
+- check emerging trends
+- check websites, blogs, forums, social networking groups
+- consumer magazines eg. Wired & FastCompany
+- TV shows and industry newsletters that cover trends
+- go shopping and ask store managers which are the hot products
+- trade shows
+
+##### Focus on a specific market
+> Become an expert in a micro category
+
+- customer demographics
+- SWOT analysis
+- value proposition
+- how will customers use your product
+- distribution channels
+- price (manufacturing and retail)
+- how to manufacture and package your product
+
 
 ## Royalties
 
