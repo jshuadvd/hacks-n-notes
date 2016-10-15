@@ -1,6 +1,12 @@
 # Licenses
 
+> You allow others to use your IP in exchange of royalties
+
 - licensing doesn't take much money.
+
+## Royalties
+
+- paid quarterly 
 
 
 ## Open Source
