@@ -1,4 +1,22 @@
 # Cookies
+ 
+HTTP is stateless.
+- Every request is independent of the previous ones
+- Cookies & sessions save state
+
+Cookies are visible to users
+
+**Signed Cookies** can obfuscate its contents but not encrypt
+
+Don't trust cookies
+- Use **signed cookies** to ensure they're not tampered
+- cookies can be used for XSS attacks
+
+Prefer session over cookies
+- Sessions use cookies but they are safer
+- Express knows how to handle sessions
+
+
 
 ## Sessions
 
