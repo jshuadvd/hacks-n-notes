@@ -16,6 +16,10 @@
 - The Obstacle Is the Way
 - One Simple Idea by Stephen Key
 
+## websites
+- http://www.core77.com/
+- 
+
 
 ## Reference
 
