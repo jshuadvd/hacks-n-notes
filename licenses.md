@@ -22,8 +22,56 @@
 
 ## One Simple Idea (Book)
 
+### Manufacturing vs Licensing
+
 - `Simple idea + existing technology + 3 or 4 players in the market = LICENSING`
 - `Unique idea + new technology + 1 or 2 major players in the market = MANUFACTURING`
+
+### how to bring an idea to market by yourself
+
+#### Study the market
+- who are your customers
+- who are your competitors
+- what can you offer that is different
+
+#### Develop your product
+- Design product and packaging
+- Build and test prototypes
+- File a patent
+- How to manufacture the product
+- Regulations and requirements
+- Business plan (production, distribution, manufacturing)
+- Raise capital
+- Licenses, insurance, employees...
+- Sell
+
+
+### how to bring an idea to market by licensing
+
+#### Study the market
+- competitors (major and small players)
+- how does my idea compares and contrasts
+- value proposition
+- how large is the market
+- primary customers
+- potential sales
+
+#### Develop your product
+> Prove that it is sellable, doable and valuable
+
+- file a provisional patent
+
+### Ideas
+> Create an idea for what is missing and needed in an existing market
+
+- evolutionary, incremental improvements to existing products
+- audio recording, notepads, sketches
+- dump all product ideas into a repository
+- use Evernote
+
+### Marketplace study
+
+- how does the idea fits into the market
 
 
 ## Royalties
