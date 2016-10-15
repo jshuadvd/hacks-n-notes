@@ -1,7 +1,7 @@
 # Intellectual Property
 
 
-## Spephen Key
+## Stephen Key
 
 
 - file provisional patent ~ $70
