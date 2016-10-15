@@ -112,6 +112,7 @@
        * [Goals](goals.md)
    * [Monetization](monetization.md)
    * [Intellectual Property](intellectual_property.md)
+       * Patents
    * [Lean Startup](lean_startup.md)
 * [Internet Marketing](internet_marketing.md)
 * [Tools](tools.md)
