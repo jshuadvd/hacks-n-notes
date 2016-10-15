@@ -15,13 +15,6 @@
 
 
 
-## Trade secrets (keep proprietary info confidential)
-- like coca cola recipe
-- it's cheap
-- things like server-side logic.. (to prove has to be FBI )
-
-
-
 ## Reference
 
 ### Stephen Key
