@@ -72,10 +72,14 @@
 
 > which means customers are willing to pay for them
 
+- look for small changes that make a big impact
+
+
 #### Generate ideas
 - audio recording, notepads, sketches
 - dump all product ideas into a repository
 - use Evernote
+- serendipity might happen in the shower, while driving, on an airplane, etc. So be ready to take those notes.
 
 ### Marketplace study
 
