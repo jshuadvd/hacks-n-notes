@@ -64,7 +64,15 @@
 ### Ideas
 > Create an idea for what is missing and needed in an existing market
 
+#### Most marketable ideas are:
 - evolutionary, incremental improvements to existing products
+- solve problems
+- address needs
+- satisfy desires
+
+> which means customers are willing to pay for them
+
+#### Generate ideas
 - audio recording, notepads, sketches
 - dump all product ideas into a repository
 - use Evernote
