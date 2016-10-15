@@ -88,7 +88,7 @@
 - is the idea isn't unique? the market might be saturated
 - are there are No similar products? there might be no market for your idea
 
-#### Physical stores
+#### Due diligence 
 > Get Real World information. Avoid assumptions.
 
 - visit stores to see people's reactions to products
@@ -99,8 +99,9 @@
 - TV shows and industry newsletters that cover trends
 - go shopping and ask store managers which are the hot products
 - trade shows
+- check which products in stores get the most shelf space
 
-##### Focus on a specific market
+#### Focus on a specific market
 > Become an expert in a micro category
 
 - customer demographics
