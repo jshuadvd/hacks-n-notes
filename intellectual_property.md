@@ -22,7 +22,7 @@
 - show a lot of confidence
 - you can't file again the provisional patent if you made it public
 - make a Sell Sheet
-- google about a company before showing them your product
+- google about a company before showing them your product to see if they have many complaints
 
 ### manufacturers
 - http://ohioart.com/
