@@ -115,7 +115,7 @@
        * [Patents](patents.md)
        * [Copyright](copyright.md)
        * [Licenses](licenses.md)
-       * Trade Secrets
+       * [Trade Secrets](trade_secrets.md)
    * [Lean Startup](lean_startup.md)
 * [Internet Marketing](internet_marketing.md)
 * [Tools](tools.md)
