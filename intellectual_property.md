@@ -9,7 +9,7 @@
 - you can license with a provisional patent
 - patent attorneys won't work that hard for you as you would.
 - keep it pantent pending for the life of the product (since most of the products go in and out so fast now)
-- use NDA
+- use NDAs
 - you can keep re-licensing after a year
 - 
 
