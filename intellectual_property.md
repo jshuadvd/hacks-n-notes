@@ -12,7 +12,9 @@
 - [ ] what if npm modules have proprietary license?
 
 
-
+## Books
+- The Obstacle Is the Way
+- One Simple Idea by Stephen Key
 
 
 ## Reference
