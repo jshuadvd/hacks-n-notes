@@ -71,7 +71,10 @@
 
 ### Marketplace study
 
-- how does the idea fits into the market
+> how does the idea fits into the market
+
+- is the idea isn't unique? the market might be saturated
+- are there are No similar products? there might be no market for your idea
 
 
 ## Royalties
