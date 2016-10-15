@@ -17,7 +17,7 @@
 - most communication goes through LinkedIn
 - you need to promote it before building the prototype.
 - one minute prototype video is better than sending the prototype (check TV infomercials)
-- 
+- TV infomercials companies don't care about patents (telebrands, all-stars)
 
 ### manufacturers
 - http://ohioart.com/
