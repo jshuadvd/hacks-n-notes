@@ -6,6 +6,8 @@
 
 - file provisional patent ~ $70
 - patents don't protect you that well
+- you can license with a provisional patent
+- 
 
 
 
