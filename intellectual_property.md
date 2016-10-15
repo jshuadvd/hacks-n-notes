@@ -24,6 +24,8 @@
 - make a Sell Sheet
 - google about a company before showing them your product to see if they have many complaints
 
+
+
 ### manufacturers
 - http://ohioart.com/
 
@@ -54,6 +56,7 @@
 
 ### Stephen Key
 - [inventRight](http://www.inventright.com/)
+- phone: 209 480 8603
 
 
 ### John King
