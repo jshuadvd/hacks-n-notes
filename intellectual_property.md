@@ -2,7 +2,7 @@
 
 - OC ACM Chapter
 
-> John King  www.knobbe.com   john.king@knobbe.com 
+
 
 ## Ownership
 
@@ -71,3 +71,6 @@
 ### Stephen Key
 - [inventRight](http://www.inventright.com/)
 
+### John King
+- www.knobbe.com   
+- john.king@knobbe.com
