@@ -9,6 +9,11 @@
 
 - designers at companies work 9-5 boring jobs. They don't deliver their best when they find themselved discouraged
 
+### Selling your idea
+- show them how your idea can make them grow.
+- first to market wins (get first into shelf-space)
+- consumers are driven more by desire. Easier to target than B2B
+
 
 ### Pros of licensing ideas
 - reduces R&D costs
