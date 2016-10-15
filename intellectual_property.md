@@ -11,7 +11,7 @@
 - keep it pantent pending for the life of the product (since most of the products go in and out so fast now)
 - use NDAs
 - you can keep re-licensing after a year
-- 
+- [ ] learn how to make license agreements (it's like a chess game)
 
 
 
