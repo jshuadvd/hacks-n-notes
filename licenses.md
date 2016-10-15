@@ -25,6 +25,7 @@
 - `Simple idea + existing technology + 3 or 4 players in the market = LICENSING`
 - `Unique idea + new technology + 1 or 2 major players in the market = MANUFACTURING`
 
+
 ## Royalties
 
 - paid quarterly 
