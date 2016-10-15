@@ -16,6 +16,7 @@
 - your marketing material should sell better than yourself
 - most communication goes through LinkedIn
 - you need to promote it before building the prototype.
+- one minute prototype video is better than sending the prototype
 
 ### manufacturers
 - http://ohioart.com/
