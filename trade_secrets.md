@@ -1,7 +1,5 @@
 # Trade Secrets
 
-
-
 > keep proprietary info confidential
 
 
