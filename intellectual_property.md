@@ -21,6 +21,7 @@
 - pitch at least to 20 companies. don't get the big dogs, get the medium dogs that want to become big
 - show a lot of confidence
 - you can't file again the provisional patent if you made it public
+- make a Sell Sheet
 
 ### manufacturers
 - http://ohioart.com/
