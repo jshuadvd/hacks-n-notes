@@ -100,6 +100,8 @@
 - go shopping and ask store managers which are the hot products
 - trade shows
 - check which products in stores get the most shelf space
+- which traits sell well and at what price?
+- search in Google images and Google shopping
 
 #### Focus on a specific market
 > Become an expert in a micro category
@@ -111,6 +113,7 @@
 - distribution channels
 - price (manufacturing and retail)
 - how to manufacture and package your product
+
 
 
 ## Royalties
