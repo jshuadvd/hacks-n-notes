@@ -94,7 +94,12 @@
 
 #### Field observation
 - small details that are easy to overlook
-- small gaps in performance or function
+- flaws or gaps in form or function
+- innefficiencies or inconveniences
+- boring or outdated materials and styles
+- differences in how different people would use or view the product
+- unconventional use of the product
+- other products that are used for the same purpose
 
 #### Due diligence 
 > Get Real World information. Avoid assumptions.
