@@ -92,6 +92,10 @@
 - check the top manufacturers
 - they might post their price lists
 
+#### Field observation
+- small details that are easy to overlook
+- small gaps in performance or function
+
 #### Due diligence 
 > Get Real World information. Avoid assumptions.
 
