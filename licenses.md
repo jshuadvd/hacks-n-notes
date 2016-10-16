@@ -93,6 +93,8 @@
 - they might post their price lists
 
 #### Field observation
+> record and take photos of your findings
+
 - small details that are easy to overlook
 - flaws or gaps in form or function
 - innefficiencies or inconveniences
