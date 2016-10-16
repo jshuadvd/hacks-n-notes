@@ -1,7 +1,8 @@
 # CSS
 
-CSS Notes
 
-## CSS Sprite generators
 
-- [Spritepad](https://wearekiss.com/spritepad)
+## online tools 
+
+- [Spritepad](https://wearekiss.com/spritepad) - sprite generator
+- [CSS Filters](http://www.cssfilters.co/) - Instagram-like CSS filters
