@@ -80,6 +80,7 @@
 - dump all product ideas into a repository
 - use Evernote
 - serendipity might happen in the shower, while driving, on an airplane, etc. So be ready to take those notes.
+- look at things with creativity and wonder like you did when you were a child
 
 #### Awake sleeping dinosaurs
 
