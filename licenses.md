@@ -81,6 +81,12 @@
 - use Evernote
 - serendipity might happen in the shower, while driving, on an airplane, etc. So be ready to take those notes.
 
+#### Sleeping dinosaurs
+
+- find products that have been unchanged for a long time and make a simple change.
+- eg. laser tag, denim bags, alien guitar pick
+
+
 ### Marketplace study
 
 > how does the idea fits into the market
