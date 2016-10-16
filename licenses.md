@@ -102,7 +102,7 @@
 - check which products in stores get the most shelf space
 - which traits sell well and at what price?
 - search in Google images and Google shopping
-- Amazon search and read the reviews
+- Amazon search and read the reviews for similar products
 
 #### Focus on a specific market
 > Become an expert in a micro category
