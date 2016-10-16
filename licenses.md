@@ -64,6 +64,8 @@
 ### Ideas
 > Create an idea for what is missing and needed in an existing market
 
+- look for categories that you're passionate about
+
 #### Most marketable ideas are:
 - evolutionary, incremental improvements to existing products
 - solve problems
