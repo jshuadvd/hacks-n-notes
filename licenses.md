@@ -66,6 +66,17 @@
 
 - look for categories that you're passionate about
 
+#### Brainstorming
+- don't judge ideas in brainstorming mode
+
+##### Mix and match
+- pick two different objects and think how to combine them
+- eg. camera + phone
+
+##### What if
+
+##### Solve it
+
 #### Most marketable ideas are:
 - evolutionary, incremental improvements to existing products
 - solve problems
