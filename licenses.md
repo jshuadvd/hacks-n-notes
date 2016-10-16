@@ -88,6 +88,10 @@
 - is the idea isn't unique? the market might be saturated
 - are there are No similar products? there might be no market for your idea
 
+#### Manufacturers
+- check the top manufacturers
+- they might post their price lists
+
 #### Due diligence 
 > Get Real World information. Avoid assumptions.
 
