@@ -74,6 +74,10 @@
 - eg. camera + phone
 
 ##### What if
+> ask what if a product could do X
+
+- eg. Netflix (what if there were no late rental fees?)
+
 
 ##### Solve it
 
