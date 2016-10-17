@@ -95,10 +95,18 @@ Assess which idea to work with:
 - ideas should be able to be explained in a sentence. Avoid ideas that require education of the customer since that is very expensive
 
 #### Litmus test
-- does it has a wow factor?
-- does it solves a common problem? 
-- has a large market?
-- uses common production methods and materials?
+
+##### does it solves a common problem?
+- confirmed and well defined needs instead of maybes
+- the most universal the better
+- 
+
+##### does it has a wow factor?
+
+##### has a large market?
+
+##### uses common production methods and materials?
+
 
 ##### Challenging industries
 - software
