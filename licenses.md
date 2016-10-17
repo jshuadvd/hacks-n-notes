@@ -80,6 +80,10 @@
 - eg. Netflix (what if there were no late rental fees?)
 
 ##### Solve it
+> observe problems in day-to-day and try to solve it
+
+- eg. Spinformation
+- your problems might not be a problem for everyone
 
 #### Most marketable ideas are:
 - evolutionary, incremental improvements to existing products
