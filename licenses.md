@@ -86,6 +86,14 @@
 - eg. Spinformation
 - your problems might not be a problem for everyone
 
+#### Choose your winning idea
+
+Assess which idea to work with:
+- focus on one idea at a time, all the way 
+- doesn't matter how big/small, complex/simple, unique or clever it is
+- focus on ideas that will take the least amount of work and the highest possibilities of success.
+
+
 #### Most marketable ideas are:
 - evolutionary, incremental improvements to existing products
 - solve problems
