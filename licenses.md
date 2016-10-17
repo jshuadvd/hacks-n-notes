@@ -100,7 +100,7 @@ Assess which idea to work with:
 
 ##### Recommended industries
 - pet
-- kitchen
+- kitchen/household
 - hardware
 - novelty gift
 - direct response TV
