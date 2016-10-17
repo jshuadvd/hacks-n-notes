@@ -94,6 +94,10 @@ Assess which idea to work with:
 - focus on ideas that will take the least amount of work and the highest possibilities of success.
 - ideas should be able to be explained in a sentence. Avoid ideas that require education of the customer since that is very expensive
 
+##### Challenging industries
+- software
+- packaging
+
 ##### Recommended industries
 - pet
 - kitchen
