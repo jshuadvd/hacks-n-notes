@@ -73,6 +73,7 @@
 > pick two different objects and think how to combine them
 
 - eg. camera + phone
+- water toy + jet technology = Super Soaker
 
 ##### What if
 > ask what if a product could do X
