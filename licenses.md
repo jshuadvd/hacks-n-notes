@@ -94,6 +94,12 @@ Assess which idea to work with:
 - focus on ideas that will take the least amount of work and the highest possibilities of success.
 - ideas should be able to be explained in a sentence. Avoid ideas that require education of the customer since that is very expensive
 
+#### Litmus test
+- does it has a wow factor?
+- does it solves a common problem? 
+- has a large market?
+- uses common production methods and materials?
+
 ##### Challenging industries
 - software
 - packaging
