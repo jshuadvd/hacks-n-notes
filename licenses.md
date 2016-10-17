@@ -89,7 +89,7 @@
 #### Choose your winning idea
 
 Assess which idea to work with:
-- focus on one idea at a time, all the way 
+- focus on one idea at a time, all the way through the entire development and licensing process before picking another idea
 - doesn't matter how big/small, complex/simple, unique or clever it is
 - focus on ideas that will take the least amount of work and the highest possibilities of success.
 
