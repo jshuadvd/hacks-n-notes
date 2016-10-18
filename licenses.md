@@ -113,7 +113,9 @@ Assess which idea to work with:
 - which are the trends?
 
 ##### uses common production methods and materials?
-
+- how will it be manufactured
+- how much will it cost to manufacture?
+- get a network of experts, mentors. someone who has already done it
 
 ##### Challenging industries
 - software
