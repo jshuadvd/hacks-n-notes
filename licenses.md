@@ -104,7 +104,7 @@ Assess which idea to work with:
 - wow consumers and potential licensees
 
 ##### has a large market?
-
+- a product that can be sold by all the major retailers for that market
 ##### uses common production methods and materials?
 
 
