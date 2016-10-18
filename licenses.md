@@ -106,7 +106,11 @@ Assess which idea to work with:
 ##### has a large market?
 - a product that can be sold by all the major retailers for that market
 - it almost takes the same amount of time and effort to license a product with a big market than it is for a moderate market.
-
+- find if the category is a growth category
+- are the comparable products selling well?
+- how are similar products priced?
+- what is selling, who is buying? who are the major players?
+- which are the trends?
 
 ##### uses common production methods and materials?
 
