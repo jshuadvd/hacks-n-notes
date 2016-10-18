@@ -99,9 +99,9 @@ Assess which idea to work with:
 ##### does it solves a common problem?
 - confirmed and well defined needs instead of maybes
 - the most universal the better
-- 
 
 ##### does it has a wow factor?
+- wow consumers and potential licensees
 
 ##### has a large market?
 
