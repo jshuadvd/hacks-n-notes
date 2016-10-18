@@ -115,7 +115,7 @@ Assess which idea to work with:
 ##### uses common production methods and materials?
 - how will it be manufactured
 - how much will it cost to manufacture?
-- get a network of experts, mentors. someone who has already done it
+- get a network of experts, mentors in that category. someone who has already done it
 
 ##### Challenging industries
 - software
