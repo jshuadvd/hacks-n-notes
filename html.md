@@ -3,8 +3,6 @@
 
 ## Basic HTML Template
 
-> Ref. [SitePoint](https://www.sitepoint.com/a-basic-html5-template/)
-
 ```html
 <!doctype html>
 
@@ -28,6 +26,8 @@
 </body>
 </html>
 ```
+
+> Ref. [SitePoint](https://www.sitepoint.com/a-basic-html5-template/)
 
 ## Input types
 
