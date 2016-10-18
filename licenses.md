@@ -105,6 +105,9 @@ Assess which idea to work with:
 
 ##### has a large market?
 - a product that can be sold by all the major retailers for that market
+- it almost takes the same amount of time and effort to license a product with a big market than it is for a moderate market.
+
+
 ##### uses common production methods and materials?
 
 
