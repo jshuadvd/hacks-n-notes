@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 
 ## Charts
+
 ### libraries
 - [Chartist](http://gionkunz.github.io/chartist-js/) for pie, lines, bars
 - [Cytoscape](http://js.cytoscape.org/) for graphs
