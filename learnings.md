@@ -4,7 +4,8 @@
 
 ### October
 - Elm tutorial
-
+- cookie limits
+- Ingenico TetraJS
 
 ### September
 - http2 loading
