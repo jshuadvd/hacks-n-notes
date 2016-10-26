@@ -4,7 +4,7 @@
    * [LICENSE](LICENSE.md)
    * [Summary](SUMMARY.md)
    * [Learnings](learnings.md)
-   * Networks
+   * [Networks](networks.md)
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
        * [Basics](shell/basics.md)
