@@ -4,7 +4,7 @@
 > https://cssig.brats.com
 > Chair Arthur Schwarz
 
-- `nmap <ip address>` shows ports exposed in a machine
+
 
 ### Tools
 
@@ -17,5 +17,5 @@
 - `ifconfig` to get ip address
 - `locate ifconfig` to get the directory where the `ifconfig` or any other command is located.
 - `netdiscover -r <inet>` discover how many machines connected to the local network
-- `nmap`
-- 
+- `nmap <ip address>` shows ports exposed in a machine
+ 
