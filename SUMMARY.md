@@ -12,6 +12,7 @@
    * [tmux](shell/tmux.md)
    * [HomeBrew](shell/homebrew.md)
 * [Networks](networks.md)
+* [Security](security.md)
 * [Git](git/readme.md)
    * [Git Workflow](git/git-workflow.md)
    * [Git Tags](git/git-tags.md)
@@ -134,5 +135,4 @@
 * [Math](math.md)
 * [Elm](elm.md)
 * [APIs](apis.md)
-* [Security](security.md)
 
