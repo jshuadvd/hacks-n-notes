@@ -8,6 +8,7 @@
 
 ### Tools
 
+- [MetaSploit](https://www.metasploit.com/)
 - [Armitage](http://www.fastandeasyhacking.com) 
 - [Dirty COW](https://dirtycow.ninja/) - "Copy on Write" Linux vulnerability
 
@@ -17,3 +18,4 @@
 - `locate ifconfig` to get the directory where the `ifconfig` or any other command is located.
 - `netdiscover -r <inet>` discover how many machines connected to the local network
 - `nmap`
+- 
