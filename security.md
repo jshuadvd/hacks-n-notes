@@ -9,4 +9,4 @@
 ### Tools
 
 - [Armitage](http://www.fastandeasyhacking.com) 
-- [Dirty COW](https://dirtycow.ninja/) - "Copy over Write" Linux vulnerability
+- [Dirty COW](https://dirtycow.ninja/) - "Copy on Write" Linux vulnerability
