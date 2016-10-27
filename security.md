@@ -30,4 +30,5 @@
 - `locate ifconfig` to get the directory where the `ifconfig` or any other command is located.
 - `netdiscover -r <inet>` discover how many machines connected to the local network
 - `nmap <ip address>` shows ports exposed in a machine
+- `netstat`
  
