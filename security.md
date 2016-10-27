@@ -13,3 +13,6 @@
 
 ### commands
 
+- `ifconfig` to get ip address
+
+- `locate ifconfig` 
