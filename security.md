@@ -15,4 +15,4 @@
 
 - `ifconfig` to get ip address
 
-- `locate ifconfig` 
+- `locate ifconfig` to get the directory where the `ifconfig` or any other command is located.
