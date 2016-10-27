@@ -9,7 +9,7 @@
 ### Tools
 
 - [MetaSploit](https://www.metasploit.com/)
-- [Armitage](http://www.fastandeasyhacking.com) 
+- [Armitage](http://www.fastandeasyhacking.com) - GUI for MetaSploit
 - [Dirty COW](https://dirtycow.ninja/) - "Copy on Write" Linux vulnerability
 
 ### commands
