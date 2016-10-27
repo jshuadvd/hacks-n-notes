@@ -10,3 +10,6 @@
 
 - [Armitage](http://www.fastandeasyhacking.com) 
 - [Dirty COW](https://dirtycow.ninja/) - "Copy on Write" Linux vulnerability
+
+### commands
+
