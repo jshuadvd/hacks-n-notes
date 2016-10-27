@@ -4,7 +4,13 @@
 > https://cssig.brats.com
 > Chair Arthur Schwarz
 
+### Techniques
 
+#### SSH Pivoting
+- is to move between subnets piping traffic from one subnet to another
+
+#### SSH lateral attack
+- moving within the same subnet
 
 ### Tools
 
