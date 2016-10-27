@@ -9,6 +9,10 @@
 #### SSH Pivoting
 - is to move between subnets piping traffic from one subnet to another
 
+- `ssh -Local`
+- `ssh -Remote`
+- `ssh -Dynamic`
+
 #### SSH lateral attack
 - moving within the same subnet
 
