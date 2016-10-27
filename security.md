@@ -5,3 +5,7 @@
 > Chair Arthur Schwarz
 
 - `nmap <ip address>` shows ports exposed in a machine
+
+### Tools
+
+- [Armitage](http://www.fastandeasyhacking.com) 
