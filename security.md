@@ -9,3 +9,4 @@
 ### Tools
 
 - [Armitage](http://www.fastandeasyhacking.com) 
+- [Dirty COW](https://dirtycow.ninja/) - Linux vulnerability
