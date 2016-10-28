@@ -2,11 +2,15 @@
 
 ## 2016
 
+### November
+
+
 ### October
 - Elm tutorial
 - cookie limits
 - Ingenico TetraJS
 - HTTP header `Access-Control-Allow-Origin`
+- AWS CloudFront cache invalidation
 
 ### September
 - http2 loading
