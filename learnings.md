@@ -6,6 +6,7 @@
 - Elm tutorial
 - cookie limits
 - Ingenico TetraJS
+- HTTP header `Access-Control-Allow-Origin`
 
 ### September
 - http2 loading
