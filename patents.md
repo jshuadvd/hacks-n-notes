@@ -25,6 +25,7 @@
 > - requires a maintenance fee of $800 @ 3.5 yrs
 > - $18,000 @ 7.5 yrs
 > - $37,000 @ 11.5 yrs
+> - the fees double if the patent is licensed to a firm of 100+ employees.
 
 - a new method of doing business
 - a new manufacturing process
