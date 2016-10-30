@@ -1,4 +1,5 @@
 # Patents
+> A patent is a legal property right granted to the person who invents, 
 
 - cost ~$30k to file in USA.. 
 
