@@ -21,7 +21,9 @@
 - a new manufacturing process
 - a useful apparatus, machine, manufactured item or composition of matter 
 - computer programs and mathematical algorithms used in computer programs 
-- 
+
+> not possible to patent an abstract mathematical algorithm. Only those used in computer software
+
 ## Books
 
 ### Patent Pending in 24 Hours 
