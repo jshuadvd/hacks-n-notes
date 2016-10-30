@@ -6,6 +6,8 @@
 - cost ~$30k to file in USA.. 
 
 ## What is patentable
+- Utility patent
+- 
 
 ## Books
 
