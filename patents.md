@@ -7,6 +7,7 @@
 
 ## What is patentable
 
+
 ### Plant patent
 - new and original species or plant that can be reproduced sexually or asexually
 
