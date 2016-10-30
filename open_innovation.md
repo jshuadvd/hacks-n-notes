@@ -156,6 +156,7 @@ Assess which idea to work with:
 - document the idea from the moment you conceive it
 - document it's changes
 - document final look, licensing and manufacture.
+- use a separate logbook for each of your idea.
 
 ## Marketplace study
 
