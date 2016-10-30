@@ -69,3 +69,8 @@ Link: https://amzn.com/1507885733
 - patent prosecution highway
 - first action interview program
 - prioritized examination (fast track) 4 months
+
+## Provisional Patent Application (PPA)
+> Application that uses text and drawings that explains how to make an idea.
+> - Only for Utility Patents
+> - lasts 12 months
