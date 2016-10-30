@@ -4,6 +4,7 @@
 - A patent grants the patent-holder the exclusive right to make, sell or use the idea for a specified period of time during which only the patent holder and authorized or licensed manufacture, sell or use of the idea by another party or licensee, or sell outright, or assign the idea to another person or entity.
 - Patents are issued per country.
 - cost ~$30k to file in USA.
+- can take 3-4 years
 
 ## What is patentable
 
