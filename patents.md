@@ -9,15 +9,20 @@
 
 
 ### Plant patent
+> - 20 years of protection since it is filed
+
 - new and original species or plant that can be reproduced sexually or asexually
 
 ### Design patent
 > a reproducible change of appearance, configuration, ornamental design or shape of an utilitarian item
+> - 14 years of protection since it is granted
 
 - eg. a change of appereance, not functionality of a bottle, chair, eye-glass frame, necklace, computer icon, or type font
 
 
 ### Utility patent
+> - 20 years of protection since it is filed
+
 - a new method of doing business
 - a new manufacturing process
 - a useful apparatus, machine, manufactured item or composition of matter 
