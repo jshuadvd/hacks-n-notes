@@ -18,6 +18,7 @@
 ### Utility patent
 - a new method of doing business
 - a new manufacturing process
+- a useful apparatus, machine, manufactured item or composition of matter 
 
 ## Books
 
