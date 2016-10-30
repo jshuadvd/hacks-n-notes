@@ -7,6 +7,12 @@
 
 ## What is patentable
 
+## Books
+
+### Patent Pending in 24 Hours 
+by Richard Stim Attorney et al. 
+Link: https://amzn.com/1413322018
+
 
 ## requirements
 - useful
