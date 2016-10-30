@@ -78,3 +78,4 @@ Link: https://amzn.com/1507885733
 
 - allows to include "Patent pending" notice
 - it gives protects
+- you can keep filing PPAs on top
