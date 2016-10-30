@@ -1,5 +1,7 @@
 # Patents
-> A patent is a legal property right granted to the person who invents, 
+> A patent is a legal property right granted to the person or entity who invents, designs, or cultivates a new, novel, original or non-obvious product, process or service of monetary value.
+ 
+- A patent grants the patent-holder the right to 
 
 - cost ~$30k to file in USA.. 
 
