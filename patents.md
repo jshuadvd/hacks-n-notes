@@ -74,3 +74,5 @@ Link: https://amzn.com/1507885733
 > Application that uses text and drawings that explains how to make an idea.
 > - Only for Utility Patents
 > - lasts 12 months
+> - costs $65
+
