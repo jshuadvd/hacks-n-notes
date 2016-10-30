@@ -26,6 +26,7 @@
 > - $18,000 @ 7.5 yrs
 > - $37,000 @ 11.5 yrs
 > - the fees double if the patent is licensed to a firm of 100+ employees.
+> Costs ~ $10,000
 
 - a new method of doing business
 - a new manufacturing process
