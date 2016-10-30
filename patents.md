@@ -17,6 +17,10 @@ Link: https://amzn.com/1413322018
 by David Pressman Attorney et al. 
 Link: https://amzn.com/1413322573
 
+### Sell Your Ideas With or Without A Patent 
+by Stephen M Key et al. 
+Link: https://amzn.com/1507885733
+
 ## requirements
 - useful
 - new
