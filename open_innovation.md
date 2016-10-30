@@ -153,6 +153,9 @@ Assess which idea to work with:
 > a log of your ideas and the process of evolution.
 > - it helps prove that you are the creator.
 
+- document the idea from the moment you conceive it
+- document it's changes
+- document final look, licensing and manufacture.
 
 ## Marketplace study
 
