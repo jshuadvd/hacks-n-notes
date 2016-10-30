@@ -149,6 +149,10 @@ Assess which idea to work with:
 - find products that have been unchanged for a long time and make a simple change.
 - eg. laser tag, denim bags, alien guitar pick
 
+### Inventors logbook
+> a log of your ideas and the process of evolution.
+> - it helps prove that you are the creator.
+
 
 ## Marketplace study
 
