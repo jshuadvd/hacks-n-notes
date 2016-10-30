@@ -17,11 +17,14 @@
 > a reproducible change of appearance, configuration, ornamental design or shape of an utilitarian item
 > - 14 years of protection since it is granted
 
-- eg. a change of appereance, not functionality of a bottle, chair, eye-glass frame, necklace, computer icon, or type font
+- eg. a change of appearance, not functionality of a bottle, chair, eye-glass frame, necklace, computer icon, or type font
 
 
 ### Utility patent
 > - 20 years of protection since it is filed
+> - requires a maintenance fee of $800 @ 3.5 yrs
+> - $18,000 @ 7.5 yrs
+> - $37,000 @ 11.5 yrs
 
 - a new method of doing business
 - a new manufacturing process
