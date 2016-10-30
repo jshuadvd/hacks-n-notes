@@ -76,3 +76,5 @@ Link: https://amzn.com/1507885733
 > - lasts 12 months
 > - costs $65
 
+- allows to include "Patent pending" notice
+- it gives protects
