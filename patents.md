@@ -8,11 +8,16 @@
 ## What is patentable
 
 ### Plant patent
-
+- new and original species or plant that can be reproduced sexually or asexually
 ### Design patent
-- 
-### Utility patent
+> a reproducible change of appearance, configuration, ornamental design or shape of an utilitarian item
 
+- eg. a change of appereance, not functionality of a bottle, chair, eye-glass frame, necklace, computer icon, or type font
+
+
+### Utility patent
+- a new method of doing business
+- a new manufacturing process
 
 ## Books
 
