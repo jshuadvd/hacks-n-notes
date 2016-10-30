@@ -9,6 +9,7 @@
 
 ### Plant patent
 - new and original species or plant that can be reproduced sexually or asexually
+
 ### Design patent
 > a reproducible change of appearance, configuration, ornamental design or shape of an utilitarian item
 
@@ -19,7 +20,8 @@
 - a new method of doing business
 - a new manufacturing process
 - a useful apparatus, machine, manufactured item or composition of matter 
-
+- computer programs and mathematical algorithms used in computer programs 
+- 
 ## Books
 
 ### Patent Pending in 24 Hours 
