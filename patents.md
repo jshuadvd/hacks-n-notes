@@ -13,6 +13,9 @@
 by Richard Stim Attorney et al. 
 Link: https://amzn.com/1413322018
 
+### Patent It Yourself: Your Step-by-Step Guide to Filing at the U.S. Patent Office 
+by David Pressman Attorney et al. 
+Link: https://amzn.com/1413322573
 
 ## requirements
 - useful
