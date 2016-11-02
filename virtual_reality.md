@@ -6,3 +6,5 @@
 ## Artists
 
 - [David Cottlyons](http://davidscottlyons.com/)
+- [Cabbibo](http://cabbi.bo/)
+- [Steve Teeps](http://www.steveteeps.com/)
