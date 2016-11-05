@@ -25,4 +25,14 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 > How to speed up web development?
 
+- CodePen experience with live reload
+- Decrease devOps time
+- Decrease tool setup time
+- Use type checking to enable task automation
+- Use type checking to avoid missing case handling
+- Enforce unit test coverage
+- Leverage GUI for UI development
+- Add codemods
+- Increase Human-friendly feedback
+- Increase AI assistance
 - 
