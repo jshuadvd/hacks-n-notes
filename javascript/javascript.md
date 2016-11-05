@@ -19,3 +19,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
 ### libraries
 - [Chartist](http://gionkunz.github.io/chartist-js/) for pie, lines, bars
 - [Cytoscape](http://js.cytoscape.org/) for graphs
+
+
+## Web development
+
+> How to speed up web development?
+
+- 
