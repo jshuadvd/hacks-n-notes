@@ -14,7 +14,7 @@
 - express (web server)
 - fast-cli (Netflix speedtest)
 - fast-csv (parse CVS)
-- google-libphonenumber (phoneNumber library)
+- google-libphonenumber (phoneNumber library) 
 - html-pdf (convert html to pdf)
 - moment (date library)
 - node-inspector (debug nodeJS apps on Chrome)
