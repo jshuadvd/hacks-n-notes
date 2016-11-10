@@ -32,7 +32,7 @@
 - `nmap <ip address>` shows ports exposed in a machine
 - `netstat`
  
- ## ACM Cyber Security
+## ACM Cyber Security
  
  Brian Wallace - Cylance
   
@@ -40,8 +40,14 @@
  github.com/bwall
  @botnet_hunter
  
- - social engineering
- - Spray and Pray Spam
+### social engineering
+
+### Spray and Pray Spam
+- Offered as SaaS too
+
+### Credential Phishing
+
+
  
  
  ## meetups
