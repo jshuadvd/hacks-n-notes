@@ -61,6 +61,10 @@
 - "lost and found" USB stick with malware
 - [USB Rubber Ducky](http://usbrubberducky.com/#!index.md)
 - [Teensy-LC[(http://www.pjrc.com/teensy/teensyLC.html)
+
+### Remote Exploitation
+- software vulnerabilities
+- unconfigured devices can be a gold mine for attacker
 - 
 
  ## meetups
