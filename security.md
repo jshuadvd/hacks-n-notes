@@ -80,6 +80,7 @@
 - patching helps
 
 ### Man in the Middle
+- in a coffee shop wifi, trick you or your computer to proxy through them.. 
 
 
 
