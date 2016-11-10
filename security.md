@@ -79,7 +79,7 @@
 - Adobe Reader is very vulnerable. Watch out with PDFs you don't know
 - patching helps
 
-### Man in the Middle
+### Man in the Middle (MITM)
 - in a coffee shop wifi, trick you or your computer to proxy through them.. 
 - tool [Evilgrade](http://tools.kali.org/sniffingspoofing/isr-evilgrade)
 
@@ -89,6 +89,10 @@
 - anything not encrypted is at risk
 - use VPN can help when using public WiFi
 - or not use the public WiFi
+
+### Femtocells
+
+
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
