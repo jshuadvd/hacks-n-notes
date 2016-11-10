@@ -59,6 +59,9 @@
 
 ### USB Drops
 - "lost and found" USB stick with malware
+- [USB Rubber Ducky](http://usbrubberducky.com/#!index.md)
+- [Teensy-LC[(http://www.pjrc.com/teensy/teensyLC.html)
+- 
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
