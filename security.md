@@ -101,7 +101,10 @@
 
 #### Cached Credentials
 - Isass.exe in Windows stores username/passwords
-- Mimikatz 
+- [Mimikatz](https://github.com/gentilkiwi/mimikatz) to pull data from Isass.exe
+
+
+
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
  
