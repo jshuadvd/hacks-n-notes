@@ -69,6 +69,9 @@
 ### Default Credentials
 - root/root
 
+### Over Exposed Services
+- eg. hotel wifi
+- 
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
