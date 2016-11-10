@@ -55,7 +55,7 @@
 ### Spear Phishing
 - specific targets
 - you can harvest info from user from public social media
- 
+ - Operation Cleaver -> can use trojan horse app, posing as a recruiter
  
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
