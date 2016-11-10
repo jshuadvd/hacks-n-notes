@@ -104,7 +104,8 @@
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) to pull data from Isass.exe
 
 #### Credentials from the Network
-
+- LLMNR, NBT-NS and MDNS can be abused on Windows to leak encrypted creds
+- [Responder](https://github.com/SpiderLabs/Responder) tool
 
 
  ## meetups
