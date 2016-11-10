@@ -44,6 +44,7 @@
 
 ### Spray and Pray Spam
 - Offered as SaaS too
+- emails, twitters
 
 ### Credential Phishing
 
