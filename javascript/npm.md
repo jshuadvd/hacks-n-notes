@@ -24,6 +24,7 @@
 - pusher (websockets)
 - pusher-js (websockets - complimentary)
 - reactify (browserify plugin for React)
+- [redux-form](http://redux-form.com/)
 - request (HTTP requests)
 - serve-favicon (to serve dynamic favicons)
 - superagent (HTTP requests)
