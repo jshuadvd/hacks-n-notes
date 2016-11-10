@@ -65,7 +65,10 @@
 ### Remote Exploitation
 - software vulnerabilities
 - unconfigured devices can be a gold mine for attacker
-- 
+
+### Default Credentials
+- root/root
+
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
