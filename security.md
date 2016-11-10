@@ -41,6 +41,7 @@
  @botnet_hunter
  
 ### social engineering
+- eg. hacking an email to get the VPN password
 
 ### Spray and Pray Spam
 - Offered as SaaS too
