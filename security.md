@@ -76,7 +76,8 @@
 - [RSYNC](https://en.wikipedia.org/wiki/Rsync) daemon
 
 ### Exploits
-
+- Adobe Reader is very vulnerable. Watch out with PDFs you don't know
+- patching helps
 
 
  ## meetups
