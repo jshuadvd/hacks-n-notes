@@ -114,6 +114,10 @@
 #### Abusing Shared Resources
 - they can modify wikis, word documents, exes, etc.
 
+### Destroy Data
+
+### Encrypt Data
+- Ransomeware .. encrypt files in a system and ask a ransome for that
 
 
 
