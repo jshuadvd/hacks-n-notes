@@ -123,7 +123,9 @@
 ### Steal Data
 - it's possible to encode data in simple words eg. Taylor Swift lyrics using machine learning
 
-
+### Protection
+- set protection like onion layers
+- train your personel
 
 
 
