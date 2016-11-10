@@ -39,7 +39,9 @@
  The Diversity of the Cyber Threat Landscape
  github.com/bwall
  @botnet_hunter
- 
+
+- APT (Advanced Persistent Threats)
+
 ### social engineering
 - eg. hacking an email to get the VPN password
 
