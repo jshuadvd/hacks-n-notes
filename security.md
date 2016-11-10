@@ -118,6 +118,7 @@
 
 ### Encrypt Data
 - Ransomeware .. encrypt files in a system and ask a ransome for that
+- Bitcoin or other difficult to de-anonymize payment
 
 
 
