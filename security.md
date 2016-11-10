@@ -91,6 +91,9 @@
 - or not use the public WiFi
 
 ### Femtocells
+- [StringRay](https://en.wikipedia.org/wiki/Stingray_phone_tracker) tool from law enforcement to listen to calls
+- hack the femtocell and can get MITM access to a phone even without WiFi
+
 
 
 
