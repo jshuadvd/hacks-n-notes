@@ -1,4 +1,4 @@
- # Security
+# Security
 
 ## IEEE OC CyberSecurity SIG
 > https://cssig.brats.com
@@ -118,7 +118,7 @@
 
 ### Encrypt Data
 - Ransomeware .. encrypt files in a system and ask a ransome for that
-- Bitcoin or other difficult to de-anonymize payment
+- Bitcoin or other difficult to de-anonymize payment method
 
 
 
