@@ -40,6 +40,8 @@
  github.com/bwall
  @botnet_hunter
  
+ - social engineering
+ - Spray and Pray Spam
  
  
  ## meetups
