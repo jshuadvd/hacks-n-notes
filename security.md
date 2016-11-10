@@ -79,6 +79,9 @@
 - Adobe Reader is very vulnerable. Watch out with PDFs you don't know
 - patching helps
 
+### Man in the Middle
+
+
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
