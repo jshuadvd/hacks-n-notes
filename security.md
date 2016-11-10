@@ -68,7 +68,7 @@
 
 ### Default Credentials
 - eg. root/root
-- this is how the Mirai DNS attack was done
+- this is how the Mirai DNS attack was done through IoT
 
 ### Over Exposed Services
 - eg. hotel wifi
