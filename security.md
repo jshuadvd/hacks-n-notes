@@ -125,7 +125,7 @@
 
 ### Protection
 - set protection like onion layers
-- train your personel
+- train your personnel
 
 
 
