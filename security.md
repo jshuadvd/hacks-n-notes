@@ -112,7 +112,7 @@
 - attackers may be paid by the hour to dig into your stuff until they find something
 
 #### Abusing Shared Resources
-- 
+- they can modify wikis, word documents, exes, etc.
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
