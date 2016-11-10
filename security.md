@@ -114,6 +114,11 @@
 #### Abusing Shared Resources
 - they can modify wikis, word documents, exes, etc.
 
+#### Post Exploitation
+- 
+
+
+
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
  
