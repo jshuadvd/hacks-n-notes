@@ -14,6 +14,7 @@
 - express (web server)
 - fast-cli (Netflix speedtest)
 - fast-csv (parse CVS)
+- [flow](www.flowtype.org) - Type Checking
 - google-libphonenumber (phoneNumber library) 
 - html-pdf (convert html to pdf)
 - moment (date library)
