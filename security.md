@@ -107,6 +107,12 @@
 - LLMNR, NBT-NS and MDNS can be abused on Windows to leak encrypted creds
 - [Responder](https://github.com/SpiderLabs/Responder) tool
 
+#### Credentials in Shared Documents
+- creds in a script, file, github, slack
+- attackers may be paid by the hour to dig into your stuff until they find something
+
+#### Abusing Shared Resources
+- 
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
