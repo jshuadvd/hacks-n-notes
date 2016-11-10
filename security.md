@@ -58,7 +58,7 @@
  - Operation Cleaver -> can use trojan horse app, posing as a recruiter
 
 ### USB Drops
-- "lost and found" USB stick
+- "lost and found" USB stick with malware
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
