@@ -47,9 +47,10 @@
 - emails, twitters
 
 ### Credential Phishing
+- eg. PayPal
 
 ### Spear Phishing
-
+- specific targets
 
  
  
