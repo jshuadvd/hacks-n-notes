@@ -54,7 +54,7 @@
 
 ### Spear Phishing
 - specific targets
-
+- you can harvest info from user from public social media
  
  
  ## meetups
