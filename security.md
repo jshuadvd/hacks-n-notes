@@ -67,11 +67,13 @@
 - unconfigured devices can be a gold mine for attacker
 
 ### Default Credentials
-- root/root
+- eg. root/root
+- this is how the Mirai DNS attack was done
 
 ### Over Exposed Services
 - eg. hotel wifi
-- 
+- ANTLabs InnGate (hotel Wifi)
+- RSYNC daemon
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
