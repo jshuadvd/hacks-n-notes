@@ -37,7 +37,8 @@
  Brian Wallace - Cylance
   
  The Diversity of the Cyber Threat Landscape
- 
+ github.com/bwall
+ @botnet_hunter
  
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
