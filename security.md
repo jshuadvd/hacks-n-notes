@@ -103,6 +103,8 @@
 - Isass.exe in Windows stores username/passwords
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) to pull data from Isass.exe
 
+#### Credentials from the Network
+
 
 
  ## meetups
