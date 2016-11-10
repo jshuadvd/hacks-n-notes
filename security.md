@@ -34,7 +34,8 @@
  
  ## ACM Cyber Security
  
- Brian Wallace
+ Brian Wallace - Cylance
+  
  The Diversity of the Cyber Threat Landscape
  
  
