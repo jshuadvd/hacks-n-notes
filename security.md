@@ -120,6 +120,11 @@
 - Ransomeware .. encrypt files in a system and ask a ransome for that
 - Bitcoin or other difficult to de-anonymize payment method
 
+### Steal Data
+- it's possible to encode data in simple words eg. Taylor Swift lyrics using machine learning
+
+
+
 
 
 
