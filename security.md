@@ -83,6 +83,12 @@
 - in a coffee shop wifi, trick you or your computer to proxy through them.. 
 - tool [Evilgrade](http://tools.kali.org/sniffingspoofing/isr-evilgrade)
 
+### Public WiFi
+- MITM
+- Airplane, coffee shop, restaurant wifis
+- anything not encrypted is at risk
+- use VPN can help when using public WiFi
+- or not use the public WiFi
 
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
