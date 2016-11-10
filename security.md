@@ -65,6 +65,7 @@
 ### Remote Exploitation
 - software vulnerabilities
 - unconfigured devices can be a gold mine for attacker
+- IPv6 will make the web more vulnerable
 
 ### Default Credentials
 - eg. root/root
