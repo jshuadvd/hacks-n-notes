@@ -34,6 +34,9 @@
  
  ## ACM Cyber Security
  
+ Brian Wallace
+ The Diversity of the Cyber Threat Landscape
+ 
  
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
