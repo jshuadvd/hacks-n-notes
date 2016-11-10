@@ -114,8 +114,7 @@
 #### Abusing Shared Resources
 - they can modify wikis, word documents, exes, etc.
 
-#### Post Exploitation
-- 
+
 
 
 
