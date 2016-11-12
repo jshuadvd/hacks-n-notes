@@ -8,4 +8,5 @@
 - do first, explain after typing
 - explaining "why" should be on the course description text, and not in the video
 - avoid *brittle* information, which can become outdated quickly, eg. "this feature is not supported by all browsers"
+- avoid referencing an external resource eg. another lesson
 - stay modular
