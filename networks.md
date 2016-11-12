@@ -1,5 +1,5 @@
 # Networks
-> Send bits through electricity.
+> Send bits through electricity, light or radio.
 
 ## Bit transfer
 
@@ -16,6 +16,11 @@
 
 - **Bitrate:** the number of bits per second a system can transmit
 - **Latency:** time it takes for a bit to travel from sender to receiver
+
+### Transfer medium
+
+- Electricity through copper wires eg. Ethernet, is cheap but has a lot of data loss.
+- Light is faster, can be transfered by fiber.
 
 ## DNS (Domain Name Server)
 
