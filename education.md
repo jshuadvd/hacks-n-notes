@@ -23,6 +23,8 @@
 ### Screen
 - resolution 1280 x 720 HiDPI
 - control resolution with [switchresx](http://www.madrau.com/)
+- bump font size from editor, browser, and other tools
+
 
 #### remove distractions like
 - Menu bars and app bar
