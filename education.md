@@ -19,3 +19,6 @@
 
 - Title, description and code snippets
 - title compose it by {How do I} ... without putting the "How do I"
+
+### Screen
+- resolution 1280 x 720 HiDPI
