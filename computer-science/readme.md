@@ -2,6 +2,9 @@
 
 > Computer Science notes
 
+## Curators
+- [ThoughtWorks](https://www.thoughtworks.com/radar/languages-and-frameworks)
+
 ## Reknowned Computer Scientists
 
 ### Alan Key 
