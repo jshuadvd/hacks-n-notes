@@ -9,6 +9,7 @@
 > Transmission capacity, measured by bitrate
 
 - **Bitrate:** the number of bits per second a system can transmit
+- **Latency:** time it takes for a bit to travel from sender to receiver
 
 ## DNS (Domain Name Server)
 
