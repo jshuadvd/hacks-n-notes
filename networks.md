@@ -24,9 +24,10 @@
 - Radio waves are used for wireless transmission
 
 ## IP (InternetWorking Protocol)
+> The Internet is the Network of Networks. It is a design philosophy and architecture expressed in a set of protocols
+
 - Invented by [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) & [Bob Kahn](https://en.wikipedia.org/wiki/Bob_Kahn)
 
-- The Internet is the Network of Networks
 - 
 
 ## DNS (Domain Name Server)
