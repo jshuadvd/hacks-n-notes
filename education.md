@@ -10,3 +10,6 @@
 - avoid *brittle* information, which can become outdated quickly, eg. "this feature is not supported by all browsers"
 - avoid referencing an external resource eg. another lesson
 - stay modular
+
+### Gear
+- microphone audio level should be as close to the red as possible
