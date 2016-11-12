@@ -8,7 +8,7 @@
 ### Bandwidth
 > Transmission capacity, measured by bitrate
 
-- Bitrate: the number of bits per second a system can transmit
+- **Bitrate:** the number of bits per second a system can transmit
 
 ## DNS (Domain Name Server)
 
