@@ -20,7 +20,8 @@
 ### Transfer medium
 
 - Electricity through copper wires eg. Ethernet, is cheap but has a lot of signal loss.
-- Light is faster, minimal signal loss, can be transferred by fiber.
+- Light is faster, minimal signal loss, can be transferred by fiber-optic cable.
+- Radio waves are used for wireless transmission
 
 ## DNS (Domain Name Server)
 
