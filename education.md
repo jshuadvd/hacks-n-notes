@@ -43,3 +43,4 @@
 - Remove typos, mistakes, long pauses
 
 #### Final Volume Level
+- max green. never red.
