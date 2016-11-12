@@ -23,6 +23,9 @@
 - Light is faster, minimal signal loss, can be transferred by fiber-optic cable.
 - Radio waves are used for wireless transmission
 
+## IP (InternetWorking Protocol)
+- Vint Cerf 
+- Bob Kahn
 ## DNS (Domain Name Server)
 
 ### Domain name mapping
