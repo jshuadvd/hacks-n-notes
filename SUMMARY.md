@@ -135,4 +135,5 @@
 * [Math](math.md)
 * [Elm](elm.md)
 * [APIs](apis.md)
+* Education
 
