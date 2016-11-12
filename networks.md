@@ -1,5 +1,12 @@
 # Networks
 
+## Bit transfer
+
+- 1 bit is a boolean
+- 1 byte = 8 bits
+
+### Bandwidth
+
 ## DNS (Domain Name Server)
 
 ### Domain name mapping
