@@ -1,4 +1,5 @@
 # Networks
+> Send bits through electricity.
 
 ## Bit transfer
 
