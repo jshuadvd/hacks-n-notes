@@ -28,3 +28,7 @@
 - Menu bars and app bar
 - notifications
 - extra browser tabs
+
+#### split screen
+- 2/3 for code
+- 1/3 for result
