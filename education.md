@@ -41,3 +41,5 @@
 ### Editing 
 - Use Ripple Delete to splice out pieces of the recording 
 - Remove typos, mistakes, long pauses
+
+#### Final Volume Level
