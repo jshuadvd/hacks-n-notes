@@ -28,7 +28,7 @@
 
 - Invented by [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) & [Bob Kahn](https://en.wikipedia.org/wiki/Bob_Kahn)
 
-- 
+- A **Protocol** is a well-known set of rules and standards used to communicate between machines.
 
 ## DNS (Domain Name Server)
 
