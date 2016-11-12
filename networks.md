@@ -6,6 +6,10 @@
 - 1 bit is a boolean
 - 1 byte = 8 bits
 
+- To transfer `1` you send one electric pulse. 
+- To transfer `0` you omit the electric pulse and this has to be in a time frame. eg. bit per second
+
+
 ### Bandwidth
 > Transmission capacity, measured by bitrate
 
