@@ -14,3 +14,4 @@ http://brew.sh/
 - nvm https://github.com/creationix/nvm
 - Seil  to map caps lock key to ESC 
 - [tmat](https://tmate.io/) - Terminal sharing
+- [yarn](https://yarnpkg.com/)
