@@ -39,4 +39,4 @@
 - record with large pauses, so we can think and it's easier to edit
 
 ### Editing 
-- Use Ripple Delete 
+- Use Ripple Delete to splice out pieces of the recording 
