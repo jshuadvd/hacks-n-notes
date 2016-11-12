@@ -2,6 +2,7 @@
 
 ## How to create a Egghead screencast
 
+### Self-contained and focus
 - No intros/outros in the video. Put them in the course description as text.
 - focus on the code. the bulk of the lesson should be typing.
 - avoid long notes
@@ -11,5 +12,5 @@
 - avoid referencing an external resource eg. another lesson
 - stay modular
 
-### Gear
+### Audio
 - microphone audio level should be as close to the red as possible
