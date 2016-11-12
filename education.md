@@ -22,3 +22,5 @@
 
 ### Screen
 - resolution 1280 x 720 HiDPI
+- control resolution with [switchresx](http://www.madrau.com/)
+- 
