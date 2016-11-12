@@ -36,4 +36,4 @@
 - 1/3 for result
 
 ### Bite-size chunks
-
+- record with large pauses, so we can think and it's easier to edit
