@@ -14,3 +14,7 @@
 
 ### Audio
 - microphone audio level should be as close to the red as possible
+
+### Lesson resources
+
+- Title, description and code snippets
