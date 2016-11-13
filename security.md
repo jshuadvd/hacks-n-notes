@@ -16,6 +16,7 @@
 
 - Consists of a public key that can be exchanged with anybody and a private key that isn't shared
 - The public key is used to encrypt data and anybody can create a secret message
+- The secret can only be decrypted by a computer with a private key
 
 ## IEEE OC CyberSecurity SIG
 > https://cssig.brats.com
