@@ -70,3 +70,4 @@
 - The packets my arrive to the receiver at different times but the receiver will wait untill all is ready to assemble.
 - each packet contains it's IP address of where it came from and where it's going
 - if one of the network routes is congested, the router might send the packets in different routes and in different order
+- Routers are computers dedicated to forward packets to their destination and balance the network traffic
