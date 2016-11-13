@@ -4,7 +4,7 @@
 > scramble code with a key
 
 - Today's encryption uses 256 bit keys
-### Symetric encryption 
+### Symmetric encryption 
 > When sender and receiver use the same key
 
 ## IEEE OC CyberSecurity SIG
