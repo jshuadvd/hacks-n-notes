@@ -148,8 +148,8 @@
 - [how to setup a VPN](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
 
 
-### DDoS
-> Distributed Denial of Service
+### DDoS (Distributed Denial of Service)
+> When attackers flood a web server with requests
 
 - A **BotNet** is a network of infected computers that can be used to cause DDoS attacks.
 
