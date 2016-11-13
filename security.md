@@ -14,6 +14,8 @@
 ### Asymmetric key
 > used in open communications like the Internet
 
+- Consists of a public key that can be exchanged with anybody and a private key that isn't shared
+
 
 ## IEEE OC CyberSecurity SIG
 > https://cssig.brats.com
