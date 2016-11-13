@@ -92,3 +92,5 @@
 ### HTML (HyperText Markup Language)
 
 ### SSL (Secure Sockets Layer)
+
+### TLS (Transport Layer Security)
