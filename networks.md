@@ -94,3 +94,5 @@
 ### SSL (Secure Sockets Layer)
 
 ### TLS (Transport Layer Security)
+> SSL's successor
+> 
