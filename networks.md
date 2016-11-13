@@ -80,12 +80,14 @@
 - If there are any packets missing, TCP will request the sender to re-send those packets.
 
 ## HTTP and HTML
+- the internet is open
+- all connections are shared
+- information is sent in plain text
 
 ### URL (Uniform Resource Locator)
 
 ### HTTP (HyperText Transfer Protocol)
 > Language used to communicate between browsers and servers
 
-
-
 ### HTML (HyperText Markup Language)
+
