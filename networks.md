@@ -62,3 +62,4 @@
 
 
 ### DNS Spoofing
+- When a hacker breaks into a DNS Server and changes a domain name cache to point to a different IP address.
