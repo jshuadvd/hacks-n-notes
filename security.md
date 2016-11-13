@@ -7,6 +7,9 @@
 ### Symmetric encryption 
 > When sender and receiver use the same key
 
+- eg. Ceasar's cypher
+- The key has to be agreed before time
+
 ## IEEE OC CyberSecurity SIG
 > https://cssig.brats.com
 > Chair Arthur Schwarz
