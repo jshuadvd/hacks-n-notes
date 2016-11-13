@@ -72,3 +72,5 @@
 - if one of the network routes is congested, the router might send the packets in different routes and in different order
 - Routers are computers dedicated to forward packets to their destination and balance the network traffic
 - The diversification of routes makes the internet reliable and difficult to take down
+
+### TCP (Transmission Control Protocol)
