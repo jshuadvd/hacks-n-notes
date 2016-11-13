@@ -91,4 +91,4 @@
 
 ### HTML (HyperText Markup Language)
 
-### SSL (Secure Socket Layer)
+### SSL (Secure Sockets Layer)
