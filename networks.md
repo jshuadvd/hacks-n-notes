@@ -48,7 +48,7 @@
 - provides 340 undecillion unique addresses
 
 
-## DNS (Domain Name Server)
+## DNS (Domain Name System)
 
 ### Domain name mapping
 
