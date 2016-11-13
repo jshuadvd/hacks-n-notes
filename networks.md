@@ -74,3 +74,4 @@
 - The diversification of routes makes the internet reliable and difficult to take down
 
 ### TCP (Transmission Control Protocol)
+> Manages all your sending and receiving your data as packets
