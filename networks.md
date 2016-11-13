@@ -75,3 +75,5 @@
 
 ### TCP (Transmission Control Protocol)
 > Manages all your sending and receiving your data as packets
+
+- TCP makes sure all packets arrived and send a confirmation status to the sender.
