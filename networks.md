@@ -51,7 +51,7 @@
 ## DNS (Domain Name System)
 
 ### Domain name mapping
-> Connected through a domain name heirarchy
+> Connected through a domain name hierarchy
 
 
 - `A` record maps a domain name directly to an IP address (preferred)
