@@ -82,3 +82,5 @@
 ## HTTP and HTML
 
 ### URL (Uniform Resource Locator)
+
+### HTTP (HyperText Transfer Protocol)
