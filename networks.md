@@ -44,7 +44,8 @@
 
 #### IPv6
 
-- 128 bits per address
+- 128 bits per address composed of 8 parts
+- provides 340 undecillion unique addresses
 
 
 ## DNS (Domain Name Server)
