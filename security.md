@@ -4,11 +4,16 @@
 > scramble code with a key
 
 - Today's encryption uses 256 bit keys
-### Symmetric encryption 
+
+### Symmetric key 
 > When sender and receiver use the same key
 
 - eg. Ceasar's cypher
 - The key has to be agreed before time
+
+### Asymmetric key
+> used in open communications like the Internet
+
 
 ## IEEE OC CyberSecurity SIG
 > https://cssig.brats.com
