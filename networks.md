@@ -33,6 +33,9 @@
 
 ### IP Address
 - IPv4 has 4 parts consisting of 8 bits each ~ 0 to 255 in decimals.
+- The first part represents the country/network
+- The second part is the region/network
+- 
 
 ## DNS (Domain Name Server)
 
