@@ -97,4 +97,3 @@
 > SSL's successor
 
 - adds a layer of protection to the HTTP connection to prevent sniffing and tampering
-- 
