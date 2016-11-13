@@ -31,6 +31,9 @@
 - A **Protocol** is a well-known set of rules and standards used to communicate between machines.
 - All devices in the internet have unique addresses
 
+### IP Address
+- IPv4 has 4 parts consisting of 8 bits each.
+
 ## DNS (Domain Name Server)
 
 ### Domain name mapping
