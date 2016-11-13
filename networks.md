@@ -51,6 +51,8 @@
 ## DNS (Domain Name System)
 
 ### Domain name mapping
+> Connected through a domain name heirarchy
+
 
 - `A` record maps a domain name directly to an IP address (preferred)
 - `CNAME` record maps one domain name to another and are less flexible.
