@@ -68,3 +68,4 @@
 
 - Data is chunked into packets and each of these travel in different routes from sender to receiver.
 - The packets my arrive to the receiver at different times but the receiver will wait untill all is ready to assemble.
+- each packet contains it's IP address of where it came from and where it's going
