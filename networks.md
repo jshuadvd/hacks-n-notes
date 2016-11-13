@@ -78,3 +78,7 @@
 
 - TCP makes sure all packets arrived and send a confirmation status to the sender.
 - If there are any packets missing, TCP will request the sender to re-send those packets.
+
+## HTTP and HTML
+
+### URL (Uniform Resource Locator)
