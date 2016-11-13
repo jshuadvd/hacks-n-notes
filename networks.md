@@ -43,7 +43,8 @@
 - The fourth is the device
 
 #### IPv6
-> 
+
+- 128 bits per address
 
 
 ## DNS (Domain Name Server)
