@@ -42,6 +42,10 @@
 - The third is the subnetwork
 - The fourth is the device
 
+#### IPv6
+> 
+
+
 ## DNS (Domain Name Server)
 
 ### Domain name mapping
