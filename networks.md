@@ -32,7 +32,7 @@
 - All devices in the internet have unique addresses
 
 ### IP Address
-- IPv4 has 4 parts consisting of 8 bits each.
+- IPv4 has 4 parts consisting of 8 bits each ~ 0 to 255 in decimals.
 
 ## DNS (Domain Name Server)
 
