@@ -1,7 +1,9 @@
 # Security
 
 ## Encryption
+> scramble code with a key
 
+- Today's encryption uses 256 bit keys
 
 ## IEEE OC CyberSecurity SIG
 > https://cssig.brats.com
