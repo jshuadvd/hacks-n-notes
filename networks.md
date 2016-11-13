@@ -61,3 +61,4 @@
 - if you want to show the change immediately, redirect the current server to the Coming soon while you wait for the DNS to update the cache.
 
 
+### DNS Spoofing
