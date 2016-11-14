@@ -86,7 +86,7 @@
    * [Data Structures](computer-science/data_structures.md)
        * [Graph representation](computer-science/algorithms/graph_representation.md)
        * Tree
-* Browser
+* [Browser](browser.md)
    * [Debugging](debugging.md)
    * [Offline](offline.md)
    * [Performance](performance.md)
@@ -109,7 +109,6 @@
    * [SVG](svg.md)
    * [Virtual Reality](virtual_reality.md)
    * [Augmented Reality](augmented_reality.md)
-   * [3D Models](3d_models.md)
 * [Business](business.md)
    * [Trends](trends.md)
    * [Web App costs](web_app_costs.md)
@@ -136,5 +135,4 @@
 * [Math](math.md)
 * [Elm](elm.md)
 * [APIs](apis.md)
-* [Education](education.md)
 
