@@ -12,3 +12,7 @@ Notes on the arguments:
 * `--optimize=3` requests that gifsicle use the slowest/most file-size optimization 
 
 [Reference](https://gist.github.com/dergachev/4627207)
+
+## Photo editing
+
+- [Filters like Van Gogh](https://primitive.lol/)
