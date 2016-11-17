@@ -116,6 +116,7 @@
    * [RegEx](javascript/regex.md)
    * [Code Modificators](javascript/code_modificators.md)
 * [Networks](networks.md)
+   * IP
 * [Internet Protocols](internet_protocols.md)
    * [AMQP](amqp.md)
 * [Patterns](patterns.md)
