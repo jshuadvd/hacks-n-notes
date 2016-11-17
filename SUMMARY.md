@@ -117,6 +117,7 @@
    * [Security](javascript/security.md)
    * [RegEx](javascript/regex.md)
    * [Code Modificators](javascript/code_modificators.md)
+* [Math](math.md)
 * [Networks](networks.md)
    * [Internet Protocols](internet_protocols.md)
        * [AMQP](amqp.md)
@@ -137,6 +138,5 @@
 * [Tools](tools.md)
 * [10X](10x.md)
    * [Metaprogramming](metaprogramming.md)
-* [Math](math.md)
 * [APIs](apis.md)
 
