@@ -17,7 +17,4 @@ console.timeEnd('application'); // stops timer
 ### How to scale
 - load balancing
 - https://docs.docker.com/swarm/
-- queuing systems
-
-
-RabbitMQ with *npm amqplib*
+- queuing systems eg. RabbitMQ with [npm amqplib](http://www.squaremobius.net/amqp.node/)
