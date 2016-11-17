@@ -62,6 +62,7 @@
    * [AWS](aws.md)
        * [EC2](ec2.md)
        * [Elastic BeanStack](elastic_beanstack.md)
+* [Elm](elm.md)
 * [Git](git/readme.md)
    * [Git Workflow](git/git-workflow.md)
    * [Git Tags](git/git-tags.md)
@@ -137,6 +138,5 @@
 * [10X](10x.md)
    * [Metaprogramming](metaprogramming.md)
 * [Math](math.md)
-* [Elm](elm.md)
 * [APIs](apis.md)
 
