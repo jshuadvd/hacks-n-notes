@@ -27,6 +27,8 @@
    * [Data Structures](computer-science/data_structures.md)
        * [Graph representation](computer-science/algorithms/graph_representation.md)
        * Tree
+* [CSS](css/readme.md)
+   * [CSS3 Animations](css/css3-animations.md)
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [Git](git/readme.md)
@@ -86,8 +88,6 @@
    * [HomeBrew](shell/homebrew.md)
 * [Talks](javascript/node-js/talks.md)
    * [2016 Nov](javascript/node-js/2016_nov.md)
-* [CSS](css/readme.md)
-   * [CSS3 Animations](css/css3-animations.md)
 * [Browser](browser.md)
    * [Debugging](debugging.md)
    * [Offline](offline.md)
