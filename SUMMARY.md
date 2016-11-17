@@ -117,8 +117,8 @@
    * [Code Modificators](javascript/code_modificators.md)
 * [Networks](networks.md)
    * [Internet Protocols](internet_protocols.md)
-       * IP
        * [AMQP](amqp.md)
+       * IP
 * [Patterns](patterns.md)
    * [Event Sourcing](event_sourcing.md)
 * [Quality Assurance](quality_assurance.md)
