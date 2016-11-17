@@ -13,6 +13,7 @@
    * [HomeBrew](shell/homebrew.md)
 * [Security](security.md)
 * [Talks](javascript/node-js/talks.md)
+   * 2016 Nov
 * [Networks](networks.md)
 * [Git](git/readme.md)
    * [Git Workflow](git/git-workflow.md)
@@ -51,7 +52,6 @@
        * [NodeJS API](javascript/node-js/native-api.md)
        * [Version management](javascript/node-js/version_management.md)
        * [Unix](javascript/node-js/unix.md)
-       * [Talks](javascript/node-js/talks.md)
    * [ReactJS](javascript/reactjs.md)
    * [Monitoring](javascript/monitoring.md)
    * [ESLint](javascript/eslint.md)
