@@ -17,3 +17,4 @@ console.timeEnd('application'); // stops timer
 ### How to scale
 - load balancing
 - https://docs.docker.com/swarm/
+- queuing systems
