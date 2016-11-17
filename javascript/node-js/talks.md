@@ -13,3 +13,7 @@ TypeScript definitions http://definitelytyped.org/
 console.time('application'); // starts tracking time
 console.timeEnd('application'); // stops timer
 ``` 
+
+### How to scale
+- load balancing
+- https://docs.docker.com/swarm/
