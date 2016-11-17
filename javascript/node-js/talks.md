@@ -18,3 +18,6 @@ console.timeEnd('application'); // stops timer
 - load balancing
 - https://docs.docker.com/swarm/
 - queuing systems
+
+
+RabbitMQ with *npm amqplib*
