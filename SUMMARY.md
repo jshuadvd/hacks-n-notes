@@ -12,6 +12,7 @@
    * [tmux](shell/tmux.md)
    * [HomeBrew](shell/homebrew.md)
 * [Security](security.md)
+* [Talks](javascript/node-js/talks.md)
 * [Networks](networks.md)
 * [Git](git/readme.md)
    * [Git Workflow](git/git-workflow.md)
