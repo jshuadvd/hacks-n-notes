@@ -4,6 +4,7 @@
    * [LICENSE](LICENSE.md)
    * [Summary](SUMMARY.md)
    * [Learnings](learnings.md)
+* [APIs](apis.md)
 * [Browser](browser.md)
    * [Debugging](debugging.md)
    * [Offline](offline.md)
@@ -138,5 +139,4 @@
 * [Tools](tools.md)
 * [10X](10x.md)
    * [Metaprogramming](metaprogramming.md)
-* [APIs](apis.md)
 
