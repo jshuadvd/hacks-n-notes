@@ -50,6 +50,7 @@
        * [NodeJS API](javascript/node-js/native-api.md)
        * [Version management](javascript/node-js/version_management.md)
        * [Unix](javascript/node-js/unix.md)
+       * Talks
    * [ReactJS](javascript/reactjs.md)
    * [Monitoring](javascript/monitoring.md)
    * [ESLint](javascript/eslint.md)
