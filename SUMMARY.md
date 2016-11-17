@@ -118,7 +118,7 @@
 * [Networks](networks.md)
    * [Internet Protocols](internet_protocols.md)
        * [AMQP](amqp.md)
-       * IP
+       * [IP](ip.md)
 * [Patterns](patterns.md)
    * [Event Sourcing](event_sourcing.md)
 * [Quality Assurance](quality_assurance.md)
