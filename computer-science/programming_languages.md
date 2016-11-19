@@ -1,5 +1,7 @@
 # Programming Languages
 
-type | description
--- | --
-imperative | dictates orders
+
+## imperative programming
+
+- dictates orders
+- 
