@@ -4,4 +4,6 @@
 ## imperative programming
 
 - dictates orders
-- very efficient in single core computers
+- great performance in single core computers
+- stores a lot of state
+- use locks to work with multi-thread
