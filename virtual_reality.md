@@ -8,9 +8,10 @@
 - BabylonJS
 - ThreeJS
 
-## Engines
+## Engines and Editors
 
 - [PlayCanvas](www.playcanvas.com)
+- [vizor](vizor.io)
 - Unity
 - Unreal
 
