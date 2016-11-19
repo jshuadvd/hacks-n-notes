@@ -46,6 +46,7 @@
    * [Data Structures](computer-science/data_structures.md)
        * [Graph representation](computer-science/algorithms/graph_representation.md)
        * Tree
+   * Programming Languages
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
    * [Oh my zshell](configs/zshrc.md)
