@@ -36,4 +36,4 @@
 - [Steve Teeps](http://www.steveteeps.com/)
 
 ## Reference
-- [LA WebVR](https://docs.google.com/presentation/d/13a29m0SbpTeItFP8fjrSoKNb7nsjAd4DC9lWnokWEfg/edit?usp=sharing)
+- [LA WebVR - How to design and build virtual reality directly using HTML, CSS, JavaScript](https://docs.google.com/presentation/d/13a29m0SbpTeItFP8fjrSoKNb7nsjAd4DC9lWnokWEfg/edit?usp=sharing)
