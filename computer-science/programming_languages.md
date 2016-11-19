@@ -1,7 +1,7 @@
 # Programming Languages
 
 
-## imperative programming
+## imperative programming languages
 
 - dictates orders
 - stores a lot of state
@@ -12,3 +12,6 @@
 ### Cons
 - needs complicated multi-thread sync mechanisms which may slow it down
 - can't scale horizontally in different CPUs
+
+## functional programming languages
+
