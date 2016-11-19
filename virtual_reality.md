@@ -34,3 +34,6 @@
 - [David Cottlyons](http://davidscottlyons.com/)
 - [Cabbibo](http://cabbi.bo/)
 - [Steve Teeps](http://www.steveteeps.com/)
+
+## Reference
+- [LA WebVR](https://docs.google.com/presentation/d/13a29m0SbpTeItFP8fjrSoKNb7nsjAd4DC9lWnokWEfg/edit?usp=sharing)
