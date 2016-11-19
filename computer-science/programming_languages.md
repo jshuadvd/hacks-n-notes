@@ -15,3 +15,6 @@
 
 ## functional programming languages
 
+
+## Reference
+- [Why functional languages rock with multi-core](http://prettyprint.me/prettyprint.me/2009/08/01/why-functional-languages-rock-with-multi-core/index.html)
