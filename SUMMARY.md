@@ -138,6 +138,7 @@
    * [HomeBrew](shell/homebrew.md)
 * [Talks](javascript/node-js/talks.md)
    * [2016 Nov](javascript/node-js/2016_nov.md)
+       * 2016 Nov 22
 * [Tools](tools.md)
 * [10X](10x.md)
    * [Metaprogramming](metaprogramming.md)
