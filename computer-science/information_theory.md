@@ -18,3 +18,4 @@
 - Symbol rate: how many symbols transferred per second eg. a bitrate. Also known as Baud. 
 - Difference: how many differences per symbol, eg a bit would be two differences per symbol.
 - the symbol rate would dictate the depth of the decision tree
+- Message space: the width of the base of the decision tree
