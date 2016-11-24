@@ -19,3 +19,7 @@
 - Difference (s): how many differences per symbol, eg. a bit would be two differences per symbol.
 - the symbol rate would dictate the depth of the decision tree
 - Message space: the width of the base of the decision tree or $$s^n$$. In other words, how many different symbols or letters can be sent in a specific amount of time.
+
+#### Measure amount of information transmitted in a unit of time by
+
+$$log(s^n)$$
