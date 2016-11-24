@@ -13,5 +13,5 @@
 
 ## information transmission
 
-- - Symbol rate: how many symbols transferred per second eg. a bitrate. Also known as Baud
-- 
+- Symbol rate: how many symbols transferred per second eg. a bitrate. Also known as Baud
+- Difference: how many differences per symbol
