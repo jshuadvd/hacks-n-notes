@@ -30,6 +30,7 @@ reactify | browserify plugin for React
 [redux-form](http://redux-form.com/) | redux form
 request | HTTP requests
 serve-favicon | to serve dynamic favicons
+[strapdown](http://strapdownjs.com/) | markdown renderer
 superagent | HTTP requests
 tape | unit test library
 [tesseract](https://github.com/naptha/tesseract.js) | OCR in 62 languages
