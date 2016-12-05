@@ -24,6 +24,7 @@ node-inspector | debug nodeJS apps on Chrome
 node-uuid | generate UUID
 numeral | number formatting
 node-sass | pre-process SASS to CSS
+[oy](https://github.com/revivek/oy) | E-mail templates with React
 pusher | websockets
 pusher-js | websockets - complimentary
 reactify | browserify plugin for React
