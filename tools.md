@@ -19,15 +19,14 @@
 
 - 1Password
 - Atom
-- Balsamiq
-- Brave
-- Caffeine
+- Brave - ad free browser
+- Caffeine - keeps computer awake
+- [Duet](https://www.duetdisplay.com/) - turns ipad into display
 - Dropbox
 - FireFoxDev
 - Flux
 - Chrome
 - iTerm
-- Karabiner (map escape)
 - Sketch
 - Skitch
 - Skype
