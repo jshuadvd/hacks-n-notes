@@ -23,7 +23,6 @@
 - Caffeine - keeps computer awake
 - [Duet](https://www.duetdisplay.com/) - turns ipad into display
 - Dropbox
-- FireFoxDev
 - Flux
 - Chrome
 - iTerm
