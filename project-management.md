@@ -1,7 +1,5 @@
 # The Mythical Man-Month
 
-&gt; \*\*Page\# 5 to Page\# 10\*\*
-
 * “All programmers are optimists. Perhaps this modern sorcery especially attracts those who believe in happy endings and fairy godmothers. “
 
 * “ This time it will surely run “ or “ I just found the last bug”
