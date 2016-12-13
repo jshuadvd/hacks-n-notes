@@ -39,6 +39,12 @@
 - What would I pay / feel right?
 - How much money does it save or generate to the user
 
+## CrowdSourcing
+
+- https://www.namingforce.com/
+- https://www.crowdspring.com
+
+
 
 
 
