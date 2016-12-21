@@ -100,6 +100,7 @@
         * [Set](javascript/set.md)
         * [Weak map](javascript/weak_map.md)
         * [Promises](javascript/promises.md)
+    * [Emulators](javascript/emulators.md)
     * [ESLint](javascript/eslint.md)
     * [Functional Programming](javascript/functional-programming/js-functional-programming.md)
         * [Recursion](javascript/functional-programming/recursion.md)
@@ -122,7 +123,7 @@
     * [npm](javascript/npm.md)
     * [ReactJS](javascript/reactjs.md)
     * [RegEx](javascript/regex.md)
-    * [Security](javascript/security.md)
+    * Emulators
 * [Math](math.md)
 * [Networks](networks.md)
     * [Internet Protocols](internet_protocols.md)
