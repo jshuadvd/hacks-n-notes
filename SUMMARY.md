@@ -26,6 +26,7 @@
     * [Project Management](project-management.md)
         * [Open Source Projects](open-source-projects.md)
     * [Micropreneurship](micropreneurship.md)
+    * [E-myth](e-myth.md)
 * [Computer Science](computer-science/readme.md)
     * [Algorithms](computer-science/algorithms/readme.md)
         * [Binary Search](computer-science/algorithms/binary-search.md)
