@@ -59,6 +59,7 @@
     * [Gitbook config](configs/gitbook_config.md)
     * [Ubuntu](configs/ubuntu.md)
     * [tmux](configs/tmux.md)
+    * [Git](configs/git.md)
 * [CSS](css/readme.md)
     * [CSS3 Animations](css/css3-animations.md)
 * [C\#](c-sharp.md)
