@@ -78,7 +78,7 @@
 * [Graphics](graphics.md)
     * [SVG](svg.md)
     * [Virtual Reality](virtual_reality.md)
-    * [Augmented Reality](augmented_reality.md)
+* [Augmented Reality](augmented_reality.md)
 * [Health](health.md)
 * [HTML](html.md)
     * [Head](head.md)
