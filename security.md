@@ -4,6 +4,10 @@
 
 - [BugCrowd](https://bugcrowd.com)
 
+## Elearning
+
+- [Codiscope](https://codiscope.com/products/elearning/)
+
 ## Encryption
 > scramble code with a key
 
