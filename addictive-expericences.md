@@ -36,6 +36,12 @@
 
 > Designed to seduce the user into consume longer
 
+### Instant interruption
+
+> The instant part of an interruption gives an urgent tone that it's hard to ignore
+
+- millions of interruptions all the time 
+- instant messages, push notifications, pop-ups, etc.
 
 
 ## Reference
