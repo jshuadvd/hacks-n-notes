@@ -43,6 +43,9 @@
 - millions of interruptions all the time 
 - instant messages, push notifications, pop-ups, etc.
 
+### Bundling Your Reasons with Their Reasons
+
+> When the tech companies make the user believe that he choses to do what he is doing, but in reality the user was induced to think that 
 
 ## Reference
 
