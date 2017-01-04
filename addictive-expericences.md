@@ -17,6 +17,9 @@
 
 ### Fear of Missing Something Important (FOMSI)
 
+- inducing a “1% chance you could be missing something important.
+- not being able to unsubscribe from newsletters, groups, unfriend people, etc.
+
 
 ## Reference
 
