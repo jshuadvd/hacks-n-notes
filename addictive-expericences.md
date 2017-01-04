@@ -32,6 +32,11 @@
 - receive a message, respond a message
 - add in linkedin, add back
 
+### Bottomless bowls, infinite feeds, AutoPlay
+
+> Designed to seduce the user into consume longer
+
+
 
 ## Reference
 
