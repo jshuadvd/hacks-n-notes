@@ -77,8 +77,8 @@
     * [Git Config](git/git-config.md)
 * [Graphics](graphics.md)
     * [SVG](svg.md)
+    * [Augmented Reality](augmented_reality.md)
     * [Virtual Reality](virtual_reality.md)
-* [Augmented Reality](augmented_reality.md)
 * [Health](health.md)
 * [HTML](html.md)
     * [Head](head.md)
@@ -149,4 +149,6 @@
 * [Tools](tools.md)
 * [10X](10x.md)
     * [Metaprogramming](metaprogramming.md)
+* [User Experience](user-experience.md)
+    * [Addictive Expericences](addictive-expericences.md)
 
