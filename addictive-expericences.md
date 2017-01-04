@@ -9,6 +9,13 @@
 - Menus, catalogs, lists, etc. are examples of apparent choices.
 - In reality someone or an algorithm limited the user to those specific options.
 
+### Slot machine behavior
+
+- Red notification counters, number of likes, etc, are like slots machines that create addiction 
+- The addiction is created by variable reward. The result always changes.
+- This is why we constantly go back to check the statuses of the apps.
+
+### Fear of Missing Something Important (FOMSI)
 
 
 ## Reference
