@@ -20,6 +20,18 @@
 - inducing a “1% chance you could be missing something important.
 - not being able to unsubscribe from newsletters, groups, unfriend people, etc.
 
+### Social Approval
+
+> We’re all vulnerable to social approval. The need to belong, to be approved or appreciated by our peers is among the highest human motivations.
+
+- when you get tagged in a picture by a friend who was incentivized by the app
+
+### Social reciprocity
+
+- follow me and I follow back
+- receive a message, respond a message
+- add in linkedin, add back
+
 
 ## Reference
 
