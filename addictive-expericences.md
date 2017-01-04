@@ -14,3 +14,4 @@
 ## Reference
 
 - [How Tech hijacks people's minds](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.4i9qdelbb)
+- [Time Well Spent](http://www.timewellspent.io/)
