@@ -47,6 +47,12 @@
 
 > When the tech companies make the user believe that he choses to do what he is doing, but in reality the user was induced to think that 
 
+### Forecasting time
+
+- Apps should start forecasting time required to spend on a specific CTA before clicking on it.
+- Like Medium warns the readers how long will it take to read an article.
+
+
 ## Reference
 
 - [How Tech hijacks people's minds](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.4i9qdelbb)
