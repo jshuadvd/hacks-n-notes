@@ -146,6 +146,8 @@
 * [Talks](javascript/node-js/talks.md)
     * [2016 Nov](javascript/node-js/2016_nov.md)
         * [2016 Nov 22](javascript/node-js/2016_nov_22.md)
+    * [2017 Jan](javascript/node-js/2017-jan.md)
+        * [2017 Jan 11th](javascript/node-js/2017-jan-11th.md)
 * [Tools](tools.md)
 * [10X](10x.md)
     * [Metaprogramming](metaprogramming.md)
