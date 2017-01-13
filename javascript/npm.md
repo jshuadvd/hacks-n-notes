@@ -108,3 +108,9 @@ watchify | to watch
     return {};
 }));
 ```
+
+## Easter Eggs
+
+- `npm xmas`
+- `npm visnup`
+- `npm substack`
