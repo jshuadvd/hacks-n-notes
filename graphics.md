@@ -16,3 +16,7 @@ Notes on the arguments:
 ## Photo editing
 
 - [Filters like Van Gogh](https://primitive.lol/)
+
+## Art
+
+- [Commit.io](https://commits.io/) - Turn code to art
