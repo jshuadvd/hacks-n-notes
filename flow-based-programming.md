@@ -7,3 +7,4 @@
 - NoFlow
 - JavaFBP
 - Node-RED
+- [FBP Parser](https://github.com/flowbased/fbp)
