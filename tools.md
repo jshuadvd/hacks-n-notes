@@ -21,6 +21,7 @@
 - Sketch
 - Skitch
 - Skype
+- [writefull](https://chrome.writefullapp.com/) - writer tool
 
 ## Vim
 
