@@ -1,4 +1,4 @@
-# Health
+ # Health
 
 ## Nutrition
 
@@ -18,13 +18,5 @@ type | ratio | cal/g
 protein | 30% | 4
 carbs | 40% | 4
 fats | 30% | 9
-
-
- 
-### Refeed day 
-
-> 2 days a week (Monday & Friday)
-> 
-> Train upper body on those days
 
 
