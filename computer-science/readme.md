@@ -8,7 +8,12 @@
 ## Reknowned Computer Scientists
 
 ### Alan Key 
-> Object-Oriented Programming
+> Object-Oriented Programming'
+
+### Jeff Dean
+> Google
+
+- https://research.google.com/pubs/jeff.html
 
 ### Phil Bagwell
 > Scala community leader
