@@ -2,6 +2,8 @@
 
 > JavaScript is an obligatory programming language for anyone who wants to code for the Web since all browsers implement it.
 
+- [JS Foundation](https://js.foundation)
+
 ### Load script on document ready
 ```js
 document.addEventListener("DOMContentLoaded", function(event) { 
