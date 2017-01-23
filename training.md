@@ -53,6 +53,7 @@
 ## SQL injection
 - block any http request that looks like SQL injection
 - `or` attack. `'1'='1'`
+- usually the first user in the user_table is the root user
 
 ## React
 - no CSP support
