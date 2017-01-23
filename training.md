@@ -69,6 +69,7 @@
 - login/pwd is not enough
 - [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) - easily phishable
 - [FIDO standard](https://fidoalliance.org) - the safest since it checks to the hardware
+- The german banks have very effective security policies.
 
 ## React
 - no CSP support
