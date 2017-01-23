@@ -107,6 +107,7 @@
 
 ### OAuth
 
+- delegation framework
 
 ## React
 - no CSP support
