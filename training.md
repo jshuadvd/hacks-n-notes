@@ -19,6 +19,7 @@
 
 ### HTTP Request Headers
 - the Referrer is the website where the req comes from. This can leak GET querystring. Even in https, it can be cached, bookemarked, etc
+- <form> uses method="GET" by default
 - never put sensitive data on the URI
 - don't trust user-agent
 
