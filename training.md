@@ -44,6 +44,7 @@
 - enable `secure` flag
 - make them expirable
 - activate `SameSite` to avoid cookie leaving the browser unless the current page origin matches the target
+- avoid persistent cookies
 
 #### X-Frame-Options 
 - protects from clickjacking
