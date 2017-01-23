@@ -102,6 +102,7 @@
 #### Encrption
 - [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2)
 - [scrypt](https://en.wikipedia.org/wiki/Scrypt)
+- salt is meant to prevent dedupe attacks, not brute force attacks
 
 
 ## React
