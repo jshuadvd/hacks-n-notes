@@ -9,7 +9,7 @@
 - don't hack without legal written permission.
 - being compliant doesn't equal being secure.
 - Step-skipping-attack
-- IE6 is super insecure
+- IE6 is super insecure, secure softwaree can't be built for this browser
 
 ## HTTP Security
 
