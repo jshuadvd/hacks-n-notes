@@ -55,6 +55,7 @@
 - `or` attack. `'1'='1'`
 - usually the first user in the user_table is the root user
 - timing attack
+- [SQL Map](http://sqlmap.org/)
 
 ## React
 - no CSP support
