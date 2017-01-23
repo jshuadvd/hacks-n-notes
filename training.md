@@ -22,5 +22,6 @@
 - <form> uses method="GET" by default
 - never put sensitive data on the URI
 - don't trust user-agent
+- validate and whitelist user agents and browsers versions.. 
 
 
