@@ -5,6 +5,7 @@
 - www.manicode.com
 
 - VPC is not enough to protect microservices.
+- WAF (Web App Firewall)
 
 ## HTTP Security
 
