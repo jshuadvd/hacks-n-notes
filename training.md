@@ -72,6 +72,7 @@
 - login/pwd is not enough
 - [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) - easily phishable
 - [FIDO standard](https://fidoalliance.org) - the safest since it checks to the hardware. eg. Yubikey
+- push notifications to auth
 - The german banks have very effective security policies.
 - absolute timeout vs idle timeout
 - in login/pwd auth failure don't specify what failed 
@@ -80,6 +81,8 @@
 - [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt) - to hash passwords
 - don't use usernames as public like twitter do. Use your login username and have another that's the display name
 - if you lock out an account for brute-forcing, don't notify them on the website, but send them an email.
+- do phishing campaign to your own company to detect any weaknesses and to educate.
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 
 ## React
 - no CSP support
