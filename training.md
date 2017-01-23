@@ -18,7 +18,8 @@
 
 
 ### HTTP Request Headers
-- the Referrer is the website where the req comes from. This can leak GET querystring.
+- the Referrer is the website where the req comes from. This can leak GET querystring. 
+- never put sensitive data on the URI
 - don't trust user-agent
 
 
