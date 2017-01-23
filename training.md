@@ -12,6 +12,7 @@
 - being compliant doesn't equal being secure.
 - Step-skipping-attack
 - IE6 is super insecure, secure softwaree can't be built for this browser
+- security salmon
 
 ## HTTP Security
 
