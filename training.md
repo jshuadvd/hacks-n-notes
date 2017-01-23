@@ -10,3 +10,7 @@
 
 ## HTTP Security
 
+- trust no HTTP request
+- https://addons.mozilla.org/en-US/firefox/addon/tamper-data/
+
+
