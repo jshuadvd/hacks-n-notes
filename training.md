@@ -38,5 +38,5 @@
 
 #### Cookies
 
-- httpONly
+- httpOnly
 - enable secure
