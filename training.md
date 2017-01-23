@@ -18,7 +18,7 @@
 
 
 ### HTTP Request Headers
-
+- the Referer is the website where the req comes from
 - don't trust user-agent
 
 
