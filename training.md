@@ -84,6 +84,9 @@
 - do phishing campaign to your own company to detect any weaknesses and to educate.
 - [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 
+### Session Fixation
+- url re-writting
+
 ## React
 - no CSP support
 - bad escaping
