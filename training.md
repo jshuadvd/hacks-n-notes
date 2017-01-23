@@ -58,7 +58,7 @@
 - [SQL Map](http://sqlmap.org/)
 - anytime a sql statement is build by concat strings, it has risk
 - even valid data can cause injection eg `'--@manico.net`
-- you can't parametrize column name and tablename in some languages
+- you can't parametrize column name and tablename in some languages. you have to validate those names.
 
 ## React
 - no CSP support
