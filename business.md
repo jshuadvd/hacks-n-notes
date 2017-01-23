@@ -8,3 +8,6 @@ There is also good consumption and bad consumption. Consume more of what you can
 
 There is also an optimum. If you get too much of the good debt you might never be profitable. Also, if you spend too much time to consume the good stuff, then you won't have time to produce. In other words, make sure you produce more than what you consume.
 
+## Tools
+
+- [Process St](https://www.process.st/) - to document business processes and keep them accountable
