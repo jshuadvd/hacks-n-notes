@@ -75,7 +75,8 @@
 - The german banks have very effective security policies.
 - absolute timeout vs idle timeout
 - in login/pwd auth failure don't specify what failed 
-- send all usersnames over HTTPS
+- send all usernames over HTTPS
+- time attacks to see which usernames are good or bad
 
 ## React
 - no CSP support
