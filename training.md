@@ -74,6 +74,8 @@
 - [FIDO standard](https://fidoalliance.org) - the safest since it checks to the hardware. eg. Yubikey
 - The german banks have very effective security policies.
 - absolute timeout vs idle timeout
+- in login/pwd auth failure don't specify what failed 
+- send all usersnames over HTTPS
 
 ## React
 - no CSP support
