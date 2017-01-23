@@ -91,7 +91,7 @@
 - hashing is easy decifered with the proper equipment. hashkiller.co.uk , arteschnica.com 6billion passwords per second
 - encryption - superadmins can decrypt passwords.. so that's the weakness
 - salted hash - they will throw an assault of trillion times to the superadmin
-
+- [scrypt](https://en.wikipedia.org/wiki/Scrypt)
 
 ## React
 - no CSP support
