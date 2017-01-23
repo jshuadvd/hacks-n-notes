@@ -63,6 +63,8 @@
 ## Auth
 - every single webpage by default should be treated as auth-required page instead of only validating the pages that should be logged in.
 - do re-authentication to prevent session hijacking: cross-site scripting attacks, 
+- SMS for MFA is easy to get around
+- login/pwd is not enough
 
 ## React
 - no CSP support
