@@ -62,6 +62,7 @@
 
 ## Auth
 - every single webpage by default should be treated as auth-required page instead of only validating the pages that should be logged in.
+- session hijacking: cross-site scripting attacks, 
 
 ## React
 - no CSP support
