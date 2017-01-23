@@ -66,6 +66,7 @@
 - SMS for MFA is easy to get around
 - login/pwd is not enough
 - [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm) - easily phishable
+- 
 
 ## React
 - no CSP support
