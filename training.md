@@ -78,6 +78,8 @@
 - send all usernames over HTTPS
 - time attacks to see which usernames are good or bad
 - [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt) - to hash passwords
+- don't use usernames as public like twitter do. Use your login username and have another that's the display name
+
 
 ## React
 - no CSP support
