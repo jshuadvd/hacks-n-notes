@@ -13,6 +13,7 @@
 - Step-skipping-attack
 - IE6 is super insecure, secure softwaree can't be built for this browser
 - security salmon
+- [ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) - Application Security Verification Standard
 
 ## HTTP Security
 
