@@ -15,6 +15,10 @@
 - trust no HTTP request even if it is https
 - https://addons.mozilla.org/en-US/firefox/addon/tamper-data/
 - when you have only one party sign the hash of the cookie. (single key digital signature), [HMAC](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code). if you have multiple parties then sign with asymetric.
+
+
+### HTTP Request Headers
+
 - don't trust user-agent
 
 
