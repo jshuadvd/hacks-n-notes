@@ -14,6 +14,7 @@
 - IE6 is super insecure, secure softwaree can't be built for this browser
 - security salmon
 - [ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) - Application Security Verification Standard
+- [NIST](http://csrc.nist.gov/) National Institute of Standards and Technology
 
 ## HTTP Security
 
@@ -88,6 +89,7 @@
 - create new sesion ID at login to protect 
 
 ### Password storing
+
 #### Best practices
 - don't limit the chars or lenght of passwords
 
