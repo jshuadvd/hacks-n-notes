@@ -34,3 +34,4 @@
 ### HTTP Response Headers
 
 - don't leak the server information eg. `powered by Express v4`. Also don't post it on the job descriptions.
+- use honeytoken inputs and hidden params to detect hackers
