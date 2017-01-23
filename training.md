@@ -56,6 +56,7 @@
 - usually the first user in the user_table is the root user
 - timing attack
 - [SQL Map](http://sqlmap.org/)
+- anytime a sql statement is build by concat strings, it has risk
 
 ## React
 - no CSP support
