@@ -51,7 +51,7 @@
 - gmail example
 
 ## SQL injection
-
+- block any http request that looks like SQL injection
 
 ## React
 - no CSP support
