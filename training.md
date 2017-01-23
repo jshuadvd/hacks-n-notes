@@ -19,6 +19,7 @@
 
 
 ### HTTP Request Headers
+
 - the Referrer is the website where the req comes from. This can leak GET querystring. Even in https, it can be cached, bookemarked, etc
 - <form> uses method="GET" by default
 - never put sensitive data on the URI
@@ -26,5 +27,5 @@
 - detect and block certain browsers: validate and whitelist user agents and browsers versions.. notify if any case like that happens and notify the security team, specially in intranet. Prevent webscrapping, malware, and hacking. block webTV since doesn't support https
 - use html rel="noreferrer"
 - use redirect interstitial popup to clean referer and other data
-
+- count-block the failed login attempts to prevent bruteforce. Track per userName, not cookie or other thing.
 
