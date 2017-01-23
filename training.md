@@ -40,3 +40,6 @@
 
 - httpOnly
 - enable secure
+
+#### X-Frame-Options 
+- protects from clickjacking
