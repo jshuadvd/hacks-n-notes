@@ -29,3 +29,5 @@
 - use redirect interstitial popup to clean referer and other data
 - count-block the failed login attempts to prevent bruteforce. Track per userName, not cookie or other thing.
 
+### HTTP Response Headers
+
