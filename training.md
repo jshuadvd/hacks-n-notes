@@ -108,6 +108,8 @@
 ### OAuth
 
 - delegation framework
+- OAuth2.0 is token-based
+
 
 ## React
 - no CSP support
