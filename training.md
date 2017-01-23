@@ -24,6 +24,6 @@
 - never put sensitive data on the URI
 - don't trust user-agent
 - detect and block certain browsers: validate and whitelist user agents and browsers versions.. notify if any case like that happens and notify the security team, specially in intranet. Prevent webscrapping, malware, and hacking. block webTV since doesn't support https
-
+- use html rel="noreferrer"
 
 
