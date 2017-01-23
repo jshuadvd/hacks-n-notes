@@ -85,7 +85,7 @@
 - [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 
 ### Session Fixation
-- url re-writting
+- create new sesion ID at login to protect 
 
 ## React
 - no CSP support
