@@ -43,7 +43,7 @@
 - httpOnly
 - enable `secure` flag
 - make them expirable
-- activate `SameSite` to avoid cookie leaving the browser unless the page origin matches
+- activate `SameSite` to avoid cookie leaving the browser unless the page origin matches the target
 
 #### X-Frame-Options 
 - protects from clickjacking
