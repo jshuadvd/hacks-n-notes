@@ -109,6 +109,7 @@
 
 - delegation framework
 - OAuth2.0 is token-based
+- *valet key* - like valet parking key
 
 
 ## React
