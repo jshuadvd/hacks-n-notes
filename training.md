@@ -45,3 +45,7 @@
 
 #### X-Frame-Options 
 - protects from clickjacking
+
+
+## Clickjacking / UI Redress
+
