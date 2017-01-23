@@ -8,7 +8,7 @@
 - WAF (Web App Firewall)
 - don't hack without legal written permission.
 - being compliant doesn't equal being secure.
-- Step-skipping-attac
+- Step-skipping-attack
 
 ## HTTP Security
 
