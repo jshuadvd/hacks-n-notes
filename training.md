@@ -66,7 +66,7 @@
 ## Auth
 - every single webpage by default should be treated as auth-required page instead of only validating the pages that should be logged in.
 - do re-authentication eg in Amazon when the user is going to checkout the shopping cart
-- re-authentication to prevent session hijacking: cross-site scripting attacks, 
+- re-authentication to prevent session hijacking and CSRF: cross-site scripting attacks, 
 - re-auth before being able to reset password or email.. since email is used to change password
 - SMS for MFA is easy to get around
 - login/pwd is not enough
