@@ -52,7 +52,7 @@
 
 ## SQL injection
 - block any http request that looks like SQL injection
-- `or` attack. `1=1`
+- `or` attack. `'1'='1'`
 
 ## React
 - no CSP support
