@@ -87,6 +87,10 @@
 ### Session Fixation
 - create new sesion ID at login to protect 
 
+### Password storing
+- hashing is easy decifered with the proper equipment
+
+
 ## React
 - no CSP support
 - bad escaping
