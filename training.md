@@ -6,6 +6,7 @@
 
 - VPC is not enough to protect microservices.
 - WAF (Web App Firewall)
+- don't hack without legal written permission.
 
 ## HTTP Security
 
