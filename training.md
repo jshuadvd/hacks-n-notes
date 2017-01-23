@@ -49,3 +49,8 @@
 
 ## Clickjacking / UI Redress
 
+
+## React
+- no CSP support
+- bad escaping
+
