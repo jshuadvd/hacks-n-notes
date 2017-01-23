@@ -136,6 +136,8 @@
     * [Event Sourcing](event_sourcing.md)
 * [Quality Assurance](quality_assurance.md)
 * [Security](security.md)
+    * [AppSec Cal 2017](appsec-cal-2017.md)
+        * [Training](training.md)
 * [Shell \/ Unix](shell/shell__unix.md)
     * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
         * [Basics](shell/basics.md)
