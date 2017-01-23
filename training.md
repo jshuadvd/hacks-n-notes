@@ -88,7 +88,8 @@
 - create new sesion ID at login to protect 
 
 ### Password storing
-- hashing is easy decifered with the proper equipment
+- hashing is easy decifered with the proper equipment. hashkiller.co.uk , arteschnica.com 6billion passwords per second
+- encryption - superadmins can decrypt passwords.. so that's the weakness
 
 
 ## React
