@@ -60,6 +60,9 @@
 - even valid data can cause injection eg `'--@manico.net`
 - you can't parametrize column name and tablename in some languages. you have to validate those names.
 
+## Auth
+- every single webpage by default should be treated as auth-required page instead of only validating the pages that should be logged in.
+
 ## React
 - no CSP support
 - bad escaping
