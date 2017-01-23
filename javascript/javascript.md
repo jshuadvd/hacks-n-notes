@@ -4,6 +4,15 @@
 
 - [JS Foundation](https://js.foundation)
 
+## Basics
+
+- When you pass an argument into a function, you're passing the reference in memory. so if you pass an object or an array they will get changed directly. It won't do that with other typeofs like number or string.
+ 
+- Inside a function, if you are going to use a variable, you have to declare it with var, otherwise it would use a global variable with the same name, and that can insert bugs into the whole javascript code.
+  
+ 
+- All numbers in JavaScript are 64bit floating point numbers
+
 ### Load script on document ready
 ```js
 document.addEventListener("DOMContentLoaded", function(event) { 
