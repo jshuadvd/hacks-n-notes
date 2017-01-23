@@ -112,6 +112,7 @@
 - it's like a *valet key* - like valet parking key. Has it's limitations for safety reasons. so you don't need to giveout your user/pwd.
 - [not out of the box]federation: to give access from one party to another like with a single-sign-on (eg. GE to Salesforce). Federation gives full power, instead of just a subset of features.
 - like when an app requests permission to use your twitter account to read your tweets.
+- be very careful with tokens. and use them only for delegation.
 
 
 ## React
