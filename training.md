@@ -14,6 +14,7 @@
 
 - trust no HTTP request even if it is https
 - https://addons.mozilla.org/en-US/firefox/addon/tamper-data/
+- sign the hash of the cookie
 
 
 
