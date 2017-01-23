@@ -99,11 +99,13 @@
 - encryption - superadmins can decrypt passwords.. so that's the weakness
 - salted hash - they will throw an assault of trillion times to the superadmin
 
-#### Encrption
+#### Encryption
 - [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2)
 - [scrypt](https://en.wikipedia.org/wiki/Scrypt)
 - salt is meant to prevent dedupe attacks, not brute force attacks
 - a *work factor* how much work has to be applied to decrypt, that translates into time.
+
+### OAuth
 
 
 ## React
