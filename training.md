@@ -77,6 +77,7 @@
 - in login/pwd auth failure don't specify what failed 
 - send all usernames over HTTPS
 - time attacks to see which usernames are good or bad
+- [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
 
 ## React
 - no CSP support
