@@ -110,7 +110,7 @@
 - delegation framework
 - OAuth2.0 is token-based
 - it's like a *valet key* - like valet parking key. Has it's limitations for safety reasons. so you don't need to giveout your user/pwd.
-- federation: to give access from one party to another like with a single-sign-on (eg. GE to Salesforce)
+- [not out of the box]federation: to give access from one party to another like with a single-sign-on (eg. GE to Salesforce)
 
 
 ## React
