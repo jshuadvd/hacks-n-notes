@@ -113,7 +113,7 @@
 - [not out of the box]federation: to give access from one party to another like with a single-sign-on (eg. GE to Salesforce). Federation gives full power, instead of just a subset of features.
 - like when an app requests permission to use your twitter account to read your tweets.
 - be very careful with tokens. and use them only for delegation.
-- refresh_token pattern recommended only for social media
+- refresh_token pattern recommended only for social media. refresh_token is like  Kerberos ticket `https://en.wikipedia.org/wiki/Kerberos_(protocol)`
 
 ## React
 - no CSP support
