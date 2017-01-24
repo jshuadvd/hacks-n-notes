@@ -115,6 +115,7 @@
 - be very careful with tokens. and use them only for delegation.
 - refresh_token pattern recommended only for social media. refresh_token is like  Kerberos ticket `https://en.wikipedia.org/wiki/Kerberos_(protocol)`
 - tokens can be very dangerous
+- tokens are sent to and from the browser by GET params.
 
 - for singles sign on use OpenId
 - use mutual TLS from server to server
