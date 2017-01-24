@@ -114,6 +114,7 @@
 - like when an app requests permission to use your twitter account to read your tweets.
 - be very careful with tokens. and use them only for delegation.
 - refresh_token pattern recommended only for social media. refresh_token is like  Kerberos ticket `https://en.wikipedia.org/wiki/Kerberos_(protocol)`
+- tokens can be very dangerous
 
 ## React
 - no CSP support
