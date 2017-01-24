@@ -133,8 +133,9 @@
 ## Angular
 
 - Strict Contextual Escaping & HTML Sanitization - stops XSS
+- Content Security Policy 
 
 ## React
-- no CSP support
+- no Content Security Policy support
 - bad escaping
 
