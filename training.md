@@ -130,6 +130,10 @@
 
 - the implicit grant is super unsecure
 
+## Angular
+
+
+
 ## React
 - no CSP support
 - bad escaping
