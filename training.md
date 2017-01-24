@@ -124,7 +124,7 @@
 
 - https://tools.ietf.org/html/rfc6819
 - https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-08
-- https://en.wikipedia.org/wiki/Marilyn_vos_Savant#Publications
+
 
 #### Oauth2.0 Grant
 
