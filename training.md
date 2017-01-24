@@ -132,7 +132,7 @@
 
 ## Angular
 
-- Strict Contextual Escaping - stops XSS
+- Strict Contextual Escaping & HTML Sanitization - stops XSS
 
 ## React
 - no CSP support
