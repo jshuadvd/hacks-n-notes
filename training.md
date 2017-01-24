@@ -117,6 +117,7 @@
 - tokens can be very dangerous
 
 - for singles sign on use OpenId
+- use mutual TLS from server to server
 
 ## React
 - no CSP support
