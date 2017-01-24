@@ -122,6 +122,9 @@
 - tokens can be very dangerous, see [OAuth2 and road to hell](https://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/)
 - tokens are sent to and from the browser by GET params.
 
+- https://tools.ietf.org/html/rfc6819
+- https://tools.ietf.org/html/draft-ietf-oauth-v2-threatmodel-08
+- https://en.wikipedia.org/wiki/Marilyn_vos_Savant#Publications
 
 #### Oauth2.0 Grant
 
