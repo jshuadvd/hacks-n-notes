@@ -135,6 +135,9 @@
 - Strict Contextual Escaping & HTML Sanitization - stops XSS
 - Content Security Policy 
 
+### Double Cookie attack
+
+
 ## React
 - no Content Security Policy support
 - bad escaping
