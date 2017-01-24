@@ -83,7 +83,10 @@
 - don't use usernames as public like twitter do. Use your login username and have another that's the display name
 - if you lock out an account for brute-forcing, don't notify them on the website, but send them an email.
 - do phishing campaign to your own company to detect any weaknesses and to educate.
-- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+- for single-sign on use OpenId
+- use mutual TLS from server to server
+
+
 
 ### Session Fixation
 - create new sesion ID at login to protect 
@@ -104,6 +107,8 @@
 - [scrypt](https://en.wikipedia.org/wiki/Scrypt)
 - salt is meant to prevent dedupe attacks, not brute force attacks
 - a *work factor* how much work has to be applied to decrypt, that translates into time.
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+
 
 ### OAuth
 
@@ -117,8 +122,6 @@
 - tokens can be very dangerous
 - tokens are sent to and from the browser by GET params.
 
-- for singles sign on use OpenId
-- use mutual TLS from server to server
 
 #### Oauth2.0 Grant
 
