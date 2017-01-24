@@ -120,6 +120,10 @@
 - for singles sign on use OpenId
 - use mutual TLS from server to server
 
+#### Oauth2.0 Grant
+
+- the implicit grant is super unsecure
+
 ## React
 - no CSP support
 - bad escaping
