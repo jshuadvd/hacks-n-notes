@@ -119,7 +119,7 @@
 - like when an app requests permission to use your twitter account to read your tweets.
 - be very careful with tokens. and use them only for delegation.
 - refresh_token pattern recommended only for social media. refresh_token is like  Kerberos ticket `https://en.wikipedia.org/wiki/Kerberos_(protocol)`
-- tokens can be very dangerous
+- tokens can be very dangerous, see [OAuth2 and road to hell](https://hueniverse.com/2012/07/26/oauth-2-0-and-the-road-to-hell/)
 - tokens are sent to and from the browser by GET params.
 
 
