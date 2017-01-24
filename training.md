@@ -116,6 +116,8 @@
 - refresh_token pattern recommended only for social media. refresh_token is like  Kerberos ticket `https://en.wikipedia.org/wiki/Kerberos_(protocol)`
 - tokens can be very dangerous
 
+- for singles sign on use OpenId
+
 ## React
 - no CSP support
 - bad escaping
