@@ -16,6 +16,7 @@
 - [Duet](https://www.duetdisplay.com/) - turns ipad into display
 - Dropbox
 - Flux
+- Gifox - record animated gifs
 - Chrome
 - iTerm
 - Sketch
