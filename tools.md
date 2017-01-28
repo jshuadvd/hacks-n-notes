@@ -23,6 +23,7 @@
 - Skitch
 - Skype
 - [writefull](https://chrome.writefullapp.com/) - writer tool
+- WiFi Explorer
 
 ## Vim
 
