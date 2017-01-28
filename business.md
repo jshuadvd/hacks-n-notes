@@ -15,3 +15,4 @@ There is also an optimum. If you get too much of the good debt you might never b
 - [Hello Sign](https://www.hellosign.com/) - to sign documents on line
 - [Process St](https://www.process.st/) - to document business processes and keep them accountable
 - [eShares](https://esharesinc.com/) - electronic shares management
+- [meistertask](https://www.meistertask.com/) - project management
