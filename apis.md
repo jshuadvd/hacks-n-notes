@@ -1,7 +1,7 @@
 # APIs
 
 - [PPL API](http://pplapi.com/) - virtual database of the entire human population.
-
+- [Omnivore](http://omnivore.io/) - restaurant POS booster
 ## Big Data
 
 - [import.io](https://www.import.io/partners/developers/)
