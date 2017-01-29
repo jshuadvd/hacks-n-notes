@@ -24,6 +24,10 @@
 - [Visa](https://developer.visa.com/)
 - [Chain](https://chain.com/)
 
+## Machine Learning
+
+- [Indico](https://indico.io/)
+
 ## Space
 
 - [NASA](https://api.nasa.gov/)
