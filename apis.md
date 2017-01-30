@@ -1,5 +1,6 @@
 # APIs
 
+- [Algorithmia](https://algorithmia.com/) - algorithm marketplace
 - [Omnivore](http://omnivore.io/) - restaurant POS booster
 - [PPL API](http://pplapi.com/) - virtual database of the entire human population.
 - [SelectPDF](http://selectpdf.com/) - convert websites to PDF
