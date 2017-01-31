@@ -1,10 +1,15 @@
 # Graphics
 
+## Free stock photos
+
+* [Pexels](https://www.pexels.com/)
+* Unsplash
+
 ## Vector editors
 
-- [vectr](https://vectr.com) - Funded by Guillermo Rauch
-- Sketch
-- Adobe Illustrator
+* [vectr](https://vectr.com) - Funded by Guillermo Rauch
+* Sketch
+* Adobe Illustrator
 
 ## How to convert mov to gif
 
@@ -21,8 +26,11 @@ Notes on the arguments:
 
 ## Photo editing
 
-- [Filters like Van Gogh](https://primitive.lol/)
+* [Filters like Van Gogh](https://primitive.lol/)
 
 ## Art
 
-- [Commit.io](https://commits.io/) - Turn code to art
+* [Commit.io](https://commits.io/) - Turn code to art
+
+
+
