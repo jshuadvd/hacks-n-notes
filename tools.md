@@ -13,11 +13,13 @@
 - Atom
 - Brave - ad free browser
 - Caffeine - keeps computer awake
+- [CheatSheet](https://cheatsheetapp.com/LandingCheatSheet/)
+- Chrome
 - [Duet](https://www.duetdisplay.com/) - turns ipad into display
 - Dropbox
 - Flux
 - Gifox - record animated gifs
-- Chrome
+- [Hemmingway](http://www.hemingwayapp.com/desktop.html) writing tool
 - iTerm
 - Sketch
 - Skitch
