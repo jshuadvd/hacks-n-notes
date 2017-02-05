@@ -1,5 +1,7 @@
 # Business
 
+- [Collapsed](https://collapsed.co/) - startup failures
+
 ## Productivity
 
 There is good debt and bad debt. The good debt is the one that you can leverage to increase your income and assets. 
