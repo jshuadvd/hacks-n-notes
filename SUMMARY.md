@@ -85,7 +85,6 @@
 * [Internet Marketing](internet_marketing.md)
 * [i18n](i18n.md)
   * [Localization](development/localization.md)
-* Blockchain
 * [LowCode](lowcode.md)
 * [Math](math.md)
 * [Networks](networks.md)
