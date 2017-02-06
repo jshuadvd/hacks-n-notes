@@ -8,6 +8,7 @@
 
 ## Platforms
 
+* [BuildBox](https://www.buildbox.com/) - 2D game builder
 * [Bubble](https://bubble.is) - web app builder
 * [Configure.it](http://www.configure.it/) - mobile app builder
 * [Thunkable](http://thunkable.com/) - mobile app builder
