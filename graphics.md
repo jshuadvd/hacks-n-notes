@@ -7,6 +7,7 @@
 
 ## Vector editors
 
+* Figma - realtime vector editor
 * [vectr](https://vectr.com) - Funded by Guillermo Rauch
 * Sketch
 * Adobe Illustrator

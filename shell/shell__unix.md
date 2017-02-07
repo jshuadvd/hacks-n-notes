@@ -1,4 +1,4 @@
-# Shell / Unix
+# Shell & Unix
 
 Shell and Unix notes
 
