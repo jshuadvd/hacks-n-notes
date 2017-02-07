@@ -1,11 +1,11 @@
-## HTTP Security
+# HTTP Security
 
 - trust no HTTP request even if it is https
 - https://addons.mozilla.org/en-US/firefox/addon/tamper-data/
 - when you have only one party sign the hash of the cookie. (single key digital signature), [HMAC](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code). if you have multiple parties then sign with asymetric.
 - always use https
 
-### HTTP Request Headers
+## HTTP Request Headers
 
 - the Referrer is the website where the req comes from. This can leak GET querystring. Even in https, it can be cached, bookemarked, etc
 - <form> uses method="GET" by default
@@ -16,7 +16,7 @@
 - use redirect interstitial popup to clean referer and other data
 - count-block the failed login attempts to prevent bruteforce. Track per userName, not cookie or other thing.
 
-### HTTP Response Headers
+## HTTP Response Headers
 
 - don't leak the server information eg. `powered by Express v4`. Also don't post it on the job descriptions. or lie about the powered by to catch hackers. Hackers can figure out the server type through server-fingerprinting.
 - use honeytoken inputs and hidden params to detect hackers
