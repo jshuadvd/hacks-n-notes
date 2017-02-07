@@ -15,17 +15,6 @@
 - security salmon
 - [ASVS](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) - Application Security Verification Standard
 - [NIST](http://csrc.nist.gov/) National Institute of Standards and Technology
-#### Cookies
-
-- httpOnly
-- enable `secure` flag
-- make them expirable
-- activate `SameSite` to avoid cookie leaving the browser unless the current page origin matches the target
-- avoid persistent cookies
-
-#### X-Frame-Options 
-- protects from clickjacking
-
 
 ## Clickjacking / UI Redress
 - gmail example
@@ -65,12 +54,12 @@
 
 
 ### Session Fixation
-- create new sesion ID at login to protect 
+- create new session ID at login to protect 
 
 ### Password storing
 
 #### Best practices
-- don't limit the chars or lenght of passwords
+- don't limit the chars or length of passwords
 
 
 #### Avoid
