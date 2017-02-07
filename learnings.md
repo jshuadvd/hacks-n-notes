@@ -1,5 +1,13 @@
 # Learnings
 
+## 2017
+
+## January
+
+- AppSec
+- Bubble.is
+
+
 ## 2016
 
 ### November
