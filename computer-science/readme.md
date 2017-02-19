@@ -2,6 +2,12 @@
 
 > Computer Science notes
 
+
+## Courses
+
+- https://github.com/Developer-Y/cs-video-courses
+- https://github.com/open-source-society/computer-science
+
 ## Curators
 - [ThoughtWorks](https://www.thoughtworks.com/radar/languages-and-frameworks)
 
