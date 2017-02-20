@@ -4,3 +4,4 @@
 
 ## Clojure
 
+- [Brave Clojure](http://www.braveclojure.com/) - learning resource
