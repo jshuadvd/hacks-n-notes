@@ -20,3 +20,7 @@
 ## Separate bundle for common libraries
 
 - CommonsChunkPlugin 
+
+## Plugins
+
+- DedupPlugin - removes duplicates in npm modules.
