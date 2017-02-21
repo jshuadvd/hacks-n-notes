@@ -26,4 +26,4 @@
 - DedupPlugin - removes duplicates in npm modules.
 - LoaderOptionsPlugin - toggle minification and debugging, as well as other configs.
 - DefinePlugin - parses `process.env.NODE_ENV` to a string, like **envify**
-- UglifyJSPlugin - removes unused code and dev warnings
+- UglifyJSPlugin - removes unused code and dev warnings. It can also discard polyfils for ie8. All of this helps to shrink the bundle size
