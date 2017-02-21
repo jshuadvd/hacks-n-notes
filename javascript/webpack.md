@@ -26,3 +26,4 @@
 - DedupPlugin - removes duplicates in npm modules.
 - LoaderOptionsPlugin - toggle minification and debugging, as well as other configs.
 - DefinePlugin - parses `process.env.NODE_ENV` to a string, like **envify**
+- UglifyJSPlugin - removes unused code and dev warnings
