@@ -24,3 +24,4 @@
 ## Plugins
 
 - DedupPlugin - removes duplicates in npm modules.
+- LoaderOptionsPlugin - toggle minification and debugging, as well as other configs.
