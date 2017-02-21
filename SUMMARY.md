@@ -125,6 +125,7 @@
   * [npm](javascript/npm.md)
   * [ReactJS](javascript/reactjs.md)
   * [RegEx](javascript/regex.md)
+  * [Webpack](javascript/webpack.md)
 * [LowCode](lowcode.md)
 * [Math](math.md)
 * [Networks](networks.md)
