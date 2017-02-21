@@ -16,3 +16,7 @@
 
 - To optimize the browser's cache we can fingerprint the filenames with `chunkhash`
 - [npm html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) To point the html to the correct hashed bundle js 
+
+## Separate bundle for common libraries
+
+- CommonsChunkPlugin 
