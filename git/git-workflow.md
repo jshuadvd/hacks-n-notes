@@ -5,7 +5,7 @@
 - On its own, `git diff` compares the working directory to the staged version of the file.
 - `git diff --staged` compares the staged version to the most recent commited version.
 - `git diff HEAD` combines the changes in your working and staged versions of the file, and compares them to the version of the file designated as HEAD (most often, the most recent commit).
-- `git diff --color-words` displays a word-by-word comparision rather than a line-by-line comparison, helpful for small changes.
+- `git diff --color-words` displays a word-by-word comparison rather than a line-by-line comparison, helpful for small changes.
 
 ## Log
 
@@ -37,7 +37,7 @@ The three modes for git reset are: `--soft`, `--mixed`, and `--hard`.
 - `git reset --soft <to_commit>` resets git to a specific commit, and puts the commits you're resetting into the staging area where they can be easily re-committed.
 - `git reset --mixed <to_commit>` resets git to a specific commit, and puts the commits you're resetting into the working directory so you can edit them directly.
 - `git reset --hard <to_commit>` resets git to a specific commit, and deletes the commits you're resetting.
-- Just like with git revert you can use the commit ID, or you can use the syntax `HEAD~<mumber>`. The number you put will be the number of commits backwards from the current HEAD that git will move the new HEAD to.
+- Just like with git revert you can use the commit ID, or you can use the syntax `HEAD~<number>`. The number you put will be the number of commits backwards from the current HEAD that git will move the new HEAD to.
  
 ##### TIP
 
