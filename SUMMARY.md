@@ -126,6 +126,7 @@
   * [ReactJS](javascript/reactjs.md)
   * [RegEx](javascript/regex.md)
   * [Webpack](javascript/webpack.md)
+  * [IoT](javascript/iot.md)
 * [LowCode](lowcode.md)
 * [Math](math.md)
 * [Networks](networks.md)
