@@ -20,6 +20,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
 });
 ```
 
+## Presentation tools
+
+- [Spectacle code slide](https://github.com/thejameskyle/spectacle-code-slide) by theJamesKyle
+
 ## Managing currency
 
 - store currency in cents to avoid floating point problems
