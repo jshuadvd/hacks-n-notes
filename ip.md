@@ -25,3 +25,7 @@
 
 - 128 bits per address composed of 8 parts
 - provides 340 undecillion unique addresses
+
+## Tools
+
+- [ifconfig website](https://ifconfig.co/) - you can also `curl https://ifconfig.co/` and will return your public ip address
