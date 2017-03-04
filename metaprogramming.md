@@ -4,6 +4,11 @@
 
 eg. compilers, transpilers
 
+## Codemods
+
+- 
+[js codemod](https://github.com/cpojer/js-codemod)
+
 ## Parts of a meta program
 
 - Parser
