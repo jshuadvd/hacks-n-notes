@@ -16,7 +16,9 @@ https://github.com/abhishekbanthia/Public-APIs/blob/master/README.md
 
 - [ScaleAPI](https://www.scaleapi.com/) - like Amazon Turks but 100x better
 
+## Data
 
+- [CodeandoMexico](https://github.com/CodeandoMexico/odd17)
 
 ## FinTech
 
