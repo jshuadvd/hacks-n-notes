@@ -18,6 +18,7 @@ eslint | linter
 express | web server
 fast-cli | Netflix speedtest
 fast-csv | parse CVS
+[flatorize](https://github.com/glathoud/flatorize) | Linear algebra library that supports intensive computations in JS
 [flow](www.flowtype.org) | Type Checking
 google-libphonenumber | phoneNumber library
 html-pdf | convert html to pdf
