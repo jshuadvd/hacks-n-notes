@@ -33,6 +33,7 @@ pusher-js | websockets - complimentary
 reactify | browserify plugin for React
 [redux-form](http://redux-form.com/) | redux form
 request | HTTP requests
+[rough](https://github.com/pshihn/rough) | Build handdrawn-like shapes
 serve-favicon | to serve dynamic favicons
 [strapdown](http://strapdownjs.com/) | markdown renderer
 superagent | HTTP requests
