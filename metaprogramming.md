@@ -6,8 +6,7 @@ eg. compilers, transpilers
 
 ## Codemods
 
-- 
-[js codemod](https://github.com/cpojer/js-codemod)
+- [js codemod](https://github.com/cpojer/js-codemod) - collection of codemods
 
 ## Parts of a meta program
 
