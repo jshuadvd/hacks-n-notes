@@ -1,5 +1,9 @@
 # Internet Marketing
 
+## Analytics
+
+- [Segmentio](https://segment.com/) - triage user events with tons of integrations like mixpanel, google analytics, zendesk, salesforce, etc.
+
 ## Youtube
 
 ### Consistent branding
