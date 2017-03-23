@@ -15,7 +15,10 @@
 * [Thunkable](http://thunkable.com/) - mobile app builder
 * [Webflow](http://webflow.com) - website builder
 
+## Tasks
 
+* [Workflow](http://workflow.is/) bought by Apple
+* IFTTT
 
 ## Tutorials
 
