@@ -165,3 +165,7 @@
  ## meetups
  - OWASP-OC http://www.meetup.com/OWASP-OC/  ACMOC20OFF
  
+### Encryption cracker
+
+- https://hashcat.net/hashcat/
+ 
