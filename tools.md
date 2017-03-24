@@ -3,7 +3,7 @@
 ## Chrome Extensions
 
 - [Auto Text Expander](https://github.com/carlinyuen/ChromeAutoTextExpander)
-
+- OneTab
 
 ## MacOS
 
@@ -11,8 +11,10 @@
 
 - 1Password
 - Atom
+- [Blisk](https://blisk.io)
 - Brave - ad free browser
 - Caffeine - keeps computer awake
+- [Charles Proxy](https://www.charlesproxy.com)
 - [CheatSheet](https://cheatsheetapp.com/LandingCheatSheet/)
 - Chrome
 - [Duet](https://www.duetdisplay.com/) - turns ipad into display
@@ -26,6 +28,10 @@
 - Skype
 - [writefull](https://chrome.writefullapp.com/) - writer tool
 - WiFi Explorer
+
+## Websites
+
+- https://ifconfig.co/
 
 ## Vim
 
