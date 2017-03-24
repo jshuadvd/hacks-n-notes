@@ -60,3 +60,25 @@ test with https://dnsleaktest.com/
 
 
 https://justinmayer.com/
+
+## Chris Roberts
+
+@sidragon1 
+
+http://www.acalvio.com
+
+- don't do BYOD 
+- pen testing is often only running tools: Penwave or Trackwave 
+- pentest before releasing
+- assume that the bad guys are in your network 
+- resumes, whitepapers, etc can be payload payloaded 
+- humans will always make a mistake 
+- nanotechnology hacked 
+- IoT hacked 
+- nano machines 
+- http://www.cellocad.org
+- user behavior analytics 
+- add AI in security tools 
+- https://packetstormsecurity.com
+- deception as defense 
+
