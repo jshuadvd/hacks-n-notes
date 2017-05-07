@@ -22,3 +22,6 @@ https://openbazaar.org/
 
 VPN - private browsing
 https://www.privateinternetaccess.com/
+
+https://bitpay.com/
+https://bitcoin.org/en/
