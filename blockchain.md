@@ -31,3 +31,4 @@ https://en.bitcoin.it/wiki/Main_Page
 https://www.cryptocoincharts.info/
 https://bitcoinfoundation.org/
 https://tradeblock.com/home
+http://usebitcoins.info/
