@@ -11,6 +11,7 @@
 
 
 https://blockstack.org/ - Descentralized internet
+https://www.privateinternetaccess.com/ - VPN - private browsing
 
 
 WALLETS
@@ -23,9 +24,7 @@ https://purse.io/
 https://openbazaar.org/
 
 
-VPN - private browsing
-https://www.privateinternetaccess.com/
-
+## Bitcoin resources
 https://bitpay.com/
 https://bitcoin.org/en/
 https://blockchain.info
