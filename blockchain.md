@@ -10,6 +10,9 @@
 - [Lightning Network](https://lightning.network/)
 
 
+https://blockstack.org/ - Descentralized internet
+
+
 WALLETS
 https://coinbase.com/  - to buy bitcoins with USD
 https://www.bitgo.com - trusted by Brave Browser
