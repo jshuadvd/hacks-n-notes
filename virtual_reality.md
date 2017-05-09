@@ -5,7 +5,6 @@ https://www.tiltbrush.com/
 ## Guidelines
 - [VR Human Interface Guidelines](http://vrhig.com/)
 
-
 ## Gear
 
 - [Oculus React VR](https://developer.oculus.com/webvr/)
