@@ -22,6 +22,7 @@ fast-csv | parse CVS
 [flow](www.flowtype.org) | Type Checking
 google-libphonenumber | phoneNumber library
 html-pdf | convert html to pdf
+[inquirer](https://github.com/sboudrias/Inquirer.js) | CLI GUI tools
 [mathJS](http://mathjs.org/) | evaluate mathematical expressions
 moment | date library
 node-inspector | debug nodeJS apps on Chrome
