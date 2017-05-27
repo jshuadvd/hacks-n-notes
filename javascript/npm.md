@@ -27,6 +27,7 @@ html-pdf | convert html to pdf
 moment | date library
 node-inspector | debug nodeJS apps on Chrome
 node-uuid | generate UUID
+[npm-license](https://github.com/AceMetrix/npm-license) | generates a flat list of npm modules and their licenses
 numeral | number formatting
 node-sass | pre-process SASS to CSS
 [oy](https://github.com/revivek/oy) | E-mail templates with React
