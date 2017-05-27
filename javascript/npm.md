@@ -30,6 +30,7 @@ node-uuid | generate UUID
 numeral | number formatting
 node-sass | pre-process SASS to CSS
 [oy](https://github.com/revivek/oy) | E-mail templates with React
+[progress](https://github.com/visionmedia/node-progress) | Progress bar for CLI
 pusher | websockets
 pusher-js | websockets - complimentary
 reactify | browserify plugin for React
