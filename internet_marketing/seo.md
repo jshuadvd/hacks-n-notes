@@ -8,4 +8,4 @@
 - meta tags: description, title
 - og tags
 - [Schema markup](http://schema.org)
-- `<img>`: title, description, alt
+- `<img>`: title, description, alt text
