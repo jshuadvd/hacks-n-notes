@@ -84,6 +84,7 @@
 * [HTML](html.md)
   * [Head](head.md)
 * [Internet Marketing](internet_marketing.md)
+  * [SEO](internet_marketing/seo.md)
 * [i18n](i18n.md)
   * [Localization](development/localization.md)
 * [Javascript](javascript/javascript.md)
