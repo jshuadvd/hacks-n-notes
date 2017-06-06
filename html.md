@@ -1,5 +1,6 @@
 # HTML
 
+- [Web code generator](https://webcode.tools)
 
 ## Basic HTML Template
 
