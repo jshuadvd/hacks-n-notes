@@ -1,7 +1,12 @@
 # SEO
 
 
+## Evaluation tools
 
+- [Page Speed by Google](https://developers.google.com/speed/pagespeed/insights/)
+- [RankGen](http://rankgen.com/)
+
+## html
  
 - page title
 - h1, h2, h3
