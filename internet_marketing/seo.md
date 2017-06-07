@@ -7,5 +7,19 @@
 - h1, h2, h3
 - meta tags: description, title
 - og tags
-- [Schema markup](http://schema.org)
 - `<img>`: title, description, alt text
+
+## Schema.org
+
+> To hint search engines about the website content.
+
+- [Schema markup](http://schema.org)
+
+
+### MicroData
+
+> HTML attributes determined by Schema.org
+
+- `itemscope` 
+- `itemtype="https://schema.org/Person"` sets which type of schema
+- `itemprop="name"` property. in this example means person name
