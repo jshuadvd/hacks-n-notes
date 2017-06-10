@@ -6,7 +6,7 @@
 
 ## SVG icons 
 
-[](codepen://cuadraman/LGoXwz)
+[SVG icons - cuadraman codepen](https://cuadraman/LGoXwz)
 
 ## ReactJS Native
 
