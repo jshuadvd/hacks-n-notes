@@ -2,6 +2,10 @@
 
 Git notes.
 
+## Git hooks
+
+- [jira git hooks](https://github.com/uptech/git-tools)
+
 ## Mac OS Sierra id_rsa passphrase git issue
 
 https://superuser.com/questions/1127067/macos-keeps-asking-my-ssh-passphrase-since-i-updated-to-sierra
