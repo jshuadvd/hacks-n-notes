@@ -1,5 +1,7 @@
 # Tools
 
+- [thesaurus](http://www.onelook.com/thesaurus/)
+
 ## Chrome Extensions
 
 - [Auto Text Expander](https://github.com/carlinyuen/ChromeAutoTextExpander)
