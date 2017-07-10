@@ -4,6 +4,12 @@
 
 - [Segmentio](https://segment.com/) - triage user events with tons of integrations like mixpanel, google analytics, zendesk, salesforce, etc.
 
+
+## Automation 
+
+- [Drip](https://www.drip.co/) - campaign automation
+
+
 ## Youtube
 
 ### Consistent branding
