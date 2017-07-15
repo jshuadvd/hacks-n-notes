@@ -24,5 +24,8 @@ Like in Bitcoin, users must pay small transaction fees to the network. This prot
 
 he sender of a transaction must pay for each step of the “program” they activated, including computation and memory storage. These fees are paid in amounts of Ethereum’s native value-token, **ether**.
 
+## Mining
+
+Bitcoin mining model encourages specialized equipment to solve the blockchain. Ethereum changed the model so the general computer is the ideal machine to solve ethereums blocks. That way it guarantees the evenly distributed descentralization, instead of having a few mega miners.
 
 
