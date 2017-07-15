@@ -6,6 +6,7 @@
   * [Learnings](learnings.md)
 * [APIs](apis.md)
 * [Blockchain](blockchain.md)
+  * [Ethereum](blockchain/ethereum.md)
 * [Google Suite](google-suite.md)
 * [Browser](browser.md)
   * [Debugging](debugging.md)
