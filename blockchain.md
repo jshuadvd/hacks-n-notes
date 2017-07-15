@@ -2,6 +2,7 @@
 
 - [Blockchain demo](https://collapsed.co/)
 
+- [ASIC computers](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) to mine bitcoins
 
 ## Bitcoin utils
 
