@@ -6,3 +6,10 @@
 
 - [Vega fund](http://www.vega.fund/)
 - [Nanome & Matryx](http://nanome.ai/)
+
+## Types of accounts
+
+There are two types of accounts:
+
+- **Externally Owned Accounts (EOAs)**, which are controlled by private keys by humans
+- **Contract Accounts**, which are controlled by their contract code and can only be “activated” by an EOA
