@@ -13,3 +13,8 @@ There are two types of accounts:
 
 - **Externally Owned Accounts (EOAs)**, which are controlled by private keys by humans
 - **Contract Accounts**, which are controlled by their contract code and can only be “activated” by an EOA
+
+## Smart contracts
+
+- “smart contracts” refers to code in a Contract Account – programs that execute when a transaction is sent to that account. Users can create new contracts by deploying code to the blockchain.
+
