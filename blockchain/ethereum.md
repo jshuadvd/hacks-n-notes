@@ -17,8 +17,17 @@
 
 There are two types of accounts which share the same address space:
 
-- **Externally Owned Accounts (EOAs)**, which are controlled by private keys by humans
-- **Contract Accounts**, which are controlled by their contract code and can only be “activated” by an EOA
+### Externally Owned Accounts (EOAs)
+
+- are controlled by private keys by humans
+- The address of an external account is determined from the public key 
+
+### Contract Accounts
+
+ - which are controlled by their contract code and can only be “activated” by an EOA
+- the address of a contract is determined when it is created
+- the address is derived from the creator address and the number of transactions sent from that address (the so-called “nonce”).
+
 
 
 ## Smart contracts
