@@ -38,7 +38,10 @@
 
 ## Transactions
 
-Like in Bitcoin, users must pay small transaction fees to the network. This protects the Ethereum blockchain from frivolous or malicious computational tasks, like DDoS attacks or infinite loops. The sender of a transaction must pay for each step of the “program” they activated, including computation and memory storage. These fees are paid in amounts of Ethereum’s native value-token, **ether**.
+> Like in Bitcoin, users must pay small transaction fees to the network. This protects the Ethereum blockchain from frivolous or malicious computational tasks, like DDoS attacks or infinite loops. The sender of a transaction must pay for each step of the “program” they activated, including computation and memory storage. These fees are paid in amounts of Ethereum’s native value-token, **ether**.
+
+- transactions are messages sent from account to account
+- the messages can contain binary data (payload) and ether
 
 ## Mining
 
