@@ -53,3 +53,6 @@
 Bitcoin mining model encourages specialized equipment to solve the blockchain. Ethereum changed the model to a memory-hard computational problem so the general computer is the ideal machine to solve ethereums blocks. That way it guarantees the evenly distributed descentralization, instead of having a few mega miners.
 
 
+## Securite dApps
+
+- [Smart Contracts Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
