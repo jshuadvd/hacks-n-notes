@@ -43,6 +43,11 @@
 - transactions are messages sent from account to account
 - the messages can contain binary data (payload) and ether
 
+## Gas
+
+- Gas is the cost of processing each transaction in a contract
+- the sending account has to pay the gas
+
 ## Mining
 
 Bitcoin mining model encourages specialized equipment to solve the blockchain. Ethereum changed the model to a memory-hard computational problem so the general computer is the ideal machine to solve ethereums blocks. That way it guarantees the evenly distributed descentralization, instead of having a few mega miners.
