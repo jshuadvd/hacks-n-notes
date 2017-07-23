@@ -15,7 +15,9 @@
 
 ## Types of accounts
 
-There are two types of accounts which share the same address space:
+- There are two types of accounts which share the same address space.
+- Every account has a persistent key-value store mapping 256-bit words to 256-bit words called storage.
+- every account has a balance in Ether (in “Wei” to be exact) 
 
 ### Externally Owned Accounts (EOAs)
 
