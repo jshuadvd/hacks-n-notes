@@ -8,7 +8,7 @@ Some concepts that power blockchains are:
 - [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic_curve_cryptography) 
 - [peer-to-peer networks](https://en.wikipedia.org/wiki/Peer-to-peer)
 
-
+## Decentralized Open Meta-Apps [DOMAs]
 
 https://blockstack.org/ - Descentralized internet
 https://www.privateinternetaccess.com/ - VPN - private browsing
