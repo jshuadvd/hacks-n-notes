@@ -13,6 +13,35 @@ Some concepts that power blockchains are:
 https://blockstack.org/ - Descentralized internet
 https://www.privateinternetaccess.com/ - VPN - private browsing
 
+### DOMAs topics
+
+- Identity & Reputation
+- Asset Tracking & Logistics
+- Provenance
+- Supply Chain
+- The Internet of Things
+- Safety
+- Energy Management
+- Transportation & Haulage
+- Mining & Manufacturing
+- Exchanges
+- Marketplaces
+- Cross-Border Payments
+- Peer-To-Peer
+- Lending
+- Micro-Finance
+- Insurance
+- Trade & Invoice Finance
+- Stable Digital Currencies
+- Intellectual & Physical Property Rights
+- Leasing & Rental Services
+- Health Services
+- Customer Acquisition & Loyalty
+- Voting & Governance
+- Auditing & Compliance
+- Regulatory Reporting
+- Escrow & Custody Services
+- Arbitration & Legal Services
 
 ### Exchanges
 
