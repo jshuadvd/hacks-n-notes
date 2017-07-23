@@ -1,3 +1,14 @@
+# Blockchain
+
+
+Some concepts that power blockchains are:
+
+- mining
+- [hashing](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+- [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic_curve_cryptography) 
+- [peer-to-peer networks](https://en.wikipedia.org/wiki/Peer-to-peer)
+
+
 ## Tutorials
 
 - [Blockchain demo](https://collapsed.co/)
