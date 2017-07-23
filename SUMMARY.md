@@ -8,6 +8,7 @@
 * [Blockchain](blockchain.md)
   * [Ethereum](blockchain/ethereum.md)
     * [Solidity Language](blockchain/ethereum/solidity-language.md)
+  * [Bitcoin](blockchain/bitcoin.md)
 * [Google Suite](google-suite.md)
 * [Browser](browser.md)
   * [Debugging](debugging.md)

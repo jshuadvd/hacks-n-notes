@@ -9,34 +9,25 @@ Some concepts that power blockchains are:
 - [peer-to-peer networks](https://en.wikipedia.org/wiki/Peer-to-peer)
 
 
-## Tutorials
-
-- [Blockchain demo](https://collapsed.co/)
-
-- [ASIC computers](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) to mine bitcoins
-
-## Bitcoin utils
-
-- [21 - Micropayments](https://21.co)
-- [Coinbase](https://www.coinbase.com/)
-- [Lightning Network](https://lightning.network/)
-
 
 https://blockstack.org/ - Descentralized internet
 https://www.privateinternetaccess.com/ - VPN - private browsing
 
 
-WALLETS
+### Exchanges
+
 https://coinbase.com/  - to buy bitcoins with USD
 https://www.bitgo.com - trusted by Brave Browser
 https://bitso.com - to buy bitcoins with MXN
 
-MARKETPLACES
+### MARKETPLACES
+
 https://purse.io/
 https://openbazaar.org/
 
 
 ## Bitcoin resources
+
 https://bitpay.com/
 https://bitcoin.org/en/
 https://blockchain.info
