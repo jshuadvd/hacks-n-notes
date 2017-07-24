@@ -12,6 +12,11 @@
 - [Vega fund](http://www.vega.fund/)
 - [Nanome & Matryx](http://nanome.ai/)
 
+## Tools
+
+- [Meta Mask](https://metamask.io/) Chrome Extension
+
+
 ## Concepts
 
 ### Types of accounts
