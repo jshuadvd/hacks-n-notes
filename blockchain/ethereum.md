@@ -10,7 +10,8 @@
 
 
 - [Vega fund](http://www.vega.fund/)
-- [Nanome & Matryx](http://nanome.ai/)
+- [Nanome & Matryx](http://nanome.ai/) 3D assets
+- [Ethlance](https://ethlance.com/) freelance network
 
 ## Tools
 
@@ -29,6 +30,7 @@
 
 - are controlled by private keys by humans
 - The address of an external account is determined from the public key 
+
 
 #### Contract Accounts
 
@@ -67,3 +69,9 @@ Bitcoin mining model encourages specialized equipment to solve the blockchain. E
 
 - [web3js](https://github.com/ethereum/web3.js/) to query the storage
 - [Truffle Boxes](http://truffleframework.com/boxes/) boilerplate catalog 
+
+
+## Learning resources
+
+- [01-noob](http://consensys.github.io/developers/articles/101-noob-intro/)
+- https://www.reddit.com/r/ethdev/comments/5s9avy/the_big_ethereum_development_resources_list/
