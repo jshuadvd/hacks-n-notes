@@ -22,6 +22,7 @@
 - [Meta Mask](https://metamask.io/) Chrome Extension
 - https://www.myetherwallet.com
 
+
 ## Concepts
 
 ### Types of accounts
@@ -73,7 +74,7 @@ Bitcoin mining model encourages specialized equipment to solve the blockchain. E
 
 - [web3js](https://github.com/ethereum/web3.js/) to query the storage
 - [Truffle Boxes](http://truffleframework.com/boxes/) boilerplate catalog 
-
+- [Eth alarm clock](http://www.ethereum-alarm-clock.com/)
 
 ## Learning resources
 
