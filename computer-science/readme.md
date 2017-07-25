@@ -2,6 +2,11 @@
 
 > Computer Science notes
 
+## Open Source
+
+- https://opensource.guide/
+- https://github.com/nayafia/lemonade-stand
+
 
 ## Courses
 
