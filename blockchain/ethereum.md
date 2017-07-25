@@ -12,7 +12,7 @@
 - [Vega fund](http://www.vega.fund/)
 - [Nanome & Matryx](http://nanome.ai/) 3D assets
 - [Ethlance](https://ethlance.com/) freelance network
-- [swarm hash](http://swarm-gateways.net/bzz:/theswarm.eth/) ENS like DNS 
+- [swarm hash](http://swarm-gateways.net/bzz:/theswarm.eth/) & [Swarm hash wiki](https://github.com/ethereum/wiki/wiki/Swarm-Hash) ENS like DNS 
 - [ENS domains](https://ens.domains/)
 
 ## Tools
