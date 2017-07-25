@@ -14,6 +14,7 @@
 - [Ethlance](https://ethlance.com/) freelance network
 - [swarm hash](http://swarm-gateways.net/bzz:/theswarm.eth/) & [Swarm hash wiki](https://github.com/ethereum/wiki/wiki/Swarm-Hash) ENS like DNS 
 - [ENS domains](https://ens.domains/)
+- [IPFS](https://ipfs.io/) peer to peer IP
 
 ## Tools
 
