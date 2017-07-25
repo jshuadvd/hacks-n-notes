@@ -13,6 +13,7 @@
 - [Nanome & Matryx](http://nanome.ai/) 3D assets
 - [Ethlance](https://ethlance.com/) freelance network
 - [swarm hash](http://swarm-gateways.net/bzz:/theswarm.eth/) ENS like DNS 
+- [ENS domains](https://ens.domains/)
 
 ## Tools
 
