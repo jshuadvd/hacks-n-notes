@@ -16,6 +16,7 @@
 - [ENS domains](https://ens.domains/)
 - [IPFS](https://ipfs.io/) peer to peer IP
 - [git mango](https://github.com/axic/mango) decentralized git
+- [Dharma Loans](https://dharma.io)
 
 ## Tools
 
