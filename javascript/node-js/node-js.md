@@ -48,4 +48,7 @@ app.use(compress());
 - HTTP queryStrings must be URL encoded (eg. using `encodeURIComponent`
 - URL hash (fragment) # is only in the browser (eg. `id='chapter-03')
 
+## Tools
 
+- [ink](https://github.com/vadimdemedes/ink) CLI tools with React
+- [zeit pkg](https://github.com/zeit/pkg) - binary nodejs apps
