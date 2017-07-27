@@ -133,6 +133,7 @@
   * [RegEx](javascript/regex.md)
   * [Webpack](javascript/webpack.md)
   * [IoT](javascript/iot.md)
+  * [Atom](javascript/atom.md)
 * [Lisp](lisp.md)
 * [LowCode](lowcode.md)
 * [Math](math.md)
@@ -166,3 +167,4 @@
 * [User Experience](user-experience.md)
   * [Addictive Expericences](addictive-expericences.md)
 * [Wearables](wearables.md)
+
