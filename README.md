@@ -12,4 +12,4 @@ Mission oriented and life-long learner. Passionate about agile web software deve
 ## Inspiration
 
 - The GitHub repository notes format inspired by [Alex Cory - fasthacks](https://github.com/alex-cory/fasthacks)
-- The GitBook format inspired by [Redux docs](http://redux.js.org/index.html)
+- The GitBook format inspired by [Redux docs](http://redux.js.org/index.html)    

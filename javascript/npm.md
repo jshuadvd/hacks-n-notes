@@ -11,6 +11,8 @@ babel | transpiler from ESNext
 body-parser | ExpressJS plugin to read req.body
 browserify | bundle
 bunyan | logging
+[common-tags
+](https://github.com/declandewet/common-tags) | string templates tags
 compression | gzip compression on runtime
 date-fns | like momentJS but modern
 envify | plugin to pass the env vars into a js bundle
