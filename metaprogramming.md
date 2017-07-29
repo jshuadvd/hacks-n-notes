@@ -4,6 +4,13 @@
 
 eg. compilers, transpilers
 
+## Explorer
+
+- [AST Explorer](https://astexplorer.net/)
+- [AST Visualizer from JointJS](http://resources.jointjs.com/demos/javascript-ast)
+
+
+
 ## Codemods
 
 - [js codemod](https://github.com/cpojer/js-codemod) - collection of codemods
@@ -34,12 +41,7 @@ eg. compilers, transpilers
 > To reprint code like if a human wrote it.
 > It doesn't touches code that wasn't changed.
 
-#### Acorn
 
-#### Explorer
-
-- [AST Explorer](https://astexplorer.net/)
-- [AST Visualizer from JointJS](http://resources.jointjs.com/demos/javascript-ast)
 
 ### Use cases
 
