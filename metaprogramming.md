@@ -39,6 +39,7 @@ eg. compilers, transpilers
 #### Explorer
 
 - [AST Explorer](https://astexplorer.net/)
+- [AST Visualizer from JointJS](http://resources.jointjs.com/demos/javascript-ast)
 
 ### Use cases
 
