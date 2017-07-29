@@ -4,6 +4,7 @@
 
 - [ASTs Workshop](https://github.com/kentcdodds/asts-workshop)
 - [Frontend Masters - AST](https://frontendmasters.com/courses/linting-asts/introducing-codemods-and-ast)
+- [Babel handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
 
 ## Recommended tools
 
