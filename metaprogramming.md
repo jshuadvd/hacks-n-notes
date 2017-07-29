@@ -13,12 +13,7 @@ eg. compilers, transpilers
 
 ## Query
 
-- #### Explorer
-
-- [AST Explorer](https://astexplorer.net/)
-- [AST Visualizer from JointJS](http://resources.jointjs.com/demos/javascript-ast)
-
-
+- [ESQuery](https://github.com/estools/esquery) like css selectors for AST
 
 ## Codemods
 
