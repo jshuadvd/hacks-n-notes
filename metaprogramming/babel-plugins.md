@@ -7,5 +7,7 @@
 
 ## Recommended tools
 
+> Using the babel tools is easier than jscodeshift
+
 - AST Explorer
 - babylon (parsing) and babel-core (transpiling)
