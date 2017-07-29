@@ -138,6 +138,7 @@
 * [LowCode](lowcode.md)
 * [Math](math.md)
 * [Metaprogramming](metaprogramming.md)
+  * [Babel Plugins](metaprogramming/babel-plugins.md)
 * [Networks](networks.md)
   * [Internet Protocols](internet_protocols.md)
     * [AMQP](amqp.md)
