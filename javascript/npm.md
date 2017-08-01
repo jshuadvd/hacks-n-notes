@@ -8,6 +8,7 @@ npm package | description
 ----------- | -----------
 accounting | accounting
 babel | transpiler from ESNext
+[babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) | resolves imports
 body-parser | ExpressJS plugin to read req.body
 browserify | bundle
 bunyan | logging
