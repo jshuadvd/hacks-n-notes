@@ -4,3 +4,4 @@
 - UDAAP (Unfair, Deceptive and Abusive Acts and Practices)
 - Federal Trade Commission Act (FTC Act)
 - FDIC (Federal Deposit Insurance Corporation)
+- CFPB (Consumer Financial Protection Bureau)
