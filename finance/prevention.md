@@ -5,3 +5,4 @@
 - Federal Trade Commission Act (FTC Act)
 - FDIC (Federal Deposit Insurance Corporation)
 - CFPB (Consumer Financial Protection Bureau)
+- Dodd-Frank Consumer Protection Act (DFA) 
