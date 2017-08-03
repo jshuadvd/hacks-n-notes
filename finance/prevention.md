@@ -19,4 +19,7 @@ Waiver of exemption |  A  consumer waives the benefit of any laws that protect t
 - Security interests in household goods | Creates a security interest in household goods if the debt is not incurred to purchase the goods.
 - Pyramiding late charges | Prohibits a delinquency charge on a full payment made in a timely manner if attributable to charge assessed on earlier installment.
 
+### Fair Debt Collection Practices Act
+
+ > prohibits unfair, deceptive, and abusive practices related to the collection of consumer debts.
 
