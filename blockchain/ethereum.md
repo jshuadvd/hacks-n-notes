@@ -22,7 +22,7 @@
 
 - [Meta Mask](https://metamask.io/) Chrome Extension
 - https://www.myetherwallet.com
-
+- [EPM](https://www.ethpm.com/registry) Ethereum Package Manager
 
 ## Concepts
 
