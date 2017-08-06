@@ -1,5 +1,9 @@
 # Atom
 
+## Themes
+
+- monokai
+
 ## Plugins
 
 - nuclide
