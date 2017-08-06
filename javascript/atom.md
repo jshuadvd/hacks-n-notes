@@ -2,6 +2,9 @@
 
 ## Plugins
 
+- nuclide
+
+
 ### Plugin Development
 
 - [Tutorial build first plugin](https://github.com/blog/2231-building-your-first-atom-plugin)
