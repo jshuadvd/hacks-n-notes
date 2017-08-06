@@ -8,6 +8,7 @@
 
 - editorconfig
 - language-babel
+- language-ethereum
 - nuclide
 - prettier-atom
 - vim-mode-plus
