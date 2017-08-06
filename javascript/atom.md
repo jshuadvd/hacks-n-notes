@@ -6,7 +6,11 @@
 
 ## Plugins
 
+- editorconfig
+- language-babel
 - nuclide
+- prettier-atom
+- vim-mode-plus
 
 
 ### Plugin Development
