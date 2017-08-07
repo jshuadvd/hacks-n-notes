@@ -10,6 +10,7 @@
 - language-babel
 - language-ethereum
 - nuclide
+- pigments (CSS color preview)
 - prettier-atom
 - vim-mode-plus
 
