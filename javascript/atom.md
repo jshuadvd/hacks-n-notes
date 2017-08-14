@@ -18,7 +18,7 @@
 
 ### Emmet keymap
 
-```smd
+```md
 # Stop emmet from hijacking basic tabbing
 'atom-text-editor[data-grammar="text html basic"]:not([mini]),
  atom-text-editor[data-grammar~="jade"]:not([mini]),
