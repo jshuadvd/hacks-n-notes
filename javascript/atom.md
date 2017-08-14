@@ -7,6 +7,7 @@
 ## Plugins
 
 - editorconfig
+- emmet
 - language-babel
 - language-ethereum
 - nuclide
