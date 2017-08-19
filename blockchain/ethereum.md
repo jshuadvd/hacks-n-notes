@@ -21,8 +21,9 @@
 ## Tools
 
 - [Meta Mask](https://metamask.io/) Chrome Extension
-- https://www.myetherwallet.com
+- [My Ether Wallet](https://www.myetherwallet.com)
 - [EPM](https://www.ethpm.com/registry) Ethereum Package Manager
+- [ETH stats](https://ethstats.net/)
 
 ## Concepts
 
