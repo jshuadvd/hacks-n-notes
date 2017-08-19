@@ -64,3 +64,9 @@ The method by which random numbers are generated is itself an area of active res
 - current best-in-class solutions include Bitcoin block headers, verified through [btcrelay](http://btcrelay.org)
 - hash-commit-reveal schemes (ie. one party generates a number, publishes its hash to "commit" to the value, and then reveals the value later) 
 - [RANDAO](https://github.com/randao/randao)
+
+## Mining
+
+### Tools
+
+- [MinerGate](https://minergate.com/) mining from personal computers
