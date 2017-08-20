@@ -24,6 +24,7 @@
 - [My Ether Wallet](https://www.myetherwallet.com)
 - [EPM](https://www.ethpm.com/registry) Ethereum Package Manager
 - [ETH stats](https://ethstats.net/)
+- [ETH Intelligence API](https://github.com/cubedro/eth-net-intelligence-api)
 
 ## Concepts
 
