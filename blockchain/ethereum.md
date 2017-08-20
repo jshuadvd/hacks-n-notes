@@ -26,6 +26,10 @@
 - [ETH stats](https://ethstats.net/)
 - [ETH Intelligence API](https://github.com/cubedro/eth-net-intelligence-api)
 
+## Platforms
+
+- [Legalease](https://legalese.com/) legal contracts ala blockchain
+
 ## Concepts
 
 ### Types of accounts
