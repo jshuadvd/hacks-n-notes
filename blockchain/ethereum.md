@@ -82,6 +82,8 @@ Bitcoin mining model encourages specialized equipment to solve the blockchain. E
 - [web3js](https://github.com/ethereum/web3.js/) to query the storage
 - [Truffle Boxes](http://truffleframework.com/boxes/) boilerplate catalog 
 - [Eth alarm clock](http://www.ethereum-alarm-clock.com/)
+- [remix](https://remix.ethereum.org/#version=soljson-v0.4.15+commit.bbb8e64f.js)
+- [dAppathon dockerized ide](https://github.com/rckprtrdv/dockerized-eth-ide)
 
 ## Learning resources
 
