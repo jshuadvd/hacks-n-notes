@@ -70,3 +70,7 @@ The method by which random numbers are generated is itself an area of active res
 ### Tools
 
 - [MinerGate](https://minergate.com/) mining from personal computers
+
+## Learning resources
+
+- [Berkeley Blockchain](https://blockchain.berkeley.edu/)
