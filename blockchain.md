@@ -71,6 +71,10 @@ The method by which random numbers are generated is itself an area of active res
 
 - [MinerGate](https://minergate.com/) mining from personal computers
 
+## Tools
+
+http://www.oraclize.it/ - connect APIs to smart contracts
+
 ## Learning resources
 
 - [Berkeley Blockchain](https://blockchain.berkeley.edu/)
