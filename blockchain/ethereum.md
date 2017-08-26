@@ -91,3 +91,4 @@ Bitcoin mining model encourages specialized equipment to solve the blockchain. E
 - [01-noob](http://consensys.github.io/developers/articles/101-noob-intro/)
 - [Redit dev resources](https://www.reddit.com/r/ethdev/comments/5s9avy/the_big_ethereum_development_resources_list/)
 - [create a cli with truffle](http://truffleframework.com/tutorials/creating-a-cli-with-truffle-3)
+- [awesome-solidity](https://github.com/bkrem/awesome-solidity)
