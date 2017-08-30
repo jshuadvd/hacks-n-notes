@@ -92,3 +92,11 @@ Bitcoin mining model encourages specialized equipment to solve the blockchain. E
 - [Redit dev resources](https://www.reddit.com/r/ethdev/comments/5s9avy/the_big_ethereum_development_resources_list/)
 - [create a cli with truffle](http://truffleframework.com/tutorials/creating-a-cli-with-truffle-3)
 - [awesome-solidity](https://github.com/bkrem/awesome-solidity)
+
+### Examples
+
+- https://github.com/JeremyHi/dAppathon
+- https://github.com/BlockInfinity
+- https://github.com/trytoothpick/application
+- https://github.com/like-mike/CarChain
+- https://github.com/youvegoteth/youvegoteth.github.io
