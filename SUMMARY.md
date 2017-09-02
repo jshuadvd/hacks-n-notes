@@ -12,6 +12,7 @@
   * [Ethereum](blockchain/ethereum.md)
     * [Solidity Language](blockchain/ethereum/solidity-language.md)
   * [Bitcoin](blockchain/bitcoin.md)
+  * [Lisk](blockchain/lisk.md)
 * [Browser](browser.md)
   * [Debugging](debugging.md)
   * [Offline](offline.md)
