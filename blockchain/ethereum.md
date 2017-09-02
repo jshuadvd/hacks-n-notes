@@ -17,6 +17,7 @@
 - [IPFS](https://ipfs.io/) peer to peer IP
 - [git mango](https://github.com/axic/mango) decentralized git
 - [Dharma Loans](https://dharma.io)
+- [Gnosis Prediction Markets](https://gnosis.pm/)
 
 ## Tools
 
