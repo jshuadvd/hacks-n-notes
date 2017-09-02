@@ -26,6 +26,7 @@
 - [EPM](https://www.ethpm.com/registry) Ethereum Package Manager
 - [ETH stats](https://ethstats.net/)
 - [ETH Intelligence API](https://github.com/cubedro/eth-net-intelligence-api)
+- [Oraclize](http://www.oraclize.it/) - connect dApps to APIs
 
 ## Platforms
 
