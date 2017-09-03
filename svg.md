@@ -4,9 +4,13 @@
 
 ## Books
 
+- [designing-interface-animation](http://rosenfeldmedia.com/books/designing-interface-animation/)
+
 ### SVG Essentials, 2nd Edition
 Producing Scalable Vector Graphics with XML
 By J. Eisenberg, Amelia Bellamy-Royds
+
+
 
 ## Reference
 
