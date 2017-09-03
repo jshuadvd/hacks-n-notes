@@ -8,6 +8,7 @@
 ## Elearning
 
 - [Codiscope](https://codiscope.com/products/elearning/)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Encryption
 > scramble code with a key
