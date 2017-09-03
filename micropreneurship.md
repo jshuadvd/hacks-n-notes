@@ -11,7 +11,7 @@
 - If a market is less than $100 million or so, you won't find Microsoft
 - Aim to own the majority of a $500,000/y market 
 - In general, since niche markets are small they have less competition, hence higher profit margins
-- wikipedia.org/wiki/List_of_occupations
+- www.wikipedia.org/wiki/List_of_occupations
 - bfs.gov/news.release/ocwage.t01.htm
 - entrepreneur.com/businessideas
 - ahbbo.com/ideas.html
@@ -44,7 +44,9 @@
 - https://www.namingforce.com/
 - https://www.crowdspring.com
 
+## Reference
 
+- [sideprojectchecklist](https://www.sideprojectchecklist.com/)
 
 
 
