@@ -2,9 +2,16 @@
 
 > Scalar Vector Graphics
 
+## Books
+
+### SVG Essentials, 2nd Edition
+Producing Scalable Vector Graphics with XML
+By J. Eisenberg, Amelia Bellamy-Royds
+
 ## Reference
 
 * [SVG Pocket Guide](http://svgpocketguide.com/book/) - tips and tricks
+
 
 ## Tools
 
