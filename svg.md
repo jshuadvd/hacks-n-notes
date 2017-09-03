@@ -28,6 +28,8 @@ By J. Eisenberg, Amelia Bellamy-Royds
 
 - [FrontendMasters SVG Animation](https://frontendmasters.com/courses/svg-animation)
 
-## Examples
+## Examples & Inspiration
 
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
+- [Sarah Drasner - codepen](https://codepen.io/sdras/)
+- [Sarah Drasner - github](https://github.com/sdras)
