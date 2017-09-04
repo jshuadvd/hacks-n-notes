@@ -78,3 +78,11 @@ http://www.oraclize.it/ - connect APIs to smart contracts
 ## Learning resources
 
 - [Berkeley Blockchain](https://blockchain.berkeley.edu/)
+
+### Whitepapers
+
+- [do you need blockchain?](https://eprint.iacr.org/2017/375.pdf)
+
+## Do you need Blockchain
+
+![](/assets/Screen Shot 2017-09-04 at 10.16.56 AM.png)
