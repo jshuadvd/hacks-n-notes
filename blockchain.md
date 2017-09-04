@@ -43,6 +43,16 @@ https://www.privateinternetaccess.com/ - VPN - private browsing
 - Escrow & Custody Services
 - Arbitration & Legal Services
 
+#### Supply Chain Management
+
+> few companies in supply chain management
+
+- Skuchain
+- Provenance
+- Walmart
+- Everledger
+
+
 ### Exchanges
 
 https://coinbase.com/  - to buy bitcoins with USD
