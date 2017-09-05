@@ -2,6 +2,11 @@
 
 > Scalar Vector Graphics
 
+## Code
+
+`preserveAspectRatio` to slice or adjust the svg inside the viewport.
+
+
 ## Books
 
 - [designing-interface-animation](http://rosenfeldmedia.com/books/designing-interface-animation/)
