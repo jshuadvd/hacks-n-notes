@@ -6,6 +6,29 @@
 
 `preserveAspectRatio` to slice or adjust the svg inside the viewport.
 
+### Using media queries
+
+> hiding parts of the svg sprite with media queries
+
+```
+var shape = document.getElementById(‘sag’)
+
+// media query event handler
+
+if (matchMedia) {
+  var mq = window.matchMedia(‘(min-width: 500px)’);
+  mq.addListener(WidthChange);
+  WidthChange(mq);
+}
+// media query change
+function WidthChange(mq) {
+  if (mq.matches) {
+    shape.setAttribyte(‘viewBox’, ‘0 0 490 474’);
+  } else {
+    shape.setAttribyte(‘viewBox’, ‘0 0 500 500’);
+  }
+}
+```
 
 ## Books
 
