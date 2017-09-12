@@ -12,6 +12,10 @@
 
 ### IP Address
 
+#### To get ip address on Mac
+
+- `ipconfig getifaddr en0`
+
 #### IPv4
 > Provides for 4Billion unique addresses
 
