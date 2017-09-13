@@ -135,6 +135,8 @@
   * [Webpack](javascript/webpack.md)
   * [IoT](javascript/iot.md)
   * [Atom](javascript/atom.md)
+  * [Gists](javascript/gists.md)
+    * [Harlem shake](javascript/gists/harlem-shake.md)
 * [Lisp](lisp.md)
 * [LowCode](lowcode.md)
 * [Math](math.md)
