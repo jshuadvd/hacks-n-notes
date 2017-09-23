@@ -9,6 +9,10 @@
 
 - [Drip](https://www.drip.co/) - campaign automation
 
+## Sales
+
+- [Close CRM](https://close.io/)
+- [Prospect.io](https://prospect.io/) to prospect
 
 ## Youtube
 
