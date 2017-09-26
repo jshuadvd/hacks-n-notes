@@ -2,9 +2,14 @@
 
 > Scalar Vector Graphics
 
+## libraries
+
+- [transformicons](http://www.transformicons.com/)
+
 ## Code
 
-`preserveAspectRatio` to slice or adjust the svg inside the viewport.
+- `preserveAspectRatio` to slice or adjust the svg inside the viewport.
+- [animation hooks](https://developer.mozilla.org/en-US/docs/Web/Events/animationstart)
 
 ### Using media queries
 
