@@ -1,6 +1,7 @@
 # HTML
 
 - [Web code generator](https://webcode.tools)
+- [Frontend checklist](http://frontendchecklist.com/)
 
 ## Basic HTML Template
 
