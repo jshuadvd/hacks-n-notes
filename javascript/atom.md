@@ -6,13 +6,17 @@
 
 ## Plugins
 
+- atom-ide-ui
+- autocomplete-paths (import autocomplete)
 - editorconfig
 - emmet
+- ide-flowtype
 - language-babel
 - language-ethereum
 - nuclide
 - pigments (CSS color preview)
 - prettier-atom
+- sort-lines
 - vim-mode-plus
 
 
