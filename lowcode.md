@@ -14,6 +14,7 @@
 * [Floydhub](https://www.floydhub.com) - the Heroku for machine learning 
 * [Thunkable](http://thunkable.com/) - mobile app builder
 * [Webflow](http://webflow.com) - website builder
+* [Storyline](https://thestoryline.io) - Alexa skills
 
 ## Tasks
 

@@ -79,7 +79,7 @@
 * [Git](git/readme.md)
   * [Git Workflow](git/git-workflow.md)
   * [Git Tags](git/git-tags.md)
-  * [Git Config](git/git-config.md)
+* [Git Config](git/git-config.md)
 * [Graphics](graphics.md)
   * [Augmented Reality](augmented_reality.md)
   * [SVG](svg.md)
