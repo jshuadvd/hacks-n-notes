@@ -161,7 +161,6 @@
   * [Colors in shell](shell/colors.md)
   * [tmux](shell/tmux.md)
   * [HomeBrew](shell/homebrew.md)
-* [Swift](swift.md)
 * [Talks](javascript/node-js/talks.md)
   * [2016 Nov](javascript/node-js/2016_nov.md)
     * [2016 Nov 22](javascript/node-js/2016_nov_22.md)
