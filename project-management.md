@@ -3,6 +3,7 @@
 ## Learning Resources
 
 - [Engineer Manager](https://github.com/ryanburgess/engineer-manager)
+- [Product Roadmaps Relaunched](https://www.safaribooksonline.com/library/view/product-roadmaps-relaunched/9781491971710/)
 - [The Agile Samurai](https://pragprog.com/book/jtrap/the-agile-samurai)
 
 ## Tools
