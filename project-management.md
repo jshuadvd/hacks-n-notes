@@ -1,10 +1,17 @@
-# Tools
+# Project Management
+
+## Learning Resources
+
+- [Engineer Manager](https://github.com/ryanburgess/engineer-manager)
+- [The Agile Samurai](https://pragprog.com/book/jtrap/the-agile-samurai)
+
+## Tools
 
 - [meistertask](https://www.meistertask.com/)
 - [Wrike](https://www.wrike.com/)
 
 
-# The Mythical Man-Month
+## Book: The Mythical Man-Month
 
 * “All programmers are optimists. Perhaps this modern sorcery especially attracts those who believe in happy endings and fairy godmothers. “
 
@@ -35,7 +42,7 @@
 * The architect designs but should leave the implementation details to the builder, so it doesn’t kills the builder inventiveness.
 
 
-\#\# When estimating include:
+### When estimating include:
 
 * Programming
 
@@ -58,7 +65,7 @@
 * Corrections
 
 
-\#\# more notes
+### more notes
 
 * The more interactions between programmers the less productivity will be
 
@@ -80,7 +87,7 @@
 
 - spreadsheets + simple database systems
 
-## Productivity software
+### Productivity software
 - writing
 - drawing
 - file
@@ -92,11 +99,11 @@
 
 - Growing software instead of building or writing.
 
-## On OOP
+### On OOP
 
 > Unfortunately the self-same strong type-checking in C++ that helps programmers to avoid errors also makes it hard to build big things out of little ones.
 
-## On Reuse
+### On Reuse
 
 > Doing it requires both good design and very good documentation.
 
@@ -107,7 +114,7 @@
 - Vocabulary learning constitutes no small part of the intellectual barrier to reuse.
 
 
-## Programming languages
+### Programming languages
 
 - Programming languages are much more complex than machine languages
 - Natural languages are more complex still.
@@ -119,7 +126,7 @@
 - People only memorize spelling. They learn syntax and semantics incrementally, in context, by use.
 - That's when REPL, fiddles and tutorials come useful.
 
-## Conceptual Integrity
+### Conceptual Integrity
 
 > A clean, elegant programming product must present to each of its users a coherent mental model of the application, of strategies for doing the app, and of the user-interface tactics to be used in specifying actions and parameters.
 
