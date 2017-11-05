@@ -15,3 +15,6 @@
 - `-d` dettached from terminal
 - `-p 80:80` port mapping
 
+### Volume mapping
+
+`docker run -v /opt/datadir:/var/lib/mysql mysql` maps the local folder to the container folder to persist data in your computer
