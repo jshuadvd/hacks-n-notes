@@ -2,6 +2,10 @@
 
 https://www.tiltbrush.com/
 
+## Assets
+
+- [Google Poly](https://poly.google.com/)
+
 ## Guidelines
 - [VR Human Interface Guidelines](http://vrhig.com/)
 
