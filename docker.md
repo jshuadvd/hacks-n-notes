@@ -2,7 +2,12 @@
 
 ## Commands
 
-- `docker ps` lsista
+- `docker ps` list running image instances
+- `docker ps -a` list all image instances
+- `docker images` list available images
+- `docker rm <instance id>`
+
+
 
 ### Docker run
 - `docker run <image|image-name>`
