@@ -1,5 +1,10 @@
 # SEO
 
+## Crawlers
+
+- Crawlers penalize websites with bad mobile performance
+- They look for unique content.
+
 ## Tutorials
 
 - [Julian on growth](https://www.julian.com/learn/growth/intro)
