@@ -3,7 +3,9 @@
 ## Crawlers
 
 - Crawlers penalize websites with bad mobile performance
-- They look for **new, unique, and targeted** content.
+- They look for **unique and targeted** content.
+- frequent updates
+- link building
 
 ## Tutorials
 
