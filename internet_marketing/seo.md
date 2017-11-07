@@ -44,3 +44,4 @@
 - Create a Google "My Business" page
 - Ask for reviews and display in your website.
 - Register your website in Local Chamber of Commerce.
+- Google Search Console
