@@ -49,3 +49,5 @@
 ### Long Tail Keywords
 
 - use high intent keyphrases, example: "learn javascript" vs "SEO metadata video course"
+- https://www.wordtracker.com/
+- https://www.semrush.com/
