@@ -38,3 +38,8 @@
 - `itemscope` 
 - `itemtype="https://schema.org/Person"` sets which type of schema
 - `itemprop="name"` property. in this example means person name
+
+## Traditional SEO
+
+- Create a Google "My Business" page
+- Ask for reviews and display in your website.
