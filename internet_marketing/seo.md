@@ -13,8 +13,10 @@
 
 ## Evaluation tools
 
+- [Google Trends](trends.google.com)
 - [Page Speed by Google](https://developers.google.com/speed/pagespeed/insights/)
 - [RankGen](http://rankgen.com/)
+- [SpyFu](https://www.spyfu.com/) - keyword analysis
 
 ## html
  
