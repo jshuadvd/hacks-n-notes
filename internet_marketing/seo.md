@@ -18,6 +18,14 @@
 - [RankGen](http://rankgen.com/)
 - [SpyFu](https://www.spyfu.com/) - keyword analysis
 
+## Url debugger
+
+https://cards-dev.twitter.com/validator
+https://search.google.com/structured-data/testing-tool
+http://www.seo-extension.com/
+https://developers.facebook.com/tools/debug/
+https://developers.pinterest.com/tools/url-debugger/
+
 ## html
  
 - page title
