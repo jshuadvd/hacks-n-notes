@@ -26,6 +26,7 @@ http://www.seo-extension.com/
 https://developers.facebook.com/tools/debug/
 https://developers.pinterest.com/tools/url-debugger/
 
+
 ## html
  
 - page title
@@ -33,6 +34,10 @@ https://developers.pinterest.com/tools/url-debugger/
 - meta tags: description, title
 - og tags
 - `<img>`: title, description, alt text
+
+### html tools
+
+- [add-to-homescreen](https://github.com/cubiq/add-to-homescreen)
 
 ## Schema.org
 
