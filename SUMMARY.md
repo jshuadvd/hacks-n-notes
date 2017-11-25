@@ -149,6 +149,7 @@
   * [Internet Protocols](internet_protocols.md)
     * [AMQP](amqp.md)
     * [IP](ip.md)
+  * [GraphQL](graphql.md)
 * [Patterns](patterns.md)
   * [Event Sourcing](event_sourcing.md)
 * [Quality Assurance](quality_assurance.md)
