@@ -10,6 +10,14 @@ Git notes.
 
 https://superuser.com/questions/1127067/macos-keeps-asking-my-ssh-passphrase-since-i-updated-to-sierra
 
+## Snippets
+
+### How to count lines of code in a repo
+
+```sh
+git ls-files | xargs wc -l
+```
+
 ## Squash
 
 > To compress multiple commits into a single commit.
