@@ -3,6 +3,7 @@
 ## Content editors
 
 - [Ory](https://www.gitbook.com/book/ory/editor/details)
+- [Sanity](https://www.sanity.io/) customizable CMS
 
 ## SVG icons 
 
