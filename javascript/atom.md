@@ -17,7 +17,7 @@
 - pigments (CSS color preview)
 - prettier-atom
 - sort-lines
-- telemetry (live coding)
+- teletype (live coding)
 - vim-mode-plus
 
 
