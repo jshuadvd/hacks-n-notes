@@ -6,8 +6,6 @@
   * [Learnings](learnings.md)
 * [10X](10x.md)
 * [APIs](apis.md)
-* [App ideas](app_ideas.md)
-  * [Goals](goals.md)
 * [Blockchain](blockchain.md)
   * [Bitcoin](blockchain/bitcoin.md)
   * [Ethereum](blockchain/ethereum.md)
@@ -176,4 +174,5 @@
   * [Addictive Expericences](addictive-expericences.md)
 * [Wearables](wearables.md)
 * [Docker](docker.md)
+* [Computer Engineering](computer-engineering.md)
 
