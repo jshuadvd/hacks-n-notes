@@ -140,6 +140,7 @@
   * [Atom](javascript/atom.md)
   * [Gists](javascript/gists.md)
     * [Harlem shake](javascript/gists/harlem-shake.md)
+  * [AMP](javascript/amp.md)
 * [Lisp](lisp.md)
 * [LowCode](lowcode.md)
 * [Math](math.md)
