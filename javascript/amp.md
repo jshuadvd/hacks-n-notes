@@ -1,5 +1,9 @@
 # AMP
 
+- inline css
+- use `<amp-img/>` instead of `<img/>`
+- specify size for each img
+
 
 ## Tools
 
