@@ -139,6 +139,7 @@
   * [Gists](javascript/gists.md)
     * [Harlem shake](javascript/gists/harlem-shake.md)
   * [AMP](javascript/amp.md)
+  * [PWA](javascript/pwa.md)
 * [Lisp](lisp.md)
 * [LowCode](lowcode.md)
 * [Math](math.md)
