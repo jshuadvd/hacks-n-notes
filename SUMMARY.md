@@ -110,6 +110,7 @@
     * [Set](javascript/set.md)
     * [Weak map](javascript/weak_map.md)
     * [Promises](javascript/promises.md)
+    * [AsyncAwait](javascript/asyncawait.md)
   * [Emulators](javascript/emulators.md)
   * [ESLint](javascript/eslint.md)
   * [Functional Programming](javascript/functional-programming/js-functional-programming.md)
