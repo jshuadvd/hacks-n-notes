@@ -1,5 +1,5 @@
 
-# ES6 notes
+# ESNext notes
 
 [Slides](https://github.com/aaronfrost/es6-femasters-slides)
 
