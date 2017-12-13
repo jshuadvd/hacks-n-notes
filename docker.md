@@ -6,7 +6,7 @@
 - `docker ps -a` list all image instances
 - `docker images` list available images
 - `docker rm <instance id>`
-
+- `docker restart <image name>` restarts an existing named image.
 
 
 ### Docker run
