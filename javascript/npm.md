@@ -18,6 +18,7 @@ date-fns | like momentJS but modern
 envify | plugin to pass the env vars into a js bundle
 eslint | linter
 express | web server
+[faker](https://github.com/Marak/Faker.js) | generates mock data
 fast-cli | Netflix speedtest
 fast-csv | parse CVS
 [flatorize](https://github.com/glathoud/flatorize) | Linear algebra library that supports intensive computations in JS
