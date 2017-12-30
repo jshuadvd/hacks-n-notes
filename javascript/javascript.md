@@ -39,6 +39,14 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 - [progressive web apps](https://developers.google.com/web/ilt/pwa/) by Google
 
+
+## Bundling tools
+
+- [parceljs](https://parceljs.org) - zero config
+- rollup - for libraries
+- webpack - for web apps
+
+
 ## Web development
 
 > How to speed up web development?
