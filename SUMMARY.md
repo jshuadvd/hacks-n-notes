@@ -141,6 +141,7 @@
     * [Harlem shake](javascript/gists/harlem-shake.md)
   * [AMP](javascript/amp.md)
   * [PWA](javascript/pwa.md)
+  * [RAIL Model](javascript/rail-model.md)
 * [Lisp](lisp.md)
 * [LowCode](lowcode.md)
 * [Math](math.md)
