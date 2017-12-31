@@ -32,6 +32,7 @@
   * [Trends](trends.md)
   * [Web App costs](web_app_costs.md)
 * [ChatBots](chatbots.md)
+  * [Facebook Messenger](chatbots/facebook-messenger.md)
 * [Computer Science](computer-science/readme.md)
   * [Algorithms](computer-science/algorithms/readme.md)
     * [Binary Search](computer-science/algorithms/binary-search.md)
