@@ -55,6 +55,7 @@ By J. Eisenberg, Amelia Bellamy-Royds
 * [Milanote](www.milanote.com) - Mood board
 * [SVGO](https://github.com/svg/svgo)- Nodejs-based tool for optimizing SVG vector graphics files
 * [svgomg](https://jakearchibald.github.io/svgomg/) - SVG optimizer by Jake Archibald
+* [svgr](https://svgr.now.sh/) - from svg to react
 
 
 ## Best practices
