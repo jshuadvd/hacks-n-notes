@@ -31,6 +31,7 @@
     * [Open Source Projects](open-source-projects.md)
   * [Trends](trends.md)
   * [Web App costs](web_app_costs.md)
+  * [Work remotely](work-remotely.md)
 * [ChatBots](chatbots.md)
   * [Facebook Messenger](chatbots/facebook-messenger.md)
 * [Computer Science](computer-science/readme.md)
