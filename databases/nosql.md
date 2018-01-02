@@ -11,4 +11,5 @@
 ### Column Store
 
 * Orders by columns instead of rows
-* More efficient than Row Store
+* Reads faster than Row Store
+* Writes slower
