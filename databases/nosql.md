@@ -16,3 +16,6 @@
 
 ### Graph Stores
 
+* stores as edges and vertexes
+* eg. social networks
+
