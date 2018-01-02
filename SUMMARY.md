@@ -78,7 +78,7 @@
   * [ServiceStack](servicestack.md)
 * [Databases](databases/readme.md)
   * [NoSQL](databases/nosql.md)
-  * relational
+  * RDBBMS
     * [PostgreSQL](databases/postgresql.md)
 * [Data Science](data-science.md)
 * [Docker](docker.md)
