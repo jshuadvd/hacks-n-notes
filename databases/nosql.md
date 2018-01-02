@@ -13,3 +13,6 @@
 * Orders by columns instead of rows
 * Reads faster than Row Store
 * Writes slower
+
+### Graph Stores
+
