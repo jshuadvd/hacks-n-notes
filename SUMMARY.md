@@ -72,7 +72,9 @@
 * [C\#](c-sharp.md)
   * [ServiceStack](servicestack.md)
 * [Databases](databases/readme.md)
-  * [PostgreSQL](databases/postgresql.md)
+  * [NoSQL](databases/nosql.md)
+  * relational
+* [PostgreSQL](databases/postgresql.md)
 * [Data Science](data-science.md)
 * [Drones](drones.md)
 * [Elm](elm.md)
