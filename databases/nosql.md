@@ -25,3 +25,6 @@
 * combine multiple storage models
 * often Graph and something else
 
+### Document Store
+
+* documents can be in JSON 
