@@ -2,6 +2,7 @@
 
 
 * [apiary](https://apiary.io/) API docs design platform
+* [how to build apis](https://github.com/Kikobeats/awesome-api)
 * [runscope](https://www.runscope.com/) api monitoring
 
 
