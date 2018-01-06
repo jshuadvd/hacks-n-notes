@@ -15,3 +15,7 @@
 - there is only one primary node and multiple secondary nodes.
 - writes and reads only go to the primary.
 - secondary nodes are only for backup
+
+## Reference
+
+* [mongodb native driver nodejs](http://mongodb.github.io/node-mongodb-native/)
