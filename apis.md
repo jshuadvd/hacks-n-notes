@@ -32,6 +32,10 @@ https://github.com/abhishekbanthia/Public-APIs/blob/master/README.md
 - [Visa](https://developer.visa.com/)
 - [Chain](https://chain.com/)
 
+### Invoices
+
+- [factura MX](https://factura.com/api)
+
 ## Machine Learning
 
 - [Indico](https://indico.io/)
