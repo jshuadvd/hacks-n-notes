@@ -14,6 +14,10 @@
 - [PPL API](http://pplapi.com/) - virtual database of the entire human population.
 - [SelectPDF](http://selectpdf.com/) - convert websites to PDF
 
+## Auth
+
+- [okta](https://developer.okta.com/)
+
 
 ## Big Data
 
