@@ -9,7 +9,10 @@
 ## Tools
 
 - [meistertask](https://www.meistertask.com/)
+- [Ora](https://ora.pm/)
 - [Wrike](https://www.wrike.com/)
+- [zenkit](https://zenkit.com/)
+- [zenhub](https://www.zenhub.com/)
 
 
 ## Book: The Mythical Man-Month
