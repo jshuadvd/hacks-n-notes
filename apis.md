@@ -1,7 +1,11 @@
 # APIs
 
-https://github.com/abhishekbanthia/Public-APIs/blob/master/README.md
 
+* [apiary](https://apiary.io/) API docs design platform
+
+## general
+
+- [public APIs](https://github.com/abhishekbanthia/Public-APIs/blob/master/README.md)
 - [Algorithmia](https://algorithmia.com/) - algorithm marketplace
 - [Omnivore](http://omnivore.io/) - restaurant POS booster
 - [PPL API](http://pplapi.com/) - virtual database of the entire human population.
