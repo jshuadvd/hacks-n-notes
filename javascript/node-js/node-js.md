@@ -1,5 +1,8 @@
 # NodeJS
 
+* nodejs can handle more than 1M concurrent connections in a 16GB server [study](http://blog.caustik.com/2012/08/19/node-js-w1m-concurrent-connections/) and over 600k websocket connections.
+
+
 ## Standards
 
 http://node-machine.org/
