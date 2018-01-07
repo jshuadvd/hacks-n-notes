@@ -13,6 +13,7 @@ There is also an optimum. If you get too much of the good debt you might never b
 ## Tools
 
 - [Appointlet](https://www.appointlet.com/) - Appointment tool
+- [bizplan](https://www.bizplan.com/)
 - [Chat Fuel](https://chatfuel.com/) - Facebook chatbot
 - [FounderKit](https://founderkit.com) - tools for startups
 - [eShares](https://esharesinc.com/) - electronic shares management
