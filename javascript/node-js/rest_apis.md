@@ -1,5 +1,7 @@
 # REST APIs
 
+* [restify](http://restify.com/) is a node framework specialized for REST APIs.
+
 ## CORS 
 > (Cross-Origin Resource Sharing)
 
@@ -15,10 +17,17 @@ The protocol, domain and port must match.
 - to implemente CORS only on a route
 - - `app.use('/api', require('cors')())`
 
+## HTTP Headers
+
+* [list of HTTP headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+
+
 ## Test APIs
 
 Use npm package **restler** to do the XHR requests 
 - github.com/danwrong/restler
+- [supertest](https://github.com/visionmedia/supertest)
+
 
 
 
