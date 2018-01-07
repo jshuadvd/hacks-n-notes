@@ -17,6 +17,12 @@ The protocol, domain and port must match.
 - to implemente CORS only on a route
 - - `app.use('/api', require('cors')())`
 
+## Documentation
+
+### Docs Generators
+
+* [docusaurus](https://docusaurus.io/)
+
 ## Examples
 
 > Amazing REST APIs for Inspiration
@@ -47,7 +53,7 @@ To tell your API users how many requests they have left, set the following heade
 ## Test APIs
 
 Use npm package **restler** to do the XHR requests 
-- github.com/danwrong/restler
+- [restler](github.com/danwrong/restler)
 - [supertest](https://github.com/visionmedia/supertest)
 
 
