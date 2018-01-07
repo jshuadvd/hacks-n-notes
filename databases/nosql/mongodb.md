@@ -8,6 +8,16 @@
 * The maximum BSON document size in MongoDB is 16
 MB.
 
+## GridFS
+
+> For files larger than 16 MB, MongoDB provides a
+convention called GridFS, which is implemented by all
+MongoDB drivers. GridFS automatically divides large data
+into 256 KB pieces called chunks and maintains the
+metadata for all chunks. GridFS allows for retrieval of
+individual chunks as well as entire documents. For example, an application could quickly jump to a specific timestamp in a video. GridFS is frequently used to store large binary files such as images and videos directly in MongoDB, without offloading them to a separate filesystem
+
+
 ## Replica Sets
 
 > Are used for persistance, not for performance.
