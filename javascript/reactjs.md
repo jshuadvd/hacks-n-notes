@@ -17,6 +17,10 @@
 
 - [react-pdf](https://github.com/diegomura/react-pdf)
 
+## State management
+
+* [Almin](https://almin.js.org/) - CQRS for React
+
 ## UI Components
 
 - [Ant](https://ant.design/)
