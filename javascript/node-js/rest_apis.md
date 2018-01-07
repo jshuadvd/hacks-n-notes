@@ -17,6 +17,16 @@ The protocol, domain and port must match.
 - to implemente CORS only on a route
 - - `app.use('/api', require('cors')())`
 
+## Examples
+
+> Amazing REST APIs for Inspiration
+
+* [DigitalOcean API](https://developers.digitalocean.com/documentation/v2/#introduction)
+* [GitHub API](https://developer.github.com/v3/)
+* [Stripe API](https://stripe.com/docs/api)
+* [Twilio API](https://www.twilio.com/docs/api/rest)
+
+
 ## HTTP Headers
 
 * [list of HTTP headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
