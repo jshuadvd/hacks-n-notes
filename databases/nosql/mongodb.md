@@ -5,7 +5,8 @@
 ![](/assets/Screen Shot 2018-01-06 at 11.32.35 AM.png)
 
 * for performance, it is important to create indexes
-
+* The maximum BSON document size in MongoDB is 16
+MB.
 
 ## Replica Sets
 
