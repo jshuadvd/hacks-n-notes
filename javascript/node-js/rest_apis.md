@@ -20,7 +20,7 @@ The protocol, domain and port must match.
 ## HTTP Headers
 
 * [list of HTTP headers](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
-
+* use HTTP headers to send metadata like pagination, rate limiting, or authentication.
 
 ## Test APIs
 
