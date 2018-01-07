@@ -31,3 +31,7 @@ individual chunks as well as entire documents. For example, an application could
 
 * [blockchain on mongodb guide](https://hub.mongodb.com/blockchain-hub)
 * [mongodb native driver nodejs](http://mongodb.github.io/node-mongodb-native/)
+
+## Sharding
+
+* splits database in multiple replica sets for scalability.
