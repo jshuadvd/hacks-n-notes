@@ -23,6 +23,16 @@ The protocol, domain and port must match.
 * use HTTP headers to send metadata like pagination, rate limiting, or authentication.
 * Node.js imposes an 80KB size limit on the headers object to prevent DoS attacks. Therefor avoid the total size of the HTTP headers (including the status line) to exceed `HTTP_MAX_HEADER_SIZE`.
 
+## Rate Limiting
+
+> Rate limiting is used to control how many requests a given consumer can send to the API.
+
+To tell your API users how many requests they have left, set the following headers:
+
+* `X-Rate-Limit-Limit`, the number of requests allowed in a given time interval
+* `X-Rate-Limit-Remaining`, the number of requests remaining in the same interval,
+* `X-Rate-Limit-Reset`, the time when the rate limit will be reset.
+
 
 ## Test APIs
 
