@@ -26,6 +26,7 @@ fast-csv | parse CVS
 google-libphonenumber | phoneNumber library
 html-pdf | convert html to pdf
 [inquirer](https://github.com/sboudrias/Inquirer.js) | CLI GUI tools
+[jimp](https://github.com/oliver-moran/jimp) | image processor for nodejs 
 [mathJS](http://mathjs.org/) | evaluate mathematical expressions
 moment | date library
 node-inspector | debug nodeJS apps on Chrome
