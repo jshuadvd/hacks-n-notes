@@ -9,6 +9,11 @@
 
 - [Drip](https://www.drip.co/) - campaign automation
 
+## Emails
+
+* [customer.io](https://customer.io) - marketing & transactional emails
+
+
 ## Sales
 
 - [Close CRM](https://close.io/)
