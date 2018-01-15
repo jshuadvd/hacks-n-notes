@@ -2,6 +2,20 @@
 
 * nodejs can handle more than 1M concurrent connections in a 16GB server [study](http://blog.caustik.com/2012/08/19/node-js-w1m-concurrent-connections/) and over 600k websocket connections.
 
+## Best Practices
+
+### Graceful shutdown for your applications
+
+When you deploy a new version of your application, the old must be replaced. The process manager you are using (no matter if it is Heroku, Kubernetes, supervisor or anything else) will first send a **SIGTERM** signal to the application to let it know, that it is going to be killed. 
+
+Once it gets this signal, it should:
+
+* stop accepting new requests
+* finish all the ongoing requests
+* and clean up database connections or file locks.
+
+[terminus](https://github.com/godaddy/terminus) is an npm package to help gracefully shutdown nodeJS apps.
+
 
 ## Standards
 
