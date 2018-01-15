@@ -99,6 +99,7 @@
   * [Augmented Reality](augmented_reality.md)
   * [SVG](svg.md)
   * [Virtual Reality](virtual_reality.md)
+  * [Graphic Design](graphic-design.md)
 * [Google Suite](google-suite.md)
 * [Health](health.md)
 * [HTML](html.md)
