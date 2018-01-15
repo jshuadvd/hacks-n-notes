@@ -83,7 +83,7 @@
   * RDBBMS
     * [PostgreSQL](databases/postgresql.md)
 * [Data Science](data-science.md)
-* DevOps
+* [DevOps](devops.md)
   * [AWS](aws.md)
   * [Docker](docker.md)
 * [Drones](drones.md)
