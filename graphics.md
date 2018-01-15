@@ -1,5 +1,11 @@
 # Graphics
 
+
+## Art
+
+* [Commit.io](https://commits.io/) - Turn code to art
+
+
 ## Free stock photos
 
 * [Pexels](https://www.pexels.com/)
@@ -33,9 +39,12 @@ Notes on the arguments:
 
 * [Filters like Van Gogh](https://primitive.lol/)
 
-## Art
+## Tools
 
-* [Commit.io](https://commits.io/) - Turn code to art
+* [CSS Gradients](https://gradients.cssgears.com/)
+* [straple](https://straple.co/#/) - Sketch framework for React + CSS
+
+
 
 
 
