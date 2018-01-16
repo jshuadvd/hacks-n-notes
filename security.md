@@ -50,6 +50,7 @@
 - [MetaSploit](https://www.metasploit.com/)
 - [Armitage](http://www.fastandeasyhacking.com) - GUI for MetaSploit
 - [Dirty COW](https://dirtycow.ninja/) - "Copy on Write" Linux vulnerability
+- [haveibeenpwned](https://haveibeenpwned.com/)
 - [wifi-cracking](https://github.com/brannondorsey/wifi-cracking)
 
 ### commands
