@@ -19,6 +19,7 @@ There is also an optimum. If you get too much of the good debt you might never b
 - [eShares](https://esharesinc.com/) - electronic shares management
 - [Hello Sign](https://www.hellosign.com/) - to sign documents on line
 - [meistertask](https://www.meistertask.com/) - project management
+- [Podium](https://www.podium.com/) - reviews manager
 - [Process St](https://www.process.st/) - to document business processes and keep them accountable
 - [Retrium](https://www.retrium.com/)
 - [startuprunway](https://www.startuprunway.io) - calculate you startup burnrate.
