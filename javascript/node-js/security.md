@@ -1,6 +1,9 @@
 # Security
 > Security is as strong as the weakest link, and the first link in that chain is the network protocol.
 
+* [NodeJS Security checklist](https://blog.risingstack.com/node-js-security-checklist/)
+
+
 ## HTTPS
 
 > HTTP Secure
