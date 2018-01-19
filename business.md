@@ -2,6 +2,12 @@
 
 - [Collapsed](https://collapsed.co/) - startup failures
 
+
+## Guides
+
+* [Work culture](https://journal.thriveglobal.com/99-totally-serious-ways-to-create-a-great-work-culture-e7d093bdad23)
+
+
 ## Productivity
 
 There is good debt and bad debt. The good debt is the one that you can leverage to increase your income and assets. 
