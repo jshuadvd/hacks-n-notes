@@ -1,5 +1,10 @@
 # CSS
 
+## libraries
+
+* [instagram.css](https://github.com/picturepan2/instagram.css)
+
+
 ## online tools 
 
 - [Spritepad](https://wearekiss.com/spritepad) - sprite generator
