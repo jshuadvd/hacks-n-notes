@@ -2,7 +2,9 @@
 
 ## libraries
 
+* [devices.css](https://github.com/picturepan2/devices.css)
 * [instagram.css](https://github.com/picturepan2/instagram.css)
+
 
 
 ## online tools 
