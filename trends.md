@@ -87,3 +87,4 @@
 1. smarter homes
 1. wearables
 1. Internet connection speeds and coverage
+1. Air pollution. [smog-free-tower](https://studioroosegaarde.net/project/smog-free-tower)
