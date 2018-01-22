@@ -7,6 +7,7 @@
 npm package | description
 ----------- | -----------
 accounting | accounting
+[async sema](https://github.com/zeit/async-sema/blob/master/examples/rate-limiting.js) | rate limiting
 babel | transpiler from ESNext
 [babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) | resolves imports
 body-parser | ExpressJS plugin to read req.body
