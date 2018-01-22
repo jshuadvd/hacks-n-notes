@@ -24,6 +24,7 @@
 * Macos: https://github.com/ptmt/react-native-macos
 * Pdf: https://github.com/diegomura/react-pdf
 * Shell consoles: https://github.com/Yomguithereal/react-blessed
+* Shell animation: https://github.com/gaearon/react-blessed-hot-motion
 * Sketchapp: http://airbnb.io/react-sketchapp/
 * TV: https://github.com/react-tv/react-tv
 * VR: https://facebook.github.io/react-vr/
