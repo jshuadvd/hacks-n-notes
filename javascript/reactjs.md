@@ -16,7 +16,19 @@
 
 ## React Tools
 
-- [react-pdf](https://github.com/diegomura/react-pdf)
+* 3d: https://github.com/Izzimach/react-three
+* AR: https://github.com/HippoAR/react-native-arkit
+* Hardware: https://github.com/iamdustan/react-hardware
+* Keynote: https://twitter.com/nishb1/status/913744410537537536
+* Linux (Qt): https://github.com/status-im/react-native-desktop
+* Macos: https://github.com/ptmt/react-native-macos
+* Pdf: https://github.com/diegomura/react-pdf
+* Shell consoles: https://github.com/Yomguithereal/react-blessed
+* Sketchapp: http://airbnb.io/react-sketchapp/
+* TV: https://github.com/react-tv/react-tv
+* VR: https://facebook.github.io/react-vr/
+* Windows: https://github.com/Microsoft/react-native-windows
+* Word: https://github.com/nitin42/redocx
 
 ## State management
 
