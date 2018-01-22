@@ -27,6 +27,7 @@
 - [ETH stats](https://ethstats.net/)
 - [ETH Intelligence API](https://github.com/cubedro/eth-net-intelligence-api)
 - [Oraclize](http://www.oraclize.it/) - connect dApps to APIs
+- [ETH view](https://etherview.now.sh/)
 
 ## Platforms
 
