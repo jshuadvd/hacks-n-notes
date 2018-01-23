@@ -10,3 +10,6 @@
 
 - [frontendmasters testing workshop](https://github.com/kentcdodds/testing-workshop)
 
+## Tools
+
+* [Applitools](https://applitools.com/) - AI Powered Visual Testing & Monitoring
