@@ -41,6 +41,7 @@
   * [Patterns](patterns.md)
     * [Event Sourcing](event_sourcing.md)
   * [Bootcamps](bootcamps.md)
+  * [Web](web.md)
 * [Computer Science](computer-science/readme.md)
   * [Algorithms](computer-science/algorithms/readme.md)
     * [Binary Search](computer-science/algorithms/binary-search.md)
