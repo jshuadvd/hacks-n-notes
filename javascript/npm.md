@@ -52,6 +52,7 @@ tape | unit test library
 ua-parser | to parse UA Clients
 uglifyify | to minify
 watchify | to watch
+[webtorrent](https://github.com/webtorrent/webtorrent) | torrents on the browser
 
 
 ## How to write a UMD module
