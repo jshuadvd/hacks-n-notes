@@ -15,6 +15,7 @@ browserify | bundle
 bunyan | logging
 [common-tags](https://github.com/declandewet/common-tags) | string templates tags
 compression | gzip compression on runtime
+[dataloader](https://github.com/facebook/dataloader) | caching for HTTP requests
 date-fns | like momentJS but modern
 envify | plugin to pass the env vars into a js bundle
 eslint | linter
