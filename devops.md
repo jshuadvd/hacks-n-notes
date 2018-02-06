@@ -11,4 +11,9 @@
 - [launchdarkly](https://launchdarkly.com/) 
 - [split.io](https://www.split.io/)
 
+## Tools
+
+* [osquery](https://osquery.io/) - sql for your devices (made by Facebook)
+* NewRelic
+
 
