@@ -14,4 +14,6 @@ Prevent `img` alt text from containing redundant words like "image", "picture", 
 Require ARIA roles to be valid and non-abstract | `'jsx-a11y/valid-aria-role': 2`
 
 
-- 
+## GraphQL
+
+* [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) 
