@@ -1,5 +1,9 @@
 # GraphQL
 
+## Glossary
+
+* **Scalar types** are GraphQL-speak for leaf nodes in the graph: Strings, numbers, booleans, etc.
+
 ## Libraries
 
 * [prisma](https://www.prismagraphql.com/) - realtime GraphQL database layer.
