@@ -23,8 +23,10 @@ express | web server
 [faker](https://github.com/Marak/Faker.js) | generates mock data
 fast-cli | Netflix speedtest
 fast-csv | parse CVS
+[feather-icons](https://github.com/feathericons/feather) | svg icons
 [flatorize](https://github.com/glathoud/flatorize) | Linear algebra library that supports intensive computations in JS
 [flow](www.flowtype.org) | Type Checking
+[frappe-charts](https://github.com/frappe/charts) | charts
 google-libphonenumber | phoneNumber library
 html-pdf | convert html to pdf
 [inquirer](https://github.com/sboudrias/Inquirer.js) | CLI GUI tools
