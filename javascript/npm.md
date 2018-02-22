@@ -44,6 +44,7 @@ node-sass | pre-process SASS to CSS
 pusher | websockets
 pusher-js | websockets - complimentary
 reactify | browserify plugin for React
+[react-vis](https://uber.github.io/react-vis/) | charts from Uber. In react
 [redux-form](http://redux-form.com/) | redux form
 request | HTTP requests
 [rough](https://github.com/pshihn/rough) | Build handdrawn-like shapes
