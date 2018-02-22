@@ -8,54 +8,32 @@ npm package | description
 ----------- | -----------
 accounting | accounting
 [async sema](https://github.com/zeit/async-sema/blob/master/examples/rate-limiting.js) | rate limiting
-babel | transpiler from ESNext
 [babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) | resolves imports
-body-parser | ExpressJS plugin to read req.body
-browserify | bundle
-bunyan | logging
 [common-tags](https://github.com/declandewet/common-tags) | string templates tags
-compression | gzip compression on runtime
 [dataloader](https://github.com/facebook/dataloader) | caching for HTTP requests
 date-fns | like momentJS but modern
-envify | plugin to pass the env vars into a js bundle
-eslint | linter
-express | web server
 [faker](https://github.com/Marak/Faker.js) | generates mock data
 fast-cli | Netflix speedtest
 fast-csv | parse CVS
 [feather-icons](https://github.com/feathericons/feather) | svg icons
 [flatorize](https://github.com/glathoud/flatorize) | Linear algebra library that supports intensive computations in JS
-[flow](www.flowtype.org) | Type Checking
 [frappe-charts](https://github.com/frappe/charts) | charts
 google-libphonenumber | phoneNumber library
 html-pdf | convert html to pdf
 [inquirer](https://github.com/sboudrias/Inquirer.js) | CLI GUI tools
 [jimp](https://github.com/oliver-moran/jimp) | image processor for nodejs 
 [mathJS](http://mathjs.org/) | evaluate mathematical expressions
-moment | date library
-node-inspector | debug nodeJS apps on Chrome
 node-uuid | generate UUID
 [npm-license](https://github.com/AceMetrix/npm-license) | generates a flat list of npm modules and their licenses
-numeral | number formatting
-node-sass | pre-process SASS to CSS
 [oy](https://github.com/revivek/oy) | E-mail templates with React
 [progress](https://github.com/visionmedia/node-progress) | Progress bar for CLI
 [nps](https://github.com/kentcdodds/nps) | scripts for package json
-pusher | websockets
-pusher-js | websockets - complimentary
-reactify | browserify plugin for React
 [react-vis](https://uber.github.io/react-vis/) | charts from Uber. In react
-[redux-form](http://redux-form.com/) | redux form
-request | HTTP requests
 [rough](https://github.com/pshihn/rough) | Build handdrawn-like shapes
 serve-favicon | to serve dynamic favicons
 [strapdown](http://strapdownjs.com/) | markdown renderer
-superagent | HTTP requests
-tape | unit test library
 [tesseract](https://github.com/naptha/tesseract.js) | OCR in 62 languages
 ua-parser | to parse UA Clients
-uglifyify | to minify
-watchify | to watch
 [webtorrent](https://github.com/webtorrent/webtorrent) | torrents on the browser
 
 
