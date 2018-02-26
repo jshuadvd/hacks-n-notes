@@ -13,6 +13,8 @@
 - ide-flowtype
 - language-babel
 - language-ethereum
+- language-mermaid
+- markdown-preview-enhanced
 - nuclide
 - pigments (CSS color preview)
 - prettier-atom
