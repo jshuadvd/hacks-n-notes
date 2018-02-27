@@ -5,3 +5,7 @@ About to-do lists
 
 About skill plateau
 >  most people learn quickly in new situations, but soon plateau after they’re “good enough” and never get better with more experience. This has been heavily studied in the professional world, and it’s evident in our daily lives. Has driving more made you a better driver? Has typing more made you a better typist?
+
+About placing bets for the future
+>  ‘What’s NOT going to change in the next 10 years?’
+You can build a business strategy around the things that are stable in time. Like predicting that people will always want lower costs and faster deliveries (Amazon).
