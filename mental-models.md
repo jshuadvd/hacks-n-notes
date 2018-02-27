@@ -8,4 +8,4 @@ About skill plateau
 
 About placing bets for the future
 >  ‘What’s NOT going to change in the next 10 years?’
-You can build a business strategy around the things that are stable in time. Like predicting that people will always want lower costs and faster deliveries (Amazon).
+You can build a business strategy around the things that are stable in time. Like predicting that people will always want lower costs and faster deliveries (Amazon).  Focus on what’s guaranteed to be valuable rather than speculating. The energy we put into it today will still be paying off dividends for our customers 10 years from now.
