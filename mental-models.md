@@ -3,7 +3,12 @@
 What is a Mental Model?
 > Mental Models are concepts, frameworks or worldviews that help you interpret and understand the relationships and patterns.
 
+---
+10 Reps per Day
 
+* ask yourself, “How can I apply XYZ mental model to this situation?”
+
+--- 
 About to-do lists
 > Creating a to-do list from most important to least important and then kicking butt right on down the list. Dalio calls this layer of reality the blizzard because lots of things are constantly coming at you from different directions, and it’s hard to get clarity on what really matters.
 
