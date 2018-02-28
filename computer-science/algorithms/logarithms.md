@@ -1,8 +1,15 @@
 # Logarithms
 
 A **Logarithm** is 
+
+> A quantity representing the power to which a fixed number (the base) must be raised to produce a given number.
+
+
 - a mathematical expression
 - inverse to exponents
+
+
+
 
 ## How to calculate
 
