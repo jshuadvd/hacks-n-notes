@@ -1,6 +1,7 @@
 # Mental Models
 
 What is a Mental Model?
+> Mental Models are concepts, frameworks or worldviews that help you interpret and understand the relationships and patterns.
 
 
 About to-do lists
