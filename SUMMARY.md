@@ -64,7 +64,7 @@
   * [Disk Storage](computer-science/disk-storage.md)
   * [Data Structures](computer-science/data_structures.md)
     * [Graph representation](computer-science/algorithms/graph_representation.md)
-    * Tree
+    * [Tree](computer-science/algorithms/tree.md)
   * [Programming Languages](computer-science/programming_languages.md)
   * [Information Theory](computer-science/information_theory.md)
 * [Configurations](configs/README.md)
