@@ -89,6 +89,7 @@
 * [DevOps](devops.md)
   * [AWS](aws.md)
   * [Docker](docker.md)
+  * [Zeit.co](zeitco.md)
 * [Drones](drones.md)
 * [e-government](e-government.md)
 * [Elm](elm.md)
