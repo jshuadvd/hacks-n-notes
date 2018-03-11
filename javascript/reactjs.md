@@ -22,6 +22,7 @@
 * Keynote: https://twitter.com/nishb1/status/913744410537537536
 * Linux (Qt): https://github.com/status-im/react-native-desktop
 * Macos: https://github.com/ptmt/react-native-macos
+* Markdown: [react-markdown](https://github.com/rexxars/react-markdown)
 * Pdf: https://github.com/diegomura/react-pdf
 * Shell consoles: https://github.com/Yomguithereal/react-blessed
 * Shell animation: https://github.com/gaearon/react-blessed-hot-motion
