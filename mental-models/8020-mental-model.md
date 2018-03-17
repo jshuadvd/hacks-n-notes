@@ -16,7 +16,7 @@ First Things First | Do the most important thing first.
 True North | Be aware of your values.
 Sufficiency vs. Maximization | Be aware of which type of return that task will lead, diminishing returns or exponential returns. For diminishing returns, work on just sufficiency level and for exponential returns, work on maximization. 
 Hurdle Rate | The minimum rate of the return on a project or investment and it also denotes appropriate compensation for the level of risk present. “If you’re not a ‘Hell Yes!’ on the new opportunity, then say no.”
-First Principles | 
+First Principles | What should be done even if it seems impossible? How can I increase its odds of happening?
 Seven Levels Of System Intervention | 
 
 
