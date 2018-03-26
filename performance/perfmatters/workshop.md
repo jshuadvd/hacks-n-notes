@@ -46,3 +46,6 @@ JS is parsing blocking.
 * swap
 * optional
 
+### Variable fonts
+
+- has all the weights baked into one file
