@@ -8,3 +8,5 @@
 
 
 
+shell command `traceroute` to see the network llayers 
+
