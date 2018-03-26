@@ -54,3 +54,5 @@ JS is parsing blocking.
 
 You can select the subset of the font that you need. Discard glyphs that you dont use like accents for other languages.
 
+Subsetting can be done in the href as a query string param for example `&text=Hello`
+
