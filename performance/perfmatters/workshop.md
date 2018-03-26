@@ -36,6 +36,9 @@ It is possible to add a media attribute (print, media queries) to the `<link>`.
 JS is parsing blocking.
 `<script>` has the attribute `async` (downloads JS without parting) and `defer` (the same as async but waits to execute until DOM is ready).
 
+[Hidden Chrome dev tools experiment](https://hackernoon.com/hidden-experimental-features-in-chrome-devtools-2ae93b11b628)
+
+
 ### requestIdleCallback
 
 [requestIdleCallback](https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback#Browser_compatibility)
