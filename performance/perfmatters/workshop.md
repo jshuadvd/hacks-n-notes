@@ -49,3 +49,8 @@ JS is parsing blocking.
 ### Variable fonts
 
 - has all the weights baked into one file
+
+### Subsetting
+
+You can select the subset of the font that you need. Discard glyphs that you dont use like accents for other languages.
+
