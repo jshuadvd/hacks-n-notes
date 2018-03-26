@@ -10,3 +10,11 @@ shell command `traceroute` to see the network llayers
 
 set http connection to KeepAlive: On
 
+### HTTP hints
+
+Can be in headers, html attributes, or dynamic JS
+
+* preload 
+
+
+
