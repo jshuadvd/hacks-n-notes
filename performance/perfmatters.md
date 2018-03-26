@@ -28,3 +28,7 @@ ex `<link rel="preload" href="http://cdn.com">`
 
 CSS is render-blocking to avoid FOUC. 
 It is possible to add a media attribute (print, media queries) to the `<link>`.
+
+### JS 
+
+JS is parsing blocking.
