@@ -46,6 +46,7 @@ JS is parsing blocking.
 * swap
 * optional
 
+Use `rel="preload"` 
 
 ### Variable fonts
 
