@@ -15,6 +15,7 @@
   * [Debugging](debugging.md)
   * [Offline](offline.md)
   * [Performance](performance.md)
+    * [\#PerfMatters](performance/perfmatters.md)
   * [Storage](storage.md)
 * [Business](business.md)
   * [E-myth](e-myth.md)
