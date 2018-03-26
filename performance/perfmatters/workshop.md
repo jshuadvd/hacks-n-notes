@@ -46,8 +46,6 @@ JS is parsing blocking.
 * swap
 * optional
 
-Prefer woff2.
-Load: local(), woff2, or woff (in that order)
 
 ### Variable fonts
 
@@ -59,4 +57,9 @@ You can select the subset of the font that you need. Discard glyphs that you don
 
 Subsetting can be done in the href as a query string param for example `&text=Hello`
 
+Prefer woff2.
+Load: local(), woff2, or woff (in that order)
+
+
+You can use `unicode-range` in `@font-face` to load specific subset of unicode ranges.
 
