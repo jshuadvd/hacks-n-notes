@@ -14,7 +14,10 @@ set http connection to KeepAlive: On
 
 Can be in headers, html attributes, or dynamic JS
 
-* preload 
+ex `<link rel="preload" href="http://cdn.com">`
 
+* `preload` DNS, TCP, SSL & HTTP Request
+* `dns-prefetch` DNS only
+* `preconnect` DNS, TCP, SSL
 
 
