@@ -33,3 +33,9 @@ It is possible to add a media attribute (print, media queries) to the `<link>`.
 
 JS is parsing blocking.
 `<script>` has the attribute `async` (downloads JS without parting) and `defer` (the same as async but waits to execute until DOM is ready).
+
+### Critical Render
+
+[loadCSS](https://github.com/filamentgroup/loadCSS)
+criticalCSS
+penthouse
