@@ -36,6 +36,12 @@ It is possible to add a media attribute (print, media queries) to the `<link>`.
 JS is parsing blocking.
 `<script>` has the attribute `async` (downloads JS without parting) and `defer` (the same as async but waits to execute until DOM is ready).
 
+### requestIdleCallback
+
+[requestIdleCallback](https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback#Browser_compatibility)
+
+* Fires that piece of code when the browser is idle.
+* perfect for analytics events like Mixpanel
 
 ## Fonts
 
