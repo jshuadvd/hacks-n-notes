@@ -46,6 +46,9 @@ JS is parsing blocking.
 * swap
 * optional
 
+Prefer woff2.
+Load: local(), woff2, or woff (in that order)
+
 ### Variable fonts
 
 - has all the weights baked into one file
@@ -55,4 +58,5 @@ JS is parsing blocking.
 You can select the subset of the font that you need. Discard glyphs that you dont use like accents for other languages.
 
 Subsetting can be done in the href as a query string param for example `&text=Hello`
+
 
