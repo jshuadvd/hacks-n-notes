@@ -24,4 +24,7 @@ ex `<link rel="preload" href="http://cdn.com">`
 * `preconnect` DNS, TCP, SSL (can be combined with `dns-prefetch`)(current page)
 
 
+### CSS
 
+CSS is render-blocking to avoid FOUC. 
+It is possible to add a media attribute (print, media queries) to the `<link>`.
