@@ -39,3 +39,10 @@ JS is parsing blocking.
 
 ## Fonts
 
+`font-display` to tell the browser how to treat your font loading.
+* auto
+* fallback
+* block
+* swap
+* optional
+
