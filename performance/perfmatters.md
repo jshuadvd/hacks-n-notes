@@ -36,6 +36,6 @@ JS is parsing blocking.
 
 ### Critical Render
 
-[loadCSS](https://github.com/filamentgroup/loadCSS)
-criticalCSS
-penthouse
+* load critical css inlined and minimized in the <head> (determine it programatically criticalCSS)
+* load the rest of the css dynamically with JS [loadCSS](https://github.com/filamentgroup/loadCSS)
+
