@@ -19,7 +19,7 @@ ex `<link rel="preload" href="http://cdn.com">`
 > These are more useful for dynamically injected assets or assets below the fold of the page.
 
 * `preload` DNS, TCP, SSL & HTTP Request
-* `dns-prefetch` DNS only
-* `preconnect` DNS, TCP, SSL
+* `dns-prefetch` DNS only 
+* `preconnect` DNS, TCP, SSL (can be combined with `dns-prefetch`)
 
 
