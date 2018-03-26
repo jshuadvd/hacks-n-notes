@@ -39,3 +39,4 @@ JS is parsing blocking.
 * load critical css inlined and minimized in the <head> (determine it programatically [critical-path-css-tools by Addy Osmani](https://github.com/addyosmani/critical-path-css-tools)) aim for < 14kb so it transfers on the first trip in the HTTP request.
 * load the rest of the css dynamically with JS [loadCSS](https://github.com/filamentgroup/loadCSS). Set a cookie to flag that the css is already loaded.
 
+### Fonts
