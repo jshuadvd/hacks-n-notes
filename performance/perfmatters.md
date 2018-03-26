@@ -6,7 +6,7 @@
 
 [Wiki google doc](https://docs.google.com/document/d/1ok9lyjhOfWf12jH_cPFh-ctMJm695HNJM67747kxJ5M/edit?usp=sharing)
 
+shell command `traceroute` to see the network llayers
 
-
-shell command `traceroute` to see the network llayers 
+set http connection to KeepAlive: On
 
