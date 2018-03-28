@@ -46,3 +46,6 @@
 
 * [Deque tools for accessibility](https://www.deque.com/)
 * [Axe Core](https://www.axe-core.org/) OSS tool
+* [jsdom](https://github.com/jsdom/jsdom) npm package for accessibility unit testing
+- eslint-plugin-jsx-a11y
+- [egghead accessibility course](https://egghead.io/courses/start-building-accessible-web-applications-today)
