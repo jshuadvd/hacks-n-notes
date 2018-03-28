@@ -23,3 +23,9 @@
 ## Perf Timings
 
 [slides](http://jlwagner.net/talks/perf-timings/)
+
+* RUM (Real User Metrics)
+
+### Tools
+
+* [Boomerang](https://github.com/SOASTA/boomerang)
