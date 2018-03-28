@@ -41,3 +41,8 @@
 * use modular CSS like [CFPB modular framework](https://cfpb.github.io/capital-framework/)
 * use html tags like `nav`, `main`, `head`, and `aside`
 * w3c wai-aria-practices
+
+## MarcySutton (Deque Systems)
+
+* [Deque tools for accessibility](https://www.deque.com/)
+* [Axe Core](https://www.axe-core.org/) OSS tool
