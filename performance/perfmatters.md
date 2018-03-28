@@ -20,3 +20,6 @@
 - img sprite for fold images would help
 - `<link as="script">`
 
+## Perf Timings
+
+[slides](http://jlwagner.net/talks/perf-timings/)
