@@ -2,6 +2,15 @@
 
 [https://perfmattersconf.com/](https://perfmattersconf.com/)
 
+## Sponsors
+
+* [appdepar](https://addepar.com/)
+* [appdynamics](https://www.appdynamics.com/product/browser-real-user-monitoring/)
+* [catchpoint](http://www.catchpoint.com/)
+* [imagecon](http://www.imagecon.com/events/imagecon-2018/event-summary-1a9b0d3d0cbf4d979d663a202586ed1e.aspx)
+* [speedcurve](https://speedcurve.com/)
+* [white coat captioning](http://www.whitecoatcaptioning.com/)
+
 ## Pinterest
 
 - 1M+ request per second
