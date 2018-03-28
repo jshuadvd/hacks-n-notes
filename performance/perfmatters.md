@@ -60,3 +60,15 @@
 * [jsdom](https://github.com/jsdom/jsdom) npm package for accessibility unit testing
 - eslint-plugin-jsx-a11y
 - [egghead accessibility course](https://egghead.io/courses/start-building-accessible-web-applications-today)
+
+## Jem @jemyoung (Netflix)
+
+- buffer with generator + `while(true)` for paralellizing http requests but start serving them as soon as the first request is complete.
+
+## @linclark @codecartoons (Mozilla)
+
+Parallelize as much as possible to be quicker
+
+* webworkers
+* shared array buffers
+* WebAssembly + React
