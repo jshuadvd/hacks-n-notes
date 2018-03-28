@@ -25,7 +25,17 @@
 [slides](http://jlwagner.net/talks/perf-timings/)
 
 * RUM (Real User Metrics)
+* Long Tasks > 50ms
 
 ### Tools
 
 * [Boomerang](https://github.com/SOASTA/boomerang)
+* [Bucky](http://github.hubspot.com/BuckyClient/)
+
+## Kimberly Munoz (Slack)
+
+### semantic HTML for focus management (tab)
+
+* focus on the DOM order instead of using JS
+* use `<button>` & `<select>` instead of building your custom with `<div>`
+* 
