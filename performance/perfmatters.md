@@ -39,3 +39,4 @@
 * focus on the DOM order instead of using JS
 * use `<button>` & `<select>` instead of building your custom with `<div>`
 * [CFPB modular framework](https://cfpb.github.io/capital-framework/)
+* use html tags like `nav`, `main`, `head`, and `aside`
