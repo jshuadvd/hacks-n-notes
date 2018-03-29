@@ -2,8 +2,6 @@
 
 ## Extensions
 
-
-
 1. Zeit now
 2. Atom one light theme
 3. Docker
