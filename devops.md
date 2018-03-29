@@ -2,7 +2,8 @@
 
 ## CDN
 
-* AWS S3
+* [Akamai](https://www.akamai.com/)
+* AWS CloudFront + S3
 * [cloudflare](https://www.cloudflare.com/)
 
 
