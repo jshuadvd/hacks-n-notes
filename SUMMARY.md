@@ -75,6 +75,7 @@
   * [tmux](configs/tmux.md)
   * [Ubuntu](configs/ubuntu.md)
   * [Vimrc](configs/vimrc.md)
+  * [VSCode](configs/vscode.md)
 * [CSS](css/readme.md)
   * [CSS3 Animations](css/css3-animations.md)
 * [C\#](c-sharp.md)
