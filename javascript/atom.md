@@ -2,26 +2,25 @@
 
 ## Themes
 
-- monokai
+* monokai
 
 ## Plugins
 
-- atom-ide-ui
-- autocomplete-paths (import autocomplete)
-- editorconfig
-- emmet
-- ide-flowtype
-- language-babel
-- language-ethereum
-- language-mermaid
-- markdown-preview-enhanced
-- nuclide
-- pigments (CSS color preview)
-- prettier-atom
-- sort-lines
-- teletype (live coding)
-- vim-mode-plus
-
+* atom-ide-ui
+* autocomplete-paths \(import autocomplete\)
+* editorconfig
+* emmet
+* ide-flowtype
+* language-babel
+* language-ethereum
+* language-mermaid
+* markdown-preview-enhanced
+* nuclide
+* pigments \(CSS color preview\)
+* prettier-atom
+* sort-lines
+* teletype \(live coding\)
+* vim-mode-plus
 
 ### Emmet keymap
 
@@ -44,5 +43,8 @@
 
 ### Plugin Development
 
-- [Tutorial build first plugin](https://github.com/blog/2231-building-your-first-atom-plugin)
-- [Atom API Docs](https://atom.io/docs/api/v1.9.4/)
+* [Tutorial build first plugin](https://github.com/blog/2231-building-your-first-atom-plugin)
+* [Atom API Docs](https://atom.io/docs/api/v1.9.4/)
+
+
+
