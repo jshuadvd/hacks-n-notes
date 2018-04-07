@@ -15,37 +15,37 @@
 
 ## Pinterest
 
-- 1M+ request per second
-- dedicated performance team
+* 1M+ request per second
+* dedicated performance team
 
 ### Regression protection
 
-* perf environment to run automation integration tests (100 times)
-* calculate 90th percentile of Pinner Wait Time (PWT)
-* binary search (git bisect) to detect which commit introduced the regression
+* perf environment to run automation integration tests \(100 times\)
+* calculate 90th percentile of Pinner Wait Time \(PWT\)
+* binary search \(git bisect\) to detect which commit introduced the regression
 
 ## React
 
-- create a `<LazyLoader />` component 
-- with http2 bundling is still optimal
-- img sprite for fold images would help
-- `<link as="script">`
+* create a `<LazyLoader />` component 
+* with http2 bundling is still optimal
+* img sprite for fold images would help
+* `<link as="script">`
 
 ## Perf Timings
 
 [slides](http://jlwagner.net/talks/perf-timings/)
 
-* RUM (Real User Metrics)
-* Long Tasks > 50ms
+* RUM \(Real User Metrics\)
+* Long Tasks &gt; 50ms
 
 ### Tools
 
 * [Boomerang](https://github.com/SOASTA/boomerang)
 * [Bucky](http://github.hubspot.com/BuckyClient/)
 
-## Kimberly Munoz (Slack)
+## Kimberly Munoz \(Slack\)
 
-### semantic HTML for focus management (tab)
+### semantic HTML for focus management \(tab\)
 
 * focus on the DOM order instead of using JS
 * use `<button>` & `<select>` instead of building your custom with `<div>`
@@ -53,22 +53,25 @@
 * use html tags like `nav`, `main`, `head`, and `aside`
 * w3c wai-aria-practices
 
-## MarcySutton (Deque Systems)
+## MarcySutton \(Deque Systems\)
 
 * [Deque tools for accessibility](https://www.deque.com/)
 * [Axe Core](https://www.axe-core.org/) OSS tool
 * [jsdom](https://github.com/jsdom/jsdom) npm package for accessibility unit testing
-- eslint-plugin-jsx-a11y
-- [egghead accessibility course](https://egghead.io/courses/start-building-accessible-web-applications-today)
+* eslint-plugin-jsx-a11y
+* [egghead accessibility course](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
-## Jem @jemyoung (Netflix)
+## Jem @jemyoung \(Netflix\)
 
-- buffer with generator + `while(true)` for paralellizing http requests but start serving them as soon as the first request is complete.
+* buffer with generator + `while(true)` for paralellizing http requests but start serving them as soon as the first request is complete.
 
-## @linclark @codecartoons (Mozilla)
+## @linclark @codecartoons \(Mozilla\)
 
 Parallelize as much as possible to be quicker
 
 * webworkers
 * shared array buffers
 * WebAssembly + React
+
+
+
