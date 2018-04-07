@@ -14,7 +14,7 @@
 1. npm 
 1. npm intellisense
 1. Partial Diff
-1. Path Intellisense
+1. Path Autocomplete
 1. Prettier
 1. Quokka
 1. Sort lines
