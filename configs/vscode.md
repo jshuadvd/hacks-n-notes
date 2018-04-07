@@ -6,6 +6,7 @@
 1. auto Import
 1. auto Rename Tag
 1. auto-close-tag
+1. bookmarks
 1. docker
 1. editorConfig
 1. eslint
