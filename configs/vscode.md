@@ -17,6 +17,7 @@
 1. Path Autocomplete
 1. Prettier
 1. Quokka
+1. Simple React Snippets
 1. Sort lines
 1. Vim
 1. Wallaby
