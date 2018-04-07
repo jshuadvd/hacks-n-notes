@@ -3,6 +3,7 @@
 ## Extensions
 
 1. Atom one light theme
+1. Auto Import
 1. auto-close-tag
 1. Auto Rename Tag
 1. Docker
@@ -19,6 +20,8 @@
 1. Quokka
 1. Simple React Snippets
 1. Sort lines
+1. styled-jsx Language Server
+1. vscode-styled-jsx
 1. Vim
 1. Wallaby
 
