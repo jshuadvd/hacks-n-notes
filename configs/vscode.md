@@ -2,21 +2,21 @@
 
 ## Extensions
 
-1. Zeit now
-2. Atom one light theme
-3. Docker
-4. EditorConfig
-5. ESLint
-6. GitLens
-7. Markdown Preview Enhanced
-8. npm 
-9. npm intellisense
-10. Partial Diff
-11. Path Intellisense
-12. Prettier
-13. Quokka
-14. Sort lines
-15. Vim
-16. 
+1. Atom one light theme
+1. Docker
+1. EditorConfig
+1. ESLint
+1. GitLens
+1. Markdown Preview Enhanced
+1. npm 
+1. npm intellisense
+1. Partial Diff
+1. Path Intellisense
+1. Prettier
+1. Quokka
+1. Sort lines
+1. Vim
+1. Wallaby
+
 
 
