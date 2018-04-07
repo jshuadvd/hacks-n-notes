@@ -20,6 +20,7 @@
 1. prettier
 1. quokka
 1. simple React Snippets
+1. snapshot-tools
 1. sort lines
 1. styled-jsx Language Server
 1. vim
