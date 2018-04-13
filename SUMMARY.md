@@ -196,4 +196,5 @@
 * [Wearables](wearables.md)
 * [Mental Models](mental-models.md)
   * [80/20 Mental Model](mental-models/8020-mental-model.md)
+* [Internet of Things](internet-of-things.md)
 
