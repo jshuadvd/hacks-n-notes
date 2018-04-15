@@ -1,14 +1,15 @@
-
 # Oh-my-zshell config file
 
 ## File name
-`.zshrc`
 
+`.zshrc`
 
 ## File content
 
 ```sh
 plugins=(git vi-mode)
+
+source $ZSH/oh-my-zsh.sh
 
 # Preferred editor for local and remote sessions
  if [[ -n $SSH_CONNECTION ]]; then
@@ -17,38 +18,26 @@ plugins=(git vi-mode)
    export EDITOR='vim'
  fi
  
- 
- 
-# 0 . Enter
-bindkey -s "^[Op" "0"
-bindkey -s "^[Ol" "."
-bindkey -s "^[OM" "^M"
-# 1 2 3
-bindkey -s "^[Oq" "1"
-bindkey -s "^[Or" "2"
-bindkey -s "^[Os" "3"
-# 4 5 6
-bindkey -s "^[Ot" "4"
-bindkey -s "^[Ou" "5"
-bindkey -s "^[Ov" "6"
-# 7 8 9
-bindkey -s "^[Ow" "7"
-bindkey -s "^[Ox" "8"
-bindkey -s "^[Oy" "9"
-# + -  * /
-bindkey -s "^[Ok" "+"
-bindkey -s "^[Om" "-"
-bindkey -s "^[Oj" "*"
-bindkey -s "^[Oo" "/"
+# aliases
+alias npmr="npm run"
+
 
 # ctrl-r starts searching history backward
 bindkey '^r' history-incremental-search-backward
 bindkey '^P' up-history
 bindkey '^N' down-history
 
+export NVM_DIR="$HOME/.nvm"
+  . "$(brew --prefix nvm)/nvm.sh"
+  
+# open terminal in code directory
+cd /Users/jorge/Code
+
+export PATH="$PATH:$HOME/.yarn/bin"
+
 # to be able to run local npm packages as global
 # eg. `gulp`  instead of `./node_modules/.bin/gulp`
-export PATH=$PATH:./node_modules/.bin
+export PATH="$PATH:$HOME/.yarn/bin"
 ```
 
 Then append [npm completion](https://docs.npmjs.com/cli/completion) to have autocomplete.
@@ -56,3 +45,6 @@ Then append [npm completion](https://docs.npmjs.com/cli/completion) to have auto
 ```
 npm completion >> ~/.zshrc
 ```
+
+
+
