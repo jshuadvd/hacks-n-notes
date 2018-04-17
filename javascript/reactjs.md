@@ -32,6 +32,7 @@
 * Shell animation: [https://github.com/gaearon/react-blessed-hot-motion](https://github.com/gaearon/react-blessed-hot-motion)
 * Sketchapp: [http://airbnb.io/react-sketchapp/](http://airbnb.io/react-sketchapp/)
 * Spring: [https://github.com/drcmda/react-spring](https://github.com/drcmda/react-spring)
+* Smooth Drag and Drop: [https://github.com/kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
 * TV: [https://github.com/react-tv/react-tv](https://github.com/react-tv/react-tv)
 * VR: [https://facebook.github.io/react-vr/](https://facebook.github.io/react-vr/)
 * Windows: [https://github.com/Microsoft/react-native-windows](https://github.com/Microsoft/react-native-windows)
