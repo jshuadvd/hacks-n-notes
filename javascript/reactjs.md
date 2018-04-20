@@ -22,7 +22,7 @@
 
 * 3d: [https://github.com/Izzimach/react-three](https://github.com/Izzimach/react-three)
 * AR: [https://github.com/HippoAR/react-native-arkit](https://github.com/HippoAR/react-native-arkit)
-* Bit: https://bitsrc.io/ - Share components between apps
+* Bit: [https://bitsrc.io/](https://bitsrc.io/) - Share components between apps
 * Hardware: [https://github.com/iamdustan/react-hardware](https://github.com/iamdustan/react-hardware)
 * Keynote: [https://twitter.com/nishb1/status/913744410537537536](https://twitter.com/nishb1/status/913744410537537536)
 * Linux \(Qt\): [https://github.com/status-im/react-native-desktop](https://github.com/status-im/react-native-desktop)
@@ -38,6 +38,7 @@
 * VR: [https://facebook.github.io/react-vr/](https://facebook.github.io/react-vr/)
 * Windows: [https://github.com/Microsoft/react-native-windows](https://github.com/Microsoft/react-native-windows)
 * Word: [https://github.com/nitin42/redocx](https://github.com/nitin42/redocx)
+* why-did-you-update: https://github.com/maicki/why-did-you-update - to detect unnecessary rendering
 
 ## State management
 
