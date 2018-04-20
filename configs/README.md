@@ -1,8 +1,15 @@
 # Configs
 
-file | description 
----- | -----------
-book.json | Gitbook config
-.tern-project | Atom tern-js
-.vimrc | vim editor
-.zshrc | oh-my-zshell
+| file | description |
+| --- | --- |
+| book.json | Gitbook config |
+| .tern-project | Atom tern-js |
+| .vimrc | vim editor |
+| .zshrc | oh-my-zshell |
+
+
+
+## Fonts
+
+https://nerdfonts.com/
+
