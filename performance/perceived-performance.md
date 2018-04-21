@@ -26,7 +26,8 @@ You start to lose people from 1 - 4s of passive state.
 | :--- | :--- |
 | &lt; 1s | nothing |
 | 1 - 2s | loading spinner |
-| 2s+ | progress bar |
+| 2s - 4s | progress bar |
+| 4s+ | entertain user. For example Slack uses animation, then shows inspirational quotes, then a screen preview, and finally loads. |
 
 ### Perception Hacks
 
@@ -45,18 +46,18 @@ const API_EXPECTED_TIME = 1000;
 const SOME_OTHER_EXPECTED_TIME = 2000;
 
 function getImage() {
-	let t0 = performance.now();
-	fetch(`${GET_IMAGE_API_URL}`).then(response => {
-		const apiRoundtrip = performance.now() - t0;
-		setPerformanceScalar(apiRoundtrip, API_EXPECTED_TIME);
-		// Do stuff
-	});
+    let t0 = performance.now();
+    fetch(`${GET_IMAGE_API_URL}`).then(response => {
+        const apiRoundtrip = performance.now() - t0;
+        setPerformanceScalar(apiRoundtrip, API_EXPECTED_TIME);
+        // Do stuff
+    });
 }
 
 function setPerformanceScalar(observed, expected) {
-	this.performanceScalar = observed / expected;
-	// ...
-	// tuck this away in app state, local storage, a global variable, etc
+    this.performanceScalar = observed / expected;
+    // ...
+    // tuck this away in app state, local storage, a global variable, etc
 }
 ```
 
