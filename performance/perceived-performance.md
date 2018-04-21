@@ -34,11 +34,31 @@ You start to lose people from 1 - 4s of passive state.
 * fire calls onMouseDown instead of onClick/touchStart \(gains 100-150ms\). Cancel on touchmove
 * use `:active` animations. They encourage the user to hold the click longer.
 
-
-
 ### Progress bars
 
 * Use quick bands animation
+
+Measure requests to determine progress bar speed.
+
+```js
+const API_EXPECTED_TIME = 1000;
+const SOME_OTHER_EXPECTED_TIME = 2000;
+
+function getImage() {
+	let t0 = performance.now();
+	fetch(`${GET_IMAGE_API_URL}`).then(response => {
+		const apiRoundtrip = performance.now() - t0;
+		setPerformanceScalar(apiRoundtrip, API_EXPECTED_TIME);
+		// Do stuff
+	});
+}
+
+function setPerformanceScalar(observed, expected) {
+	this.performanceScalar = observed / expected;
+	// ...
+	// tuck this away in app state, local storage, a global variable, etc
+}
+```
 
 
 
