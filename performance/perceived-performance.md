@@ -14,7 +14,7 @@ Shoot for 30% speedup.
 >
 > – Richard Larson, MIT
 
-
+Takes about 1 second to transition to passive state.
 
 
 
