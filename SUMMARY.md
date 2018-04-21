@@ -17,6 +17,7 @@
   * [Performance](performance.md)
     * [\#PerfMatters](performance/perfmatters.md)
       * [Workshop](performance/perfmatters/workshop.md)
+    * [Perceived Performance](performance/perceived-performance.md)
   * [Storage](storage.md)
 * [Business](business.md)
   * [E-myth](e-myth.md)
