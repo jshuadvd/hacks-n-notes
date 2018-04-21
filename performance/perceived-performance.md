@@ -20,7 +20,17 @@ Keep users active.
 
 ### Wait indicators
 
+| wait time | action |
+| :--- | :--- |
+| &lt; 1s | nothing |
+|  |  |
 
+
+
+Perception Hacks
+
+* use `:active` animations
+* fire calls onMouseDown instead of onClick \(gains a few milliseconds\)
 
 
 
