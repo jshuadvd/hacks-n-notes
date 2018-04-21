@@ -27,7 +27,7 @@ Keep users active.
 
 ### Perception Hacks
 
-* fire calls onMouseDown instead of onClick \(gains 100-150ms\)
+* fire calls onMouseDown instead of onClick/touchStart \(gains 100-150ms\). Cancel on touchmove
 * use `:active` animations. They encourage the user to hold the click longer.
 
 
