@@ -18,3 +18,9 @@ Takes about 1 second to transition to passive state.
 
 Keep users active.
 
+### Wait indicators
+
+
+
+
+
