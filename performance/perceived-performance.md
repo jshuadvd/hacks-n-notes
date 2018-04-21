@@ -6,5 +6,15 @@
 >
 > – Steve Seow, Microsoft
 
+Shoot for 30% speedup.
+
+## Active phase vs Passive phase
+
+> Humans tend to overestimate passive time by 36%
+>
+> – Richard Larson, MIT
+
+
+
 
 
