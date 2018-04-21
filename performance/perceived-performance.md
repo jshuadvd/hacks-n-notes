@@ -25,12 +25,10 @@ Keep users active.
 | &lt; 1s | nothing |
 |  |  |
 
-
-
 ### Perception Hacks
 
-* use `:active` animations
-* fire calls onMouseDown instead of onClick \(gains a few milliseconds\)
+* fire calls onMouseDown instead of onClick \(gains 100-150ms\)
+* use `:active` animations. They encourage the user to hold the click longer.
 
 
 
