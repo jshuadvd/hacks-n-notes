@@ -33,7 +33,7 @@ You start to lose people from 1 - 4s of passive state.
 
 * use optimistic updates on AJAX
 * fire calls onMouseDown instead of onClick/touchStart \(gains 100-150ms\). Cancel on touchmove
-* use `:active` animations. They encourage the user to hold the click longer.
+* use `:active` and `:hover` animations. They encourage the user slow down and to hold the click longer.
 
 ### Progress bars
 
