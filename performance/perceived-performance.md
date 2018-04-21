@@ -18,18 +18,27 @@ Takes about 1 second to transition to passive state.
 
 Keep users active.
 
+You start to lose people from 1 - 4s of passive state.
+
 ### Wait indicators
 
 | wait time | action |
 | :--- | :--- |
 | &lt; 1s | nothing |
-|  |  |
+| 1 - 2s | loading spinner |
+| 2s+ | progress bar |
 
 ### Perception Hacks
 
 * use optimistic updates on AJAX
 * fire calls onMouseDown instead of onClick/touchStart \(gains 100-150ms\). Cancel on touchmove
 * use `:active` animations. They encourage the user to hold the click longer.
+
+
+
+### Progress bars
+
+* Use quick bands animation
 
 
 
