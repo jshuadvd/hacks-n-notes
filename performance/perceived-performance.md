@@ -68,10 +68,7 @@ function setPerformanceScalar(observed, expected) {
 Examples:
 
 * Game devs like Duke Nukem that require user to shoot a door from a distance before opening it. Hinting the game to proactively upload the next level.
-
-
-
-
+* In a login screen, start loading the dashboard JS bundle as soon as the user starts typing their username.
 
 
 
