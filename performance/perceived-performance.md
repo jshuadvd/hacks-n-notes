@@ -16,5 +16,5 @@ Shoot for 30% speedup.
 
 Takes about 1 second to transition to passive state.
 
-
+Keep users active.
 
