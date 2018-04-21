@@ -61,5 +61,11 @@ function setPerformanceScalar(observed, expected) {
 }
 ```
 
+### Predictive Loading
+
+> React as soon as the user signals intent.
+
+
+
 
 
