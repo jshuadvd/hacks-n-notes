@@ -65,6 +65,12 @@ function setPerformanceScalar(observed, expected) {
 
 > React as soon as the user signals intent.
 
+Examples:
+
+* Game devs like Duke Nukem that require user to shoot a door from a distance before opening it. Hinting the game to proactively upload the next level.
+
+
+
 
 
 
