@@ -38,7 +38,7 @@
 * VR: [https://facebook.github.io/react-vr/](https://facebook.github.io/react-vr/)
 * Windows: [https://github.com/Microsoft/react-native-windows](https://github.com/Microsoft/react-native-windows)
 * Word: [https://github.com/nitin42/redocx](https://github.com/nitin42/redocx)
-* why-did-you-update: https://github.com/maicki/why-did-you-update - to detect unnecessary rendering
+* why-did-you-update: [https://github.com/maicki/why-did-you-update](https://github.com/maicki/why-did-you-update) - to detect unnecessary rendering
 
 ## State management
 
