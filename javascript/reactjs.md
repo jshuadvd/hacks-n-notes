@@ -23,6 +23,7 @@
 * 3d: [https://github.com/Izzimach/react-three](https://github.com/Izzimach/react-three)
 * AR: [https://github.com/HippoAR/react-native-arkit](https://github.com/HippoAR/react-native-arkit)
 * Bit: [https://bitsrc.io/](https://bitsrc.io/) - Share components between apps
+* Circle https://github.com/zzarcon/react-circle - Circular progress bar. Like a ring.
 * Hardware: [https://github.com/iamdustan/react-hardware](https://github.com/iamdustan/react-hardware)
 * Keynote: [https://twitter.com/nishb1/status/913744410537537536](https://twitter.com/nishb1/status/913744410537537536)
 * Linux \(Qt\): [https://github.com/status-im/react-native-desktop](https://github.com/status-im/react-native-desktop)
