@@ -73,33 +73,33 @@ Parallelize as much as possible to be quicker
 * shared array buffers
 * WebAssembly + React
 
-
-
 ## PWA
 
-cost of loading
-
-[The Web App  Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
-
-[The Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
-
-[The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
-
-eliminate unused code
-
-traced svg \(sharp\) from Gatsby
-
-lazyload img -&gt; use mini versions of img so it looks blurry as a placeholder
-
-uglify.js to remove unused code
-
-webpack tree shaking
-
-webpack bundle analyzer
-
-npm `sw-precache` and `sw-toolbox`
+* cost of loading
+* [The Web App  Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
+* [The Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+* [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
+* eliminate unused code
+* traced svg \(sharp\) from Gatsby
+* lazyload img -&gt; use mini versions of img so it looks blurry as a placeholder
+* uglify.js to remove unused code
+* webpack tree shaking
+* webpack bundle analyzer
+* npm `sw-precache` and `sw-toolbox`
 
 
+
+## Simon Hearne
+
+sitespect for ABTest
+
+`timinig-Allow-Origin` is required for Resource Timing
+
+[third-party-cpu-abuser](https://github.com/jpvincent/3rd-party-cpu-abuser) 3rd party vendor uses a lot of CPU
+
+webpagetest querystring data=true returns json
+
+[third-party-impact](https://github.com/simonhearne/third-party-impact)
 
 
 
