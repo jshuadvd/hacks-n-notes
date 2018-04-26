@@ -18,12 +18,12 @@
 
 * [emerging patterns](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f) - Context, HOC, & Render props
 
-## React Tools
+## React Libraries
 
-* 3d: [https://github.com/Izzimach/react-three](https://github.com/Izzimach/react-three)
+* [react-three](https://github.com/Izzimach/react-three)
 * AR: [https://github.com/HippoAR/react-native-arkit](https://github.com/HippoAR/react-native-arkit)
 * Bit: [https://bitsrc.io/](https://bitsrc.io/) - Share components between apps
-* Circle https://github.com/zzarcon/react-circle - Circular progress bar. Like a ring.
+* [react-circle](https://github.com/zzarcon/react-circle)  - Circular progress bar. Like a ring.
 * Hardware: [https://github.com/iamdustan/react-hardware](https://github.com/iamdustan/react-hardware)
 * Keynote: [https://twitter.com/nishb1/status/913744410537537536](https://twitter.com/nishb1/status/913744410537537536)
 * Linux \(Qt\): [https://github.com/status-im/react-native-desktop](https://github.com/status-im/react-native-desktop)
@@ -40,6 +40,10 @@
 * Windows: [https://github.com/Microsoft/react-native-windows](https://github.com/Microsoft/react-native-windows)
 * Word: [https://github.com/nitin42/redocx](https://github.com/nitin42/redocx)
 * why-did-you-update: [https://github.com/maicki/why-did-you-update](https://github.com/maicki/why-did-you-update) - to detect unnecessary rendering
+
+### Data viz
+
+[uber d3](https://github.com/uber/react-vis-force)
 
 ## State management
 
