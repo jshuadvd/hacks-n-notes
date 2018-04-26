@@ -20,13 +20,15 @@
 
 ## React Libraries
 
-* [react-three](https://github.com/Izzimach/react-three)
-* Bit: [https://bitsrc.io/](https://bitsrc.io/) - Share components between apps
-* Keynote: [https://twitter.com/nishb1/status/913744410537537536](https://twitter.com/nishb1/status/913744410537537536)
-* Markdown: [react-markdown](https://github.com/rexxars/react-markdown)
-* Pdf: [https://github.com/diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-* Smooth Drag and Drop: [https://github.com/kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
-* Word: [https://github.com/nitin42/redocx](https://github.com/nitin42/redocx)
+Bit: [https://bitsrc.io/](https://bitsrc.io/) - Share components between apps
+
+Keynote: [https://twitter.com/nishb1/status/913744410537537536](https://twitter.com/nishb1/status/913744410537537536)
+
+Smooth Drag and Drop: [https://github.com/kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
+
+#### 3D
+
+* [react-three](#)
 
 #### Animation
 
@@ -39,6 +41,12 @@
 * [material ui](http://www.material-ui.com)
 * [23 libraries](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42)
 * [grommet](http://grommet.io/)
+
+#### Conversion
+
+* [react-markdown](https://github.com/rexxars/react-markdown)
+* [react-pdf](https://github.com/diegomura/react-pdf)
+* [redocx](https://github.com/nitin42/redocx) - Word
 
 #### Data viz
 
@@ -63,6 +71,10 @@
 
 * [react-blessed](https://github.com/Yomguithereal/react-blessed) - Shell consoles
 * [react-blessed-hot-motion](https://github.com/gaearon/react-blessed-hot-motion) - Shell animation
+
+#### Util
+
+* [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - Drag and Drop
 
 ## State management
 
