@@ -7,7 +7,7 @@
 
 ## SVG icons
 
-[SVG icons - cuadraman codepen](https://cuadraman/LGoXwz)
+* [SVG icons - cuadraman codepen](https://cuadraman/LGoXwz)
 
 ## ReactJS Native
 
@@ -25,8 +25,6 @@
 * Keynote: [https://twitter.com/nishb1/status/913744410537537536](https://twitter.com/nishb1/status/913744410537537536)
 * Markdown: [react-markdown](https://github.com/rexxars/react-markdown)
 * Pdf: [https://github.com/diegomura/react-pdf](https://github.com/diegomura/react-pdf)
-* Shell consoles: [https://github.com/Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed)
-* Shell animation: [https://github.com/gaearon/react-blessed-hot-motion](https://github.com/gaearon/react-blessed-hot-motion)
 * Smooth Drag and Drop: [https://github.com/kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
 * Word: [https://github.com/nitin42/redocx](https://github.com/nitin42/redocx)
 
@@ -52,7 +50,7 @@
 
 #### Platform wrappers
 
-* Hardware: [react-hardware](https://github.com/iamdustan/react-hardware)
+* [react-hardware](https://github.com/iamdustan/react-hardware) - Hardware
 * [Linux \(Qt\)](https://github.com/status-im/react-native-desktop)
 * [react-native-macos](#) - Mac OS
 * [react-sketchapp](http://airbnb.io/react-sketchapp/)
@@ -61,11 +59,14 @@
 * [react-vr](https://facebook.github.io/react-vr/)
 * [react-native-windows](https://github.com/Microsoft/react-native-windows)
 
+#### Shell
+
+* [react-blessed](https://github.com/Yomguithereal/react-blessed) - Shell consoles
+* [react-blessed-hot-motion](https://github.com/gaearon/react-blessed-hot-motion) - Shell animation
+
 ## State management
 
 * [Almin](https://almin.js.org/) - CQRS for React
-
-
 
 
 
