@@ -75,3 +75,31 @@ Parallelize as much as possible to be quicker
 
 
 
+## PWA
+
+cost of loading
+
+[The Web App  Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
+
+[The Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+
+[The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
+
+eliminate unused code
+
+traced svg \(sharp\) from Gatsby
+
+lazyload img -&gt; use mini versions of img so it looks blurry as a placeholder
+
+uglify.js to remove unused code
+
+webpack tree shaking
+
+webpack bundle analyzer
+
+npm `sw-precache` and `sw-toolbox`
+
+
+
+
+
