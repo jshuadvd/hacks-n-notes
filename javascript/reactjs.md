@@ -24,8 +24,6 @@ Bit: [https://bitsrc.io/](https://bitsrc.io/) - Share components between apps
 
 Keynote: [https://twitter.com/nishb1/status/913744410537537536](https://twitter.com/nishb1/status/913744410537537536)
 
-Smooth Drag and Drop: [https://github.com/kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)
-
 #### 3D
 
 * [react-three](#)
