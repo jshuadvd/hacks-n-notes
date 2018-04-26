@@ -73,7 +73,7 @@ Parallelize as much as possible to be quicker
 * shared array buffers
 * WebAssembly + React
 
-## PWA
+## PWA - [slides](https://jlengstorf.github.io/presentations/progressive-web-apps/slides/#/)
 
 * cost of loading
 * [The Web App  Manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
@@ -87,8 +87,6 @@ Parallelize as much as possible to be quicker
 * webpack bundle analyzer
 * npm `sw-precache` and `sw-toolbox`
 
-
-
 ## Simon Hearne
 
 sitespect for ABTest
@@ -101,5 +99,25 @@ webpagetest querystring data=true returns json
 
 [third-party-impact](https://github.com/simonhearne/third-party-impact)
 
+RequestMap
 
+Akamai mPulse
+
+https://report-uri.com/
+
+CSP report-only
+
+catchpoint.com to analyze third party
+
+CSP strict dynamic
+
+cryptojacking
+
+github mikewest
+
+perfplanet service workers
+
+google-webfonts-helper
+
+proxy third party thorough your CDN
 
