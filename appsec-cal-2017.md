@@ -140,8 +140,6 @@ watch out for cdn vulnerabilities
 
 [http://cto-security-checklist.sqreen.io](http://cto-security-checklist.sqreen.io/)
 
-
-
 ## bad bots
 
 Tin Zaw
@@ -182,5 +180,29 @@ counter measures
 
 
 
+## Web security
 
+w3c subresource integrity SRI
+
+[http://retirejs.github.io/retire.js/](http://retirejs.github.io/retire.js/)
+
+[https://nodesecurity.io](https://nodesecurity.io/)
+
+CSP
+
+malicious browser extensions
+
+Man-in the browser attack
+
+runtime application self protectionRASP
+
+DOM anti tampering
+
+polymorphic java script
+
+etc/hosts point local to the target and run a downloaded copy of the code
+
+poisonjs de obfuscation
+
+[https://tampermonkey.net](https://tampermonkey.net/)
 
