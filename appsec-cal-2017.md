@@ -120,8 +120,6 @@ have at least two pen testing outsourcing teams so you hear two opinions in case
 
 when finding an issue report it and offer a solution and help
 
-
-
 ## Brent Johnson
 
 @ndm Neil
@@ -141,4 +139,48 @@ watch out for cdn vulnerabilities
 [https://medium.com/starting-up-security/starting-up-security-87839ab21bae\#.fqs0cvjn9](https://medium.com/starting-up-security/starting-up-security-87839ab21bae#.fqs0cvjn9)
 
 [http://cto-security-checklist.sqreen.io](http://cto-security-checklist.sqreen.io/)
+
+
+
+## bad bots
+
+Tin Zaw
+
+from verizon
+
+[owasp.org](http://owasp.org/)
+
+OAT - owasp automated threats
+
+OWASP 20
+
+there is a handbook
+
+[https://www.owasp.org/index.php/OWASP\_Automated\_Threats\_to\_Web\_Applications](https://www.owasp.org/index.php/OWASP_Automated_Threats_to_Web_Applications)
+
+credential cracking
+
+credential stuffing
+
+rate limit with ip address and fingerprint
+
+have elastic capacity
+
+#### credit card abuse
+
+carding - stolen cc validation
+
+cardcracking
+
+cashing out
+
+scalping - bots buy faster than humans like Nike shoes or comic con tickets
+
+sniping - to get the best bids
+
+counter measures
+
+
+
+
 
