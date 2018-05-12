@@ -7,6 +7,7 @@
 * PDF export
 * Symbol organizer
 * Anima - layout helper
+* Map Generator
 
 
 
