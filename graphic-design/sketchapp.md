@@ -2,13 +2,15 @@
 
 ## Plugins
 
-* Sketchpacks
+* Anima - layout helper
+* Dynamic Button - to create buttons from text
 * runner - to run commands
 * PDF export
-* Symbol organizer
-* Anima - layout helper
 * Map Generator
-* Dynamic Button
+* Sketchpacks - to install plugins
+* Symbol organizer
+
+
 
 
 
