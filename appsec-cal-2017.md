@@ -204,8 +204,6 @@ poisonjs de obfuscation
 
 [https://tampermonkey.net](https://tampermonkey.net/)
 
-
-
 ## ocsp stapling in the wild
 
 Emily stark
@@ -228,6 +226,37 @@ Dropbox
 
 [https://developers.facebook.com/tools-and-support/](https://developers.facebook.com/tools-and-support/)
 
-  
+
+
+## let's encrypt
+
+Jilian karner
+
+https is Auth and encryption
+
+[https://https.cio.gov/](https://https.cio.gov/)
+
+[https://letsencrypt.org](https://letsencrypt.org/)
+
+[https://github.com/letsencrypt](https://github.com/letsencrypt)
+
+HSM hardware security models
+
+root HSM - locked away. princess in the castle.
+
+intermediate HSM - signs all the certs
+
+developers can't deploy to prod
+
+ops can't merge code
+
+shared logs and metrics
+
+[https://developers.google.com/safe-browsing/](https://developers.google.com/safe-browsing/)
+
+[https://certbot.eff.org](https://certbot.eff.org/)
+
+[https://status.io](https://status.io/)
+
 
 
