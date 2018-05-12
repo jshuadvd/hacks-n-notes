@@ -178,8 +178,6 @@ sniping - to get the best bids
 
 counter measures
 
-
-
 ## Web security
 
 w3c subresource integrity SRI
@@ -205,4 +203,31 @@ etc/hosts point local to the target and run a downloaded copy of the code
 poisonjs de obfuscation
 
 [https://tampermonkey.net](https://tampermonkey.net/)
+
+
+
+## ocsp stapling in the wild
+
+Emily stark
+
+Google Chrome
+
+[emilystark.com](http://emilystark.com/)
+
+estark37
+
+devdatta akhawe
+
+Dropbox
+
+[https://en.m.wikipedia.org/wiki/Online\_Certificate\_Status\_Protocol](https://en.m.wikipedia.org/wiki/Online_Certificate_Status_Protocol)
+
+[https://roughtime.googlesource.com/roughtime](https://roughtime.googlesource.com/roughtime)
+
+[https://is.gd/expect\_staple\_spec](https://is.gd/expect_staple_spec)
+
+[https://developers.facebook.com/tools-and-support/](https://developers.facebook.com/tools-and-support/)
+
+  
+
 
