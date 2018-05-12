@@ -109,6 +109,7 @@
   * [SVG](svg.md)
   * [Virtual Reality](virtual_reality.md)
   * [Graphic Design](graphic-design.md)
+    * [SketchApp](graphic-design/sketchapp.md)
 * [Google Suite](google-suite.md)
 * [Health](health.md)
 * [HTML](html.md)
