@@ -7,10 +7,8 @@
 * runner - to run commands
 * PDF export
 * Map Generator
-* Sketchpacks - to install plugins
+* [Sketchpacks](https://sketchpacks.com/) - to install & publish plugins
 * Symbol organizer
-
-
 
 
 
