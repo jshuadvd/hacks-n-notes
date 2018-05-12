@@ -6,6 +6,7 @@
 * runner - to run commands
 * PDF export
 * Symbol organizer
+* Anima - layout helper
 
 
 
