@@ -226,8 +226,6 @@ Dropbox
 
 [https://developers.facebook.com/tools-and-support/](https://developers.facebook.com/tools-and-support/)
 
-
-
 ## let's encrypt
 
 Jilian karner
@@ -257,6 +255,68 @@ shared logs and metrics
 [https://certbot.eff.org](https://certbot.eff.org/)
 
 [https://status.io](https://status.io/)
+
+
+
+
+
+## AppSec pipelines event driven
+
+Matt tesauro
+
+[Matt.teaauro@owasp.org](mailto:Matt.teaauro@owasp.org)
+
+@matt\_tesauro
+
+the Phoenix project book
+
+[https://stackstorm.com](https://stackstorm.com/)
+
+define false positive
+
+automate yourself out of the job in order to scale
+
+build a chat bot to help you answer questions from developers
+
+integrate alerts in slack
+
+expand the devops pipeline with AppSec pipeline
+
+nikto docker
+
+[https://hub.docker.com/r/frapsoft/nikto/](https://hub.docker.com/r/frapsoft/nikto/)
+
+docker swarm
+
+zap docker
+
+[https://blog.mozilla.org/webqa/2016/05/11/docker-owasp-zap-part-one/](https://blog.mozilla.org/webqa/2016/05/11/docker-owasp-zap-part-one/)
+
+chat bots can also tell devs when a code merge fixes a bug in backlog
+
+owasp defect dojo
+
+[https://www.owasp.org/index.php/OWASP\_DefectDojo\_Project](https://www.owasp.org/index.php/OWASP_DefectDojo_Project)
+
+[https://www.appsecpipeline.org](https://www.appsecpipeline.org/)
+
+[https://github.com/mtesauro](https://github.com/mtesauro)
+
+[https://github.com/aaronweaver](https://github.com/aaronweaver)
+
+
+
+Apps parringSPA
+
+document APIs
+
+[https://apiblueprint.org](https://apiblueprint.org/)
+
+[manvswebapp.com](http://manvswebapp.com/)
+
+@dan\_kuykendall
+
+
 
 
 
