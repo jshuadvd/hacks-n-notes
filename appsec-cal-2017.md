@@ -45,14 +45,14 @@ HPKP \(don’t work very well with letsencrypt\)
 certs should support SCT \(timestamps\)
 
 \(coming soon\)  
-TLS 1.3   
+TLS 1.3  
 CAA records - to whitelist which Cert Auth can issue certs for your domain
 
 [https://twitter.com/techsolidarity](https://twitter.com/techsolidarity)
 
 [https://github.com/trailofbits/algo](https://github.com/trailofbits/algo) - Algo VPN. doesn’t need client software installed. supports macOS/linux
 
-DNSCrypt   
+DNSCrypt  
 brew install dnscrypt-proxy —with-plugins  
 sudo brew services start dnscrypt-proxy \# change dns resolver to 127.0.0.1  
 test with [https://dnsleaktest.com/](https://dnsleaktest.com/)
@@ -79,8 +79,6 @@ test with [https://dnsleaktest.com/](https://dnsleaktest.com/)
 * add AI in security tools 
 * [https://packetstormsecurity.com](https://packetstormsecurity.com)
 * deception as defense 
-
-
 
 ## Gary Mcgraw
 
@@ -123,4 +121,24 @@ have at least two pen testing outsourcing teams so you hear two opinions in case
 when finding an issue report it and offer a solution and help
 
 
+
+## Brent Johnson
+
+@ndm Neil
+
+localstorage with csp can be more effective against csurf than cookies
+
+functions that generate html risk xss
+
+build apps with security in mind since the beginning
+
+research http headers
+
+separate code and data
+
+watch out for cdn vulnerabilities
+
+[https://medium.com/starting-up-security/starting-up-security-87839ab21bae\#.fqs0cvjn9](https://medium.com/starting-up-security/starting-up-security-87839ab21bae#.fqs0cvjn9)
+
+[http://cto-security-checklist.sqreen.io](http://cto-security-checklist.sqreen.io/)
 
