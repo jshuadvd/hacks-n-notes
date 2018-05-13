@@ -3,27 +3,31 @@
 ## Extensions
 
 1. atom one light theme
-1. auto Import
-1. auto Rename Tag
-1. auto-close-tag
-1. bookmarks
-1. docker
-1. editorConfig
-1. eslint
-1. gitLens
-1. javaScript (ES6) snippets
-1. markdown Preview Enhanced
-1. npm
-1. npm intellisense
-1. partial Diff
-1. path Autocomplete
-1. prettier
-1. quokka
-1. simple React Snippets
-1. snapshot-tools
-1. sort lines
-1. styled-jsx Language Server
-1. vim
-1. vscode-styled-jsx
-1. wallaby
+2. auto Import
+3. auto Rename Tag
+4. auto-close-tag
+5. bookmarks
+6. docker
+7. editorConfig
+8. eslint
+9. gitLens
+10. indenticator
+11. javaScript \(ES6\) snippets
+12. markdown Preview Enhanced
+13. npm
+14. npm intellisense
+15. partial Diff
+16. path Autocomplete
+17. prettier
+18. quokka
+19. simple React Snippets
+20. snapshot-tools
+21. sort lines
+22. styled-jsx Language Server
+23. vim
+24. vscode icons
+25. vscode-styled-jsx
+26. wallaby
+
+
 
