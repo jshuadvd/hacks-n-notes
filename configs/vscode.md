@@ -20,14 +20,15 @@
 16. path Autocomplete
 17. prettier
 18. quokka
-19. simple React Snippets
-20. snapshot-tools
-21. sort lines
-22. styled-jsx Language Server
-23. vim
-24. vscode icons
-25. vscode-styled-jsx
-26. wallaby
+19. settings sync
+20. simple React Snippets
+21. snapshot-tools
+22. sort lines
+23. styled-jsx Language Server
+24. vim
+25. vscode icons
+26. vscode-styled-jsx
+27. wallaby
 
 
 
