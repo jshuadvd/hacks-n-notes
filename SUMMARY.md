@@ -111,7 +111,6 @@
   * [Graphic Design](graphic-design.md)
     * [SketchApp](graphic-design/sketchapp.md)
 * [Google Suite](google-suite.md)
-* [Health](health.md)
 * [HTML](html.md)
   * [Head](head.md)
 * [Internet Marketing](internet_marketing.md)
