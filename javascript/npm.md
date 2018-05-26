@@ -36,6 +36,7 @@
 | [tesseract](https://github.com/naptha/tesseract.js) | OCR in 62 languages |
 | ua-parser | to parse UA Clients |
 | [webtorrent](https://github.com/webtorrent/webtorrent) | torrents on the browser |
+| [yup](https://www.npmjs.com/package/yup) | form object validation |
 
 ## How to write a UMD module
 
