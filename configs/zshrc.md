@@ -1,13 +1,15 @@
 # Oh-my-zshell config file
 
-## File name
+## ~/.zshrc
 
-`.zshrc`
-
-## File content
+[Theme powerlevel9k](https://github.com/bhilburn/powerlevel9k)
 
 ```sh
-plugins=(git vi-mode)
+plugins=(
+  git
+  npm
+  vi-mode
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -17,10 +19,13 @@ source $ZSH/oh-my-zsh.sh
  else
    export EDITOR='vim'
  fi
- 
+
 # aliases
 alias npmr="npm run"
+alias zs="source ~/.zshrc"
 
+# include Z
+. /usr/local/etc/profile.d/z.sh
 
 # ctrl-r starts searching history backward
 bindkey '^r' history-incremental-search-backward
@@ -29,15 +34,15 @@ bindkey '^N' down-history
 
 export NVM_DIR="$HOME/.nvm"
   . "$(brew --prefix nvm)/nvm.sh"
-  
+
 # open terminal in code directory
 cd /Users/jorge/Code
 
-export PATH="$PATH:$HOME/.yarn/bin"
-
-# to be able to run local npm packages as global
-# eg. `gulp`  instead of `./node_modules/.bin/gulp`
-export PATH="$PATH:$HOME/.yarn/bin"
+# Power Level theme - Settings
+ZSH_THEME="powerlevel9k/powerlevel9k"
+POWERLEVEL9K_MODE='nerdfont-complete'
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon dir rbenv vcs)
+POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(vi_mode status root_indicator background_jobs history time)
 ```
 
 Then append [npm completion](https://docs.npmjs.com/cli/completion) to have autocomplete.
