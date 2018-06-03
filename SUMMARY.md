@@ -186,6 +186,7 @@
   * [HomeBrew](shell/homebrew.md)
   * [Linux CLI](shell/linux-cli.md)
   * [tmux](shell/tmux.md)
+  * [Utils](shell/utils.md)
 * [Talks](javascript/node-js/talks.md)
   * [2016 Nov](javascript/node-js/2016_nov.md)
     * [2016 Nov 22](javascript/node-js/2016_nov_22.md)
