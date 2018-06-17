@@ -90,6 +90,7 @@
   * RDBBMS
     * [PostgreSQL](databases/postgresql.md)
 * [Data Science](data-science.md)
+  * [Visualization](data-science/visualization.md)
 * [DevOps](devops.md)
   * [AWS](aws.md)
   * [Docker](docker.md)
