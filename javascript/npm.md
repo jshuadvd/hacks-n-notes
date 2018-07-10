@@ -24,7 +24,7 @@
 | [inquirer](https://github.com/sboudrias/Inquirer.js) | CLI GUI tools |
 | [jimp](https://github.com/oliver-moran/jimp) | image processor for nodejs |
 | [mathJS](http://mathjs.org/) | evaluate mathematical expressions |
-| node-uuid | generate UUID |
+| [uuid](https://github.com/kelektiv/node-uuid) | generate UUID |
 | [npm-license](https://github.com/AceMetrix/npm-license) | generates a flat list of npm modules and their licenses |
 | [oy](https://github.com/revivek/oy) | E-mail templates with React |
 | [progress](https://github.com/visionmedia/node-progress) | Progress bar for CLI |
