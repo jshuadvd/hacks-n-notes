@@ -7,30 +7,30 @@
 
 * [Auto Text Expander](https://github.com/carlinyuen/ChromeAutoTextExpander)
 * OneTab
+* JWT.io
 
 ## MacOS
 
 ### Applications
 
 * 1Password
-* Atom
+* Bear
+
 * [Blisk](https://blisk.io)
 * Brave - ad free browser
-* Caffeine - keeps computer awake
-* [Charles Proxy](https://www.charlesproxy.com)
+
 * [CheatSheet](https://cheatsheetapp.com/LandingCheatSheet/)
 * Chrome
-* [Duet](https://www.duetdisplay.com/) - turns ipad into display
+
 * Dropbox
-* Flux
-* Gifox - record animated gifs
-* [Hemmingway](http://www.hemingwayapp.com/desktop.html) writing tool
+
+* Giphy - record animated gifs
+
 * iTerm
-* Sketch
+
 * Skitch
-* Skype
-* [writefull](https://chrome.writefullapp.com/) - writer tool
-* WiFi Explorer
+
+
 
 ## Websites
 
