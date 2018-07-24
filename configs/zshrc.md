@@ -9,6 +9,7 @@ plugins=(
   git
   npm
   vi-mode
+  jira
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -31,13 +32,9 @@ export NVM_DIR="$HOME/.nvm"
 # open terminal in code directory
 cd /Users/jorge/Code
 
-# Power Level theme - Settings
-ZSH_THEME="powerlevel9k/powerlevel9k"
-POWERLEVEL9K_MODE='nerdfont-complete'
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon dir rbenv vcs)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(vi_mode status root_indicator background_jobs history time)
-
-# Or for hyper-star-wars using Hyper https://github.com/klauscfhq/hyper-star-wars/blob/master/readme.md
+# Jira plugin
+export JIRA_URL="https://obsidiansec.atlassian.net"
+export JIRA_NAME="Jorge"
 ```
 
 ### Themes
@@ -57,8 +54,6 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(vi_mode status root_indicator background_job
 #### hyper star wars \(using Hyper\)
 
 > [hyper-star-wars](https://github.com/klauscfhq/hyper-star-wars/blob/master/readme.md)
-
-
 
 ##### ~/.zshrc
 
