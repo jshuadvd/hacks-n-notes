@@ -2,7 +2,7 @@
 
 ## ~/.zshrc
 
-[Theme powerlevel9k](https://github.com/bhilburn/powerlevel9k)
+
 
 ```sh
 plugins=(
@@ -37,9 +37,15 @@ export JIRA_URL="https://obsidiansec.atlassian.net"
 export JIRA_NAME="Jorge"
 ```
 
+### Plugins
+
+* [jira](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/jira)
+
 ### Themes
 
 #### Power Level Theme
+
+[Theme powerlevel9k](https://legacy.gitbook.com/book/vasco3/hacks-n-notes/edit#)
 
 ```bash
 # Power Level theme - Settings
