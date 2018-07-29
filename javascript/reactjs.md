@@ -9,10 +9,7 @@
 
 * [SVG icons - cuadraman codepen](https://cuadraman/LGoXwz)
 
-## ReactJS Native
 
-* [AppCenter](https://appcenter.ms/) - to deploy native apps
-* [Exponent IDE](https://getexponent.com)
 
 ## Patterns
 
